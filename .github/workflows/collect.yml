@@ -1,0 +1,45 @@
+name: Collect scenario master data
+
+on:
+  schedule:
+    - cron: '0 0,2,4,6,8,10,12,14,16,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scenario-master-db-auto
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect public scenario metadata
+        env:
+          SCENARIO_DB_USER_AGENT: scenario-master-db-auto/1.0 GitHubActions
+        run: python src/collector.py --batch-size 10
+
+      - name: Commit and push database changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No database changes."
+          else
+            git commit -m "Update scenario master database"
+            git push
+          fi
