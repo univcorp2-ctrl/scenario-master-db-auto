@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: '0 0,2,4,6,8,10,12,14,16,18 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/collect.yml'
+      - 'src/**'
+      - 'tests/**'
+      - 'requirements.txt'
 
 permissions:
   contents: write
@@ -13,7 +20,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  collect-and-generate:
+  collect-generate-test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,7 +31,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run unit tests
+        run: pytest
 
       - name: Collect public scenario metadata
         env:
@@ -34,15 +45,18 @@ jobs:
       - name: Generate original work concepts from database
         run: python src/generator.py --count 3
 
-      - name: Commit and push database and generated works
+      - name: Write healthcheck and latest output report
+        run: python src/healthcheck.py --max-age-hours 36
+
+      - name: Commit and push database, generated works, and reports
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ generated/
+          git add data/ generated/ health/
           if git diff --cached --quiet; then
-            echo "No database or generated work changes."
+            echo "No database, generated work, or healthcheck changes."
           else
-            git commit -m "Update scenario database and generated original works"
+            git commit -m "Update scenario database, generated works, and health report"
             git push
           fi
