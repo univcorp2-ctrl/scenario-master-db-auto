@@ -1,0 +1,26 @@
+{
+  "by_medium": {
+    "manga": 1,
+    "novel": 1,
+    "series": 1
+  },
+  "generated_at": "2026-05-13T15:33:58+00:00",
+  "latest": [
+    {
+      "generated_at": "2026-05-13T15:33:58+00:00",
+      "title_ja": "透明な時計塔",
+      "work_id": "orig:20260513153358:14ba71e11490580f032e"
+    },
+    {
+      "generated_at": "2026-05-13T15:33:58+00:00",
+      "title_ja": "忘れられた放課後の地図",
+      "work_id": "orig:20260513153358:2517529572f06edbbc7e"
+    },
+    {
+      "generated_at": "2026-05-13T15:33:58+00:00",
+      "title_ja": "忘れられた放課後の地図",
+      "work_id": "orig:20260513153358:f66069ff1153674ef76b"
+    }
+  ],
+  "total_generated_works": 3
+}
