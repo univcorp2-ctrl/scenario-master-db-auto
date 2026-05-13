@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  collect:
+  collect-and-generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,15 +31,18 @@ jobs:
           SCENARIO_DB_USER_AGENT: scenario-master-db-auto/1.0 GitHubActions
         run: python src/collector.py --batch-size 10
 
-      - name: Commit and push database changes
+      - name: Generate original work concepts from database
+        run: python src/generator.py --count 3
+
+      - name: Commit and push database and generated works
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ generated/
           if git diff --cached --quiet; then
-            echo "No database changes."
+            echo "No database or generated work changes."
           else
-            git commit -m "Update scenario master database"
+            git commit -m "Update scenario database and generated original works"
             git push
           fi
