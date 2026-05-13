@@ -1,11 +1,27 @@
 {
   "by_medium": {
-    "manga": 4,
-    "novel": 1,
+    "film": 1,
+    "manga": 5,
+    "novel": 2,
     "series": 1
   },
-  "generated_at": "2026-05-13T16:16:07+00:00",
+  "generated_at": "2026-05-13T19:27:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-13T19:27:49+00:00",
+      "title_ja": "最後の放課後の残響",
+      "work_id": "orig:20260513192749:6c165a598f3c910b52e5"
+    },
+    {
+      "generated_at": "2026-05-13T19:27:49+00:00",
+      "title_ja": "逆さまの放課後の迷宮",
+      "work_id": "orig:20260513192749:fae67b223da51f74f6f2"
+    },
+    {
+      "generated_at": "2026-05-13T19:27:49+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260513192749:9ac05882f9851f85f978"
+    },
     {
       "generated_at": "2026-05-13T16:16:07+00:00",
       "title_ja": "逆さまの観測者",
@@ -37,5 +53,5 @@
       "work_id": "orig:20260513153358:f66069ff1153674ef76b"
     }
   ],
-  "total_generated_works": 6
+  "total_generated_works": 9
 }
