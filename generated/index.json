@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 1,
-    "manga": 5,
+    "manga": 8,
     "novel": 2,
     "series": 1
   },
-  "generated_at": "2026-05-13T19:27:49+00:00",
+  "generated_at": "2026-05-14T01:52:31+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-14T01:52:31+00:00",
+      "title_ja": "忘れられた放課後の交渉人",
+      "work_id": "orig:20260514015231:68ed0a433dc6ff117e54"
+    },
+    {
+      "generated_at": "2026-05-14T01:52:31+00:00",
+      "title_ja": "透明な灯台",
+      "work_id": "orig:20260514015231:15cb03a4487caf7bdb7e"
+    },
+    {
+      "generated_at": "2026-05-14T01:52:31+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260514015231:46aeda97f84e6fea991b"
+    },
     {
       "generated_at": "2026-05-13T19:27:49+00:00",
       "title_ja": "最後の放課後の残響",
@@ -53,5 +68,5 @@
       "work_id": "orig:20260513153358:f66069ff1153674ef76b"
     }
   ],
-  "total_generated_works": 9
+  "total_generated_works": 12
 }
