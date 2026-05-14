@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 1,
-    "manga": 8,
+    "film": 2,
+    "manga": 10,
     "novel": 2,
     "series": 1
   },
-  "generated_at": "2026-05-14T01:52:31+00:00",
+  "generated_at": "2026-05-14T05:38:52+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-14T05:38:52+00:00",
+      "title_ja": "名前のない記録係",
+      "work_id": "orig:20260514053852:52cef0fa9294838759fe"
+    },
+    {
+      "generated_at": "2026-05-14T05:38:52+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260514053852:5f74292b3608f74a5171"
+    },
+    {
+      "generated_at": "2026-05-14T05:38:52+00:00",
+      "title_ja": "逆さまの調律師",
+      "work_id": "orig:20260514053852:da0afe531e41eadef435"
+    },
     {
       "generated_at": "2026-05-14T01:52:31+00:00",
       "title_ja": "忘れられた放課後の交渉人",
@@ -68,5 +83,5 @@
       "work_id": "orig:20260513153358:f66069ff1153674ef76b"
     }
   ],
-  "total_generated_works": 12
+  "total_generated_works": 15
 }

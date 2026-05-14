@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-14T01:52:32+00:00`
-- Master DB records: `99`
-- Generated concepts: `12`
+- Checked at UTC: `2026-05-14T05:38:53+00:00`
+- Master DB records: `109`
+- Generated concepts: `15`
 
-## 忘れられた放課後の交渉人
+## 名前のない記録係
 
-- Work ID: `orig:20260514015231:68ed0a433dc6ff117e54`
-- Generated at UTC: `2026-05-14T01:52:31+00:00`
+- Work ID: `orig:20260514053852:52cef0fa9294838759fe`
+- Generated at UTC: `2026-05-14T05:38:52+00:00`
 - Medium: `manga`
-- Genre mix: Action, Adventure, Fantasy, Martial Arts
-- Logline: 怪異と行政手続きが共存する辺境の町で、怪異専門の窓口で働く臆病な公務員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 怪異と行政手続きが共存する辺境の町
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
-- Themes: coming of age
+- Genre mix: Action, Adventure, Award Winning, Seinen
+- Logline: 宇宙移民船の中に再現された古い商店街で、敗者の記憶を預かることになった元アスリートが、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: identity, trust and betrayal
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:90531, jikan:manga:70399
+jikan:manga:656, jikan:manga:112370, jikan:manga:44489, jikan:manga:923
