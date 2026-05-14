@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 2,
-    "manga": 10,
+    "manga": 12,
     "novel": 2,
-    "series": 1
+    "series": 2
   },
-  "generated_at": "2026-05-14T05:38:52+00:00",
+  "generated_at": "2026-05-14T08:23:21+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-14T08:23:21+00:00",
+      "title_ja": "透明な放課後の迷宮",
+      "work_id": "orig:20260514082321:4b11eb1f37330b9af538"
+    },
+    {
+      "generated_at": "2026-05-14T08:23:21+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260514082321:dd3aede88c0658b3b925"
+    },
+    {
+      "generated_at": "2026-05-14T08:23:21+00:00",
+      "title_ja": "眠らない放課後の地図",
+      "work_id": "orig:20260514082321:ca79b56159a8f093c629"
+    },
     {
       "generated_at": "2026-05-14T05:38:52+00:00",
       "title_ja": "名前のない記録係",
@@ -83,5 +98,5 @@
       "work_id": "orig:20260513153358:f66069ff1153674ef76b"
     }
   ],
-  "total_generated_works": 15
+  "total_generated_works": 18
 }
