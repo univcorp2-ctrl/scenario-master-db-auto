@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-15T15:54:06+00:00`
-- Master DB records: `187`
-- Generated concepts: `48`
+- Checked at UTC: `2026-05-15T17:18:51+00:00`
+- Master DB records: `191`
+- Generated concepts: `51`
 
-## 透明な交渉人
+## 透明な灯台
 
-- Work ID: `orig:20260515155406:a1e88bedb8b91bdce296`
-- Generated at UTC: `2026-05-15T15:54:06+00:00`
-- Medium: `film`
-- Genre mix: Action, High Stakes Game, Psychological, Seinen
-- Logline: 宇宙移民船の中に再現された古い商店街で、未来の自分から届く失敗報告だけを頼りに動く配達員が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
-- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Work ID: `orig:20260515171851:d734e75347d414ec2bfe`
+- Generated at UTC: `2026-05-15T17:18:51+00:00`
+- Medium: `manga`
+- Genre mix: Seinen, Slice of Life, Action, Shounen
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
 - Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. goal vs obstacleが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:9982
+jikan:manga:137303, jikan:manga:3006

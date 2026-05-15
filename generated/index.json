@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 4,
-    "manga": 38,
+    "film": 5,
+    "manga": 40,
     "novel": 2,
     "series": 4
   },
-  "generated_at": "2026-05-15T15:54:06+00:00",
+  "generated_at": "2026-05-15T17:18:51+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-15T17:18:51+00:00",
+      "title_ja": "透明な灯台",
+      "work_id": "orig:20260515171851:d734e75347d414ec2bfe"
+    },
+    {
+      "generated_at": "2026-05-15T17:18:51+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260515171851:1a3e7194a410edd63267"
+    },
+    {
+      "generated_at": "2026-05-15T17:18:51+00:00",
+      "title_ja": "透明な放課後の交渉人",
+      "work_id": "orig:20260515171851:23c32e209ec94250cffb"
+    },
     {
       "generated_at": "2026-05-15T15:54:06+00:00",
       "title_ja": "透明な交渉人",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-15T01:50:10+00:00",
       "title_ja": "逆さまの灯台",
       "work_id": "orig:20260515015010:67dbebb82fcd777fc3b0"
-    },
-    {
-      "generated_at": "2026-05-15T01:50:10+00:00",
-      "title_ja": "最後の修復士",
-      "work_id": "orig:20260515015010:3255df22920bc8bfd414"
-    },
-    {
-      "generated_at": "2026-05-14T19:25:50+00:00",
-      "title_ja": "月下の修復士",
-      "work_id": "orig:20260514192550:6eced10454b54b2489df"
-    },
-    {
-      "generated_at": "2026-05-14T19:25:50+00:00",
-      "title_ja": "透明な放課後の調律師",
-      "work_id": "orig:20260514192550:1ac0067c9efe20a3ee69"
     }
   ],
-  "total_generated_works": 48
+  "total_generated_works": 51
 }
