@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 3,
-    "manga": 36,
+    "film": 4,
+    "manga": 38,
     "novel": 2,
     "series": 4
   },
-  "generated_at": "2026-05-15T13:22:14+00:00",
+  "generated_at": "2026-05-15T15:54:06+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-15T15:54:06+00:00",
+      "title_ja": "透明な交渉人",
+      "work_id": "orig:20260515155406:a1e88bedb8b91bdce296"
+    },
+    {
+      "generated_at": "2026-05-15T15:54:06+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260515155406:b9955bff924520617aff"
+    },
+    {
+      "generated_at": "2026-05-15T15:54:06+00:00",
+      "title_ja": "忘れられた残響",
+      "work_id": "orig:20260515155406:1353f9c06e6e4949439b"
+    },
     {
       "generated_at": "2026-05-15T13:22:14+00:00",
       "title_ja": "眠らない記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-14T19:25:50+00:00",
       "title_ja": "透明な放課後の調律師",
       "work_id": "orig:20260514192550:1ac0067c9efe20a3ee69"
-    },
-    {
-      "generated_at": "2026-05-14T19:25:50+00:00",
-      "title_ja": "月下の放課後の記録係",
-      "work_id": "orig:20260514192550:1126acee4a8b078b36a6"
-    },
-    {
-      "generated_at": "2026-05-14T16:03:07+00:00",
-      "title_ja": "透明な放課後の逃亡者",
-      "work_id": "orig:20260514160307:e16d441d01ac794e4a37"
-    },
-    {
-      "generated_at": "2026-05-14T16:03:07+00:00",
-      "title_ja": "最後の灯台",
-      "work_id": "orig:20260514160307:2ba961e0cfe437b2fefc"
     }
   ],
-  "total_generated_works": 45
+  "total_generated_works": 48
 }
