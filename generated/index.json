@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 6,
-    "manga": 78,
+    "manga": 81,
     "novel": 4,
     "series": 5
   },
-  "generated_at": "2026-05-17T10:58:24+00:00",
+  "generated_at": "2026-05-17T12:48:17+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-17T12:48:17+00:00",
+      "title_ja": "忘れられた放課後の時計塔",
+      "work_id": "orig:20260517124817:a9276b6d58903ee00b90"
+    },
+    {
+      "generated_at": "2026-05-17T12:48:17+00:00",
+      "title_ja": "最後の放課後の灯台",
+      "work_id": "orig:20260517124817:fda6e4ebd7511fd36ab2"
+    },
+    {
+      "generated_at": "2026-05-17T12:48:17+00:00",
+      "title_ja": "二度目の放課後の地図",
+      "work_id": "orig:20260517124817:a0f6cd9e86445e8956c1"
+    },
     {
       "generated_at": "2026-05-17T10:58:24+00:00",
       "title_ja": "眠らない放課後の修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-16T16:41:56+00:00",
       "title_ja": "眠らない放課後の記録係",
       "work_id": "orig:20260516164156:756758edf0c772f54752"
-    },
-    {
-      "generated_at": "2026-05-16T16:41:56+00:00",
-      "title_ja": "逆さまの放課後の灯台",
-      "work_id": "orig:20260516164156:4984c4d7613dcb9dab46"
-    },
-    {
-      "generated_at": "2026-05-16T14:46:12+00:00",
-      "title_ja": "眠らない交渉人",
-      "work_id": "orig:20260516144612:8ee97f9a00f11f8734f9"
-    },
-    {
-      "generated_at": "2026-05-16T14:46:12+00:00",
-      "title_ja": "眠らない放課後の交渉人",
-      "work_id": "orig:20260516144612:8a7d23b272a14564003f"
     }
   ],
-  "total_generated_works": 93
+  "total_generated_works": 96
 }

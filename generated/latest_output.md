@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-17T10:58:24+00:00`
-- Master DB records: `256`
-- Generated concepts: `93`
+- Checked at UTC: `2026-05-17T12:48:17+00:00`
+- Master DB records: `266`
+- Generated concepts: `96`
 
-## 眠らない放課後の修復士
+## 忘れられた放課後の時計塔
 
-- Work ID: `orig:20260517105824:271005ebb55e9fba866a`
-- Generated at UTC: `2026-05-17T10:58:24+00:00`
+- Work ID: `orig:20260517124817:a9276b6d58903ee00b90`
+- Generated at UTC: `2026-05-17T12:48:17+00:00`
 - Medium: `manga`
-- Genre mix: Romance, School, Shounen
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 過去の選択を一度だけ郵送できる地方都市
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Genre mix: CGDCT, Comedy, School, Slice of Life
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
 - Themes: coming of age
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. relationship/choiceが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:42451
+jikan:manga:85
