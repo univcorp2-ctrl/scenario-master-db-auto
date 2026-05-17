@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 6,
-    "manga": 66,
+    "manga": 69,
     "novel": 4,
     "series": 5
   },
-  "generated_at": "2026-05-16T18:44:37+00:00",
+  "generated_at": "2026-05-17T01:47:01+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-17T01:47:01+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260517014701:3e097e958122a6f548e9"
+    },
+    {
+      "generated_at": "2026-05-17T01:47:01+00:00",
+      "title_ja": "月下の放課後の灯台",
+      "work_id": "orig:20260517014701:552d38985b875e63cf4f"
+    },
+    {
+      "generated_at": "2026-05-17T01:47:01+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260517014701:6d7fb3930e3a8cf9b1a8"
+    },
     {
       "generated_at": "2026-05-16T18:44:37+00:00",
       "title_ja": "逆さまの放課後の観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-16T09:18:17+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260516091817:c0d40e5d6efc49b8f23d"
-    },
-    {
-      "generated_at": "2026-05-16T09:18:17+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260516091817:56c44322bf4a8d1d2cbf"
-    },
-    {
-      "generated_at": "2026-05-16T07:45:05+00:00",
-      "title_ja": "忘れられた調律師",
-      "work_id": "orig:20260516074505:2ce493b334d8205ad9f2"
-    },
-    {
-      "generated_at": "2026-05-16T07:45:05+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260516074505:f9d4f622437cef826aca"
     }
   ],
-  "total_generated_works": 81
+  "total_generated_works": 84
 }
