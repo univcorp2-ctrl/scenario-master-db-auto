@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 6,
-    "manga": 81,
+    "film": 7,
+    "manga": 83,
     "novel": 4,
     "series": 5
   },
-  "generated_at": "2026-05-17T12:48:17+00:00",
+  "generated_at": "2026-05-17T14:48:42+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-17T14:48:42+00:00",
+      "title_ja": "忘れられた灯台",
+      "work_id": "orig:20260517144842:12c556d0a4e628dff42c"
+    },
+    {
+      "generated_at": "2026-05-17T14:48:42+00:00",
+      "title_ja": "透明な放課後の残響",
+      "work_id": "orig:20260517144842:e9bb74849d6dbe194bb2"
+    },
+    {
+      "generated_at": "2026-05-17T14:48:42+00:00",
+      "title_ja": "透明な逃亡者",
+      "work_id": "orig:20260517144842:40c13bec2a8d5ef01889"
+    },
     {
       "generated_at": "2026-05-17T12:48:17+00:00",
       "title_ja": "忘れられた放課後の時計塔",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-16T18:44:37+00:00",
       "title_ja": "忘れられた地図",
       "work_id": "orig:20260516184437:f013537d05e568f8e0c7"
-    },
-    {
-      "generated_at": "2026-05-16T18:44:37+00:00",
-      "title_ja": "忘れられた放課後の記録係",
-      "work_id": "orig:20260516184437:379f9d989c1304f7d7b7"
-    },
-    {
-      "generated_at": "2026-05-16T16:41:56+00:00",
-      "title_ja": "忘れられた放課後の残響",
-      "work_id": "orig:20260516164156:3c1c1928f9873d99c068"
-    },
-    {
-      "generated_at": "2026-05-16T16:41:56+00:00",
-      "title_ja": "眠らない放課後の記録係",
-      "work_id": "orig:20260516164156:756758edf0c772f54752"
     }
   ],
-  "total_generated_works": 96
+  "total_generated_works": 99
 }
