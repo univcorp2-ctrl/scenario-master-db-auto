@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-17T18:48:47+00:00`
-- Master DB records: `280`
-- Generated concepts: `105`
+- Checked at UTC: `2026-05-18T01:56:43+00:00`
+- Master DB records: `284`
+- Generated concepts: `108`
 
-## 透明な証言者たち
+## 逆さまの放課後の交渉人
 
-- Work ID: `orig:20260517184847:51450ff498cb0bcc07ba`
-- Generated at UTC: `2026-05-17T18:48:47+00:00`
+- Work ID: `orig:20260518015643:b420a81664d20e1e2097`
+- Generated at UTC: `2026-05-18T01:56:43+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Fantasy, Action, Adventure
-- Logline: 感情が公共インフラとして数値化される都市で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice
+- Genre mix: Supernatural, Seinen, Fantasy, Romance
+- Logline: 記憶を修理する職人ギルドがある王国で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. survivalが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:2895, jikan:manga:13, jikan:manga:125036, jikan:manga:168586, jikan:manga:98930
+jikan:manga:88639, jikan:manga:4, jikan:manga:148542, jikan:manga:105084, jikan:manga:736
