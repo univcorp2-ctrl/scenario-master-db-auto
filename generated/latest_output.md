@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-19T12:32:58+00:00`
-- Master DB records: `320`
-- Generated concepts: `135`
+- Checked at UTC: `2026-05-19T16:45:57+00:00`
+- Master DB records: `324`
+- Generated concepts: `138`
 
-## 逆さまの調律師
+## 逆さまの観測者
 
-- Work ID: `orig:20260519123258:df79945d1473c1c30e46`
-- Generated at UTC: `2026-05-19T12:32:58+00:00`
-- Medium: `film`
-- Genre mix: Seinen, Childcare, Drama, Fantasy
-- Logline: 失われた物語だけが通貨として流通する群島で、誰からも忘れられる体質を利用して事件を解く学生が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Work ID: `orig:20260519164557:c8bc33a597930b7aeae0`
+- Generated at UTC: `2026-05-19T16:45:57+00:00`
+- Medium: `manga`
+- Genre mix: isekai, Drama, Fantasy, Isekai
+- Logline: 記憶を修理する職人ギルドがある王国で、怪異専門の窓口で働く臆病な公務員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
 - Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. goal vs obstacleが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:40761, jikan:manga:656
+wd:Q22100530, jikan:manga:148234
