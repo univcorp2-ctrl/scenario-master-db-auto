@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-19T01:56:13+00:00`
-- Master DB records: `314`
-- Generated concepts: `126`
+- Checked at UTC: `2026-05-19T05:57:26+00:00`
+- Master DB records: `316`
+- Generated concepts: `129`
 
-## 逆さまの放課後の修復士
+## 透明な調律師
 
-- Work ID: `orig:20260519015613:27ad7450b9538211fc50`
-- Generated at UTC: `2026-05-19T01:56:13+00:00`
+- Work ID: `orig:20260519055726:7ea6a96dbc5acd5ca41a`
+- Generated at UTC: `2026-05-19T05:57:26+00:00`
 - Medium: `manga`
-- Genre mix: action fiction, mecha, military fiction, Action
-- Logline: 感情が公共インフラとして数値化される都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: family bonds, coming of age
+- Genre mix: Action, Adventure, Fantasy, Martial Arts
+- Logline: 夢の記録が裁判証拠になる近未来で、禁じられた物語を修復する若い司書が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 夢の記録が裁判証拠になる近未来
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: identity, trust and betrayal
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、family bondsを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-wd:Q482478, jikan:manga:119161, jikan:manga:8967
+jikan:manga:134744
