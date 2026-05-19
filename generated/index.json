@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 9,
-    "manga": 102,
+    "film": 10,
+    "manga": 104,
     "novel": 5,
     "series": 7
   },
-  "generated_at": "2026-05-18T19:20:23+00:00",
+  "generated_at": "2026-05-19T01:56:13+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-19T01:56:13+00:00",
+      "title_ja": "逆さまの放課後の修復士",
+      "work_id": "orig:20260519015613:27ad7450b9538211fc50"
+    },
+    {
+      "generated_at": "2026-05-19T01:56:13+00:00",
+      "title_ja": "逆さまの修復士",
+      "work_id": "orig:20260519015613:8e462bc777eac2416ca0"
+    },
+    {
+      "generated_at": "2026-05-19T01:56:13+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260519015613:a6f3d231577463579bdc"
+    },
     {
       "generated_at": "2026-05-18T19:20:23+00:00",
       "title_ja": "逆さまの放課後の残響",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-18T01:56:43+00:00",
       "title_ja": "逆さまの放課後の交渉人",
       "work_id": "orig:20260518015643:64a7db7248248485fc54"
-    },
-    {
-      "generated_at": "2026-05-18T01:56:43+00:00",
-      "title_ja": "最後の記録係",
-      "work_id": "orig:20260518015643:4a58053ee99a03dd48b7"
-    },
-    {
-      "generated_at": "2026-05-17T18:48:47+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260517184847:51450ff498cb0bcc07ba"
-    },
-    {
-      "generated_at": "2026-05-17T18:48:47+00:00",
-      "title_ja": "眠らない調律師",
-      "work_id": "orig:20260517184847:9abe8f0e8da017a3e5dc"
     }
   ],
-  "total_generated_works": 123
+  "total_generated_works": 126
 }
