@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 13,
-    "manga": 125,
+    "manga": 127,
     "novel": 6,
-    "series": 9
+    "series": 10
   },
-  "generated_at": "2026-05-20T12:14:28+00:00",
+  "generated_at": "2026-05-20T16:42:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-20T16:42:49+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260520164249:2cd4c4ed26990c5f4ad0"
+    },
+    {
+      "generated_at": "2026-05-20T16:42:49+00:00",
+      "title_ja": "眠らない交渉人",
+      "work_id": "orig:20260520164249:5408146a6bba637d9097"
+    },
+    {
+      "generated_at": "2026-05-20T16:42:49+00:00",
+      "title_ja": "二度目の残響",
+      "work_id": "orig:20260520164249:b72b927024a25d2c3c06"
+    },
     {
       "generated_at": "2026-05-20T12:14:28+00:00",
       "title_ja": "忘れられた放課後の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-19T16:45:57+00:00",
       "title_ja": "忘れられた放課後の迷宮",
       "work_id": "orig:20260519164557:60e79fb6cac09b40baf6"
-    },
-    {
-      "generated_at": "2026-05-19T16:45:57+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260519164557:da5ed29a32f0adc15a17"
-    },
-    {
-      "generated_at": "2026-05-19T12:32:58+00:00",
-      "title_ja": "逆さまの調律師",
-      "work_id": "orig:20260519123258:df79945d1473c1c30e46"
-    },
-    {
-      "generated_at": "2026-05-19T12:32:58+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260519123258:29f27f205b5841dac4cf"
     }
   ],
-  "total_generated_works": 153
+  "total_generated_works": 156
 }
