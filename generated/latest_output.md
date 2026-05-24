@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-24T16:47:04+00:00`
-- Master DB records: `436`
-- Generated concepts: `240`
+- Checked at UTC: `2026-05-24T18:56:41+00:00`
+- Master DB records: `439`
+- Generated concepts: `243`
 
 ## 眠らない証言者たち
 
-- Work ID: `orig:20260524164704:4a0bef6dd23bea2efb85`
-- Generated at UTC: `2026-05-24T16:47:04+00:00`
-- Medium: `film`
-- Genre mix: Historical, Mystery, Seinen, Action
-- Logline: 感情が公共インフラとして数値化される都市で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
+- Work ID: `orig:20260524185641:59a3417a29cf2112e936`
+- Generated at UTC: `2026-05-24T18:56:41+00:00`
+- Medium: `manga`
+- Genre mix: Comedy, Drama, Romance, Action
+- Logline: 記憶を修理する職人ギルドがある王国で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
 - Themes: truth and justice
-- Hook tags: top-ranked manga
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:107562, jikan:manga:114043, wd:Q27863, jikan:manga:1706, jikan:manga:36131
+jikan:manga:113010, jikan:manga:119282, jikan:manga:90810
