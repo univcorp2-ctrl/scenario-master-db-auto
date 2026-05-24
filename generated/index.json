@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 15,
-    "manga": 184,
+    "manga": 187,
     "novel": 16,
     "series": 13
   },
-  "generated_at": "2026-05-24T08:12:38+00:00",
+  "generated_at": "2026-05-24T11:05:45+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-24T11:05:45+00:00",
+      "title_ja": "忘れられた修復士",
+      "work_id": "orig:20260524110545:a69ca4911dcc3cc130f8"
+    },
+    {
+      "generated_at": "2026-05-24T11:05:45+00:00",
+      "title_ja": "二度目の灯台",
+      "work_id": "orig:20260524110545:e794f4de716c5dabfc2d"
+    },
+    {
+      "generated_at": "2026-05-24T11:05:45+00:00",
+      "title_ja": "忘れられた放課後の残響",
+      "work_id": "orig:20260524110545:5b73620ec35b2b27136f"
+    },
     {
       "generated_at": "2026-05-24T08:12:38+00:00",
       "title_ja": "月下の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-23T14:53:25+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260523145325:9ec68c2e26a3a28cd3f1"
-    },
-    {
-      "generated_at": "2026-05-23T14:53:25+00:00",
-      "title_ja": "名前のない放課後の地図",
-      "work_id": "orig:20260523145325:66b3190d188dfaac8e8f"
-    },
-    {
-      "generated_at": "2026-05-23T12:53:09+00:00",
-      "title_ja": "最後の放課後の灯台",
-      "work_id": "orig:20260523125309:f763f697b05dbe8aa6b9"
-    },
-    {
-      "generated_at": "2026-05-23T12:53:09+00:00",
-      "title_ja": "最後の放課後の記録係",
-      "work_id": "orig:20260523125309:6ff18f6808e9c77997d3"
     }
   ],
-  "total_generated_works": 228
+  "total_generated_works": 231
 }
