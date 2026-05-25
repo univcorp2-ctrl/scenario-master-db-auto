@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 16,
-    "manga": 205,
+    "manga": 208,
     "novel": 17,
     "series": 14
   },
-  "generated_at": "2026-05-25T11:41:04+00:00",
+  "generated_at": "2026-05-25T14:27:29+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-25T14:27:29+00:00",
+      "title_ja": "名前のない放課後の地図",
+      "work_id": "orig:20260525142729:595c2a724fb9466ce342"
+    },
+    {
+      "generated_at": "2026-05-25T14:27:29+00:00",
+      "title_ja": "二度目の放課後の調律師",
+      "work_id": "orig:20260525142729:1738d7d27382e3f15fac"
+    },
+    {
+      "generated_at": "2026-05-25T14:27:29+00:00",
+      "title_ja": "逆さまの調律師",
+      "work_id": "orig:20260525142729:c69ab3875eda2fb984ee"
+    },
     {
       "generated_at": "2026-05-25T11:41:04+00:00",
       "title_ja": "月下の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-24T14:54:25+00:00",
       "title_ja": "最後の灯台",
       "work_id": "orig:20260524145425:575c6e8b3e56048e7241"
-    },
-    {
-      "generated_at": "2026-05-24T14:54:25+00:00",
-      "title_ja": "透明な放課後の時計塔",
-      "work_id": "orig:20260524145425:3644a41f4e2c4dd78278"
-    },
-    {
-      "generated_at": "2026-05-24T12:53:39+00:00",
-      "title_ja": "名前のない調律師",
-      "work_id": "orig:20260524125339:7d98b6f2c7bfca0f940c"
-    },
-    {
-      "generated_at": "2026-05-24T12:53:39+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260524125339:04a56e590f639252b0bc"
     }
   ],
-  "total_generated_works": 252
+  "total_generated_works": 255
 }

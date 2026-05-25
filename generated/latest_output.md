@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-25T11:41:04+00:00`
-- Master DB records: `444`
-- Generated concepts: `252`
+- Checked at UTC: `2026-05-25T14:27:29+00:00`
+- Master DB records: `445`
+- Generated concepts: `255`
 
-## 月下の証言者たち
+## 名前のない放課後の地図
 
-- Work ID: `orig:20260525114104:24eb63f8477e13f55d62`
-- Generated at UTC: `2026-05-25T11:41:04+00:00`
+- Work ID: `orig:20260525142729:595c2a724fb9466ce342`
+- Generated at UTC: `2026-05-25T14:27:29+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Mystery, Shounen, Supernatural
-- Logline: 怪異と行政手続きが共存する辺境の町で、禁じられた物語を修復する若い司書が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 怪異と行政手続きが共存する辺境の町
-- Protagonist: 禁じられた物語を修復する若い司書
+- Genre mix: Shounen, Comedy, Harem, Romance
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、誰からも忘れられる体質を利用して事件を解く学生が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
 - Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: truth and justice
-- Hook tags: top-ranked manga
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. relationship/choiceが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:110031, jikan:manga:110160, jikan:manga:168980, jikan:manga:34053, jikan:manga:443
+jikan:manga:162964, jikan:manga:62795
