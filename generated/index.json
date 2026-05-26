@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 16,
-    "manga": 217,
+    "manga": 220,
     "novel": 20,
     "series": 14
   },
-  "generated_at": "2026-05-26T05:56:21+00:00",
+  "generated_at": "2026-05-26T09:31:57+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-26T09:31:57+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260526093157:6c9d735db708f34fc5d5"
+    },
+    {
+      "generated_at": "2026-05-26T09:31:57+00:00",
+      "title_ja": "逆さまの放課後の交渉人",
+      "work_id": "orig:20260526093157:cde45e6030185ad845dc"
+    },
+    {
+      "generated_at": "2026-05-26T09:31:57+00:00",
+      "title_ja": "月下の放課後の迷宮",
+      "work_id": "orig:20260526093157:e3f7191aad7d15f7584d"
+    },
     {
       "generated_at": "2026-05-26T05:56:21+00:00",
       "title_ja": "最後の灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-25T11:41:04+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260525114104:e99ef42a3c3cfa8c15e1"
-    },
-    {
-      "generated_at": "2026-05-25T11:41:04+00:00",
-      "title_ja": "最後の交渉人",
-      "work_id": "orig:20260525114104:f102a9b4de6e1030f781"
-    },
-    {
-      "generated_at": "2026-05-25T06:28:30+00:00",
-      "title_ja": "二度目の地図",
-      "work_id": "orig:20260525062830:583da1fc6d332fc06518"
-    },
-    {
-      "generated_at": "2026-05-25T06:28:30+00:00",
-      "title_ja": "二度目の修復士",
-      "work_id": "orig:20260525062830:21630334df42d2b306a7"
     }
   ],
-  "total_generated_works": 267
+  "total_generated_works": 270
 }
