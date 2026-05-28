@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 16,
-    "manga": 248,
+    "manga": 251,
     "novel": 23,
     "series": 16
   },
-  "generated_at": "2026-05-28T12:59:18+00:00",
+  "generated_at": "2026-05-28T17:31:04+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-28T17:31:04+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260528173104:2de1f1f3bc94bdc9d049"
+    },
+    {
+      "generated_at": "2026-05-28T17:31:04+00:00",
+      "title_ja": "眠らない放課後の調律師",
+      "work_id": "orig:20260528173104:ced42e7e3714f07524ef"
+    },
+    {
+      "generated_at": "2026-05-28T17:31:04+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260528173104:dcf7137eaf890f7739a6"
+    },
     {
       "generated_at": "2026-05-28T12:59:18+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-27T14:48:44+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260527144844:dad2fb77c59b03c3ae15"
-    },
-    {
-      "generated_at": "2026-05-27T14:48:44+00:00",
-      "title_ja": "最後の放課後の修復士",
-      "work_id": "orig:20260527144844:b8f7d47343a942e1df11"
-    },
-    {
-      "generated_at": "2026-05-27T11:26:40+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260527112640:1745d944a533d5fabef0"
-    },
-    {
-      "generated_at": "2026-05-27T11:26:40+00:00",
-      "title_ja": "最後の放課後の時計塔",
-      "work_id": "orig:20260527112640:f5268565695bf2b02fdd"
     }
   ],
-  "total_generated_works": 303
+  "total_generated_works": 306
 }
