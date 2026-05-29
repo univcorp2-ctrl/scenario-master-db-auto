@@ -1,15 +1,15 @@
 # Latest healthcheck
 
 - Status: **ok**
-- Checked at UTC: `2026-05-29T01:54:07+00:00`
+- Checked at UTC: `2026-05-29T06:02:14+00:00`
 - Master records: `471`
-- Generated works: `312`
-- Latest DB update age hours: `0.0003`
-- Latest generation age hours: `0.0003`
+- Generated works: `315`
+- Latest DB update age hours: `0.0001`
+- Latest generation age hours: `0.0001`
 
 ## Checks
 
 - ✅ `master_db_exists`: 471 master records found.
-- ✅ `generated_works_exist`: 312 generated concepts found.
+- ✅ `generated_works_exist`: 315 generated concepts found.
 - ✅ `latest_db_update_recent`: DB age: 0.00h
 - ✅ `latest_generation_recent`: Generation age: 0.00h
