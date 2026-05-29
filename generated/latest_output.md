@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-29T14:32:30+00:00`
-- Master DB records: `477`
-- Generated concepts: `321`
+- Checked at UTC: `2026-05-29T18:25:33+00:00`
+- Master DB records: `478`
+- Generated concepts: `324`
 
-## 逆さまの交渉人
+## 忘れられた放課後の迷宮
 
-- Work ID: `orig:20260529143230:5818b69e3e4a95978776`
-- Generated at UTC: `2026-05-29T14:32:30+00:00`
+- Work ID: `orig:20260529182533:c76f11604eb0feb2e94f`
+- Generated at UTC: `2026-05-29T18:25:33+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Sci-Fi, Action, Drama
-- Logline: 夢の記録が裁判証拠になる近未来で、敗者の記憶を預かることになった元アスリートが、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Genre mix: Action, Drama, Romance, Comedy
+- Logline: 怪異と行政手続きが共存する辺境の町で、誰からも忘れられる体質を利用して事件を解く学生が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:104538, jikan:manga:105347, jikan:manga:85968, jikan:manga:108495
+jikan:manga:134997, jikan:manga:13245, jikan:manga:18161, jikan:manga:24464, jikan:manga:152024
