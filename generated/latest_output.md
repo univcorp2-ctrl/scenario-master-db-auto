@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-29T06:02:14+00:00`
-- Master DB records: `471`
-- Generated concepts: `315`
+- Checked at UTC: `2026-05-29T11:01:18+00:00`
+- Master DB records: `474`
+- Generated concepts: `318`
 
-## 二度目の修復士
+## 二度目の証言者たち
 
-- Work ID: `orig:20260529060214:754e4e11c3cb9c12d2a5`
-- Generated at UTC: `2026-05-29T06:02:14+00:00`
+- Work ID: `orig:20260529110118:e882580ed2326988f6b1`
+- Generated at UTC: `2026-05-29T11:01:18+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Fantasy
-- Logline: 夢の記録が裁判証拠になる近未来で、未来の自分から届く失敗報告だけを頼りに動く配達員が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
+- Genre mix: Award Winning, Drama, Mystery, Psychological
+- Logline: 記憶を修理する職人ギルドがある王国で、未来の自分から届く失敗報告だけを頼りに動く配達員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: identity, trust and betrayal
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:113819
+jikan:manga:743
