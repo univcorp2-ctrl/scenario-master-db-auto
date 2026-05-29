@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 18,
-    "manga": 260,
+    "manga": 262,
     "novel": 24,
-    "series": 16
+    "series": 17
   },
-  "generated_at": "2026-05-29T11:01:18+00:00",
+  "generated_at": "2026-05-29T14:32:30+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-29T14:32:30+00:00",
+      "title_ja": "逆さまの交渉人",
+      "work_id": "orig:20260529143230:5818b69e3e4a95978776"
+    },
+    {
+      "generated_at": "2026-05-29T14:32:30+00:00",
+      "title_ja": "月下の地図",
+      "work_id": "orig:20260529143230:668deb8427765110b2fb"
+    },
+    {
+      "generated_at": "2026-05-29T14:32:30+00:00",
+      "title_ja": "逆さまの放課後の逃亡者",
+      "work_id": "orig:20260529143230:66bda274284d249a15a1"
+    },
     {
       "generated_at": "2026-05-29T11:01:18+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-28T12:59:18+00:00",
       "title_ja": "透明な逃亡者",
       "work_id": "orig:20260528125918:64c4c1602f42caa77de1"
-    },
-    {
-      "generated_at": "2026-05-28T12:59:18+00:00",
-      "title_ja": "最後の地図",
-      "work_id": "orig:20260528125918:5840628b8164dea28ad5"
-    },
-    {
-      "generated_at": "2026-05-28T09:51:54+00:00",
-      "title_ja": "二度目の放課後の逃亡者",
-      "work_id": "orig:20260528095154:4ca3b09f5adfe06923db"
-    },
-    {
-      "generated_at": "2026-05-28T09:51:54+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260528095154:490dda13575433434e38"
     }
   ],
-  "total_generated_works": 318
+  "total_generated_works": 321
 }
