@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-05-30T08:13:02+00:00`
-- Master DB records: `480`
-- Generated concepts: `333`
+- Checked at UTC: `2026-05-30T11:09:33+00:00`
+- Master DB records: `483`
+- Generated concepts: `336`
 
-## 眠らない放課後の修復士
+## 二度目の証言者たち
 
-- Work ID: `orig:20260530081302:ebc9ab03f8523df5f380`
-- Generated at UTC: `2026-05-30T08:13:02+00:00`
-- Medium: `series`
-- Genre mix: Fantasy, Adventure, Action, Urban Fantasy
-- Logline: 宇宙移民船の中に再現された古い商店街で、他人の願いを翻訳できるが自分の夢を失った音楽家が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: coming of age
+- Work ID: `orig:20260530110933:c22dc306abd41c6ce178`
+- Generated at UTC: `2026-05-30T11:09:33+00:00`
+- Medium: `manga`
+- Genre mix: Seinen, Mystery, Drama, Fantasy
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、怪異専門の窓口で働く臆病な公務員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:132214, jikan:manga:102330, jikan:manga:104241
+jikan:manga:115730, jikan:manga:658, jikan:manga:1461, jikan:manga:107548, jikan:manga:3866
