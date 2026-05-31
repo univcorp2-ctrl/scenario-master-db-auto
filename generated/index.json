@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 18,
-    "manga": 292,
+    "manga": 295,
     "novel": 25,
     "series": 19
   },
-  "generated_at": "2026-05-31T07:36:52+00:00",
+  "generated_at": "2026-05-31T10:05:59+00:00",
   "latest": [
+    {
+      "generated_at": "2026-05-31T10:05:59+00:00",
+      "title_ja": "二度目の調律師",
+      "work_id": "orig:20260531100559:0211e0950798d6c7547c"
+    },
+    {
+      "generated_at": "2026-05-31T10:05:59+00:00",
+      "title_ja": "眠らない灯台",
+      "work_id": "orig:20260531100559:78868ccbdb9558b04328"
+    },
+    {
+      "generated_at": "2026-05-31T10:05:59+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260531100559:9222a1bd4fe13f81532e"
+    },
     {
       "generated_at": "2026-05-31T07:36:52+00:00",
       "title_ja": "月下の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-30T12:56:53+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260530125653:8f79fb7f922829a024b0"
-    },
-    {
-      "generated_at": "2026-05-30T12:56:53+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260530125653:36bca9eb269ce0798210"
-    },
-    {
-      "generated_at": "2026-05-30T11:09:33+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260530110933:c22dc306abd41c6ce178"
-    },
-    {
-      "generated_at": "2026-05-30T11:09:33+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260530110933:5e686f6095bcd1612eb4"
     }
   ],
-  "total_generated_works": 354
+  "total_generated_works": 357
 }
