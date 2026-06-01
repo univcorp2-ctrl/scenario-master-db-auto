@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 19,
-    "manga": 310,
+    "film": 20,
+    "manga": 312,
     "novel": 27,
     "series": 19
   },
-  "generated_at": "2026-06-01T09:08:30+00:00",
+  "generated_at": "2026-06-01T15:46:15+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-01T15:46:15+00:00",
+      "title_ja": "二度目の放課後の観測者",
+      "work_id": "orig:20260601154615:bcd66d1e6daab51c1f31"
+    },
+    {
+      "generated_at": "2026-06-01T15:46:15+00:00",
+      "title_ja": "眠らない放課後の修復士",
+      "work_id": "orig:20260601154615:852f2a81f6040b3ef7b3"
+    },
+    {
+      "generated_at": "2026-06-01T15:46:15+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260601154615:b7ed94c71f9a98491bd3"
+    },
     {
       "generated_at": "2026-06-01T09:08:30+00:00",
       "title_ja": "二度目の放課後の逃亡者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-31T13:05:46+00:00",
       "title_ja": "忘れられた放課後の逃亡者",
       "work_id": "orig:20260531130546:fbf3c836f9f9db5cd929"
-    },
-    {
-      "generated_at": "2026-05-31T13:05:46+00:00",
-      "title_ja": "二度目の放課後の観測者",
-      "work_id": "orig:20260531130546:3f699150fddeed113660"
-    },
-    {
-      "generated_at": "2026-05-31T10:05:59+00:00",
-      "title_ja": "二度目の調律師",
-      "work_id": "orig:20260531100559:0211e0950798d6c7547c"
-    },
-    {
-      "generated_at": "2026-05-31T10:05:59+00:00",
-      "title_ja": "眠らない灯台",
-      "work_id": "orig:20260531100559:78868ccbdb9558b04328"
     }
   ],
-  "total_generated_works": 375
+  "total_generated_works": 378
 }
