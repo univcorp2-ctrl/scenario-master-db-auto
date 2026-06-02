@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 21,
-    "manga": 316,
+    "manga": 319,
     "novel": 27,
     "series": 20
   },
-  "generated_at": "2026-06-02T02:10:55+00:00",
+  "generated_at": "2026-06-02T08:18:19+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-02T08:18:19+00:00",
+      "title_ja": "二度目の記録係",
+      "work_id": "orig:20260602081819:1538fab48294501279d0"
+    },
+    {
+      "generated_at": "2026-06-02T08:18:19+00:00",
+      "title_ja": "最後の観測者",
+      "work_id": "orig:20260602081819:f2eec2d12266e30e9eaf"
+    },
+    {
+      "generated_at": "2026-06-02T08:18:19+00:00",
+      "title_ja": "月下の修復士",
+      "work_id": "orig:20260602081819:9fa63c31810b4d046176"
+    },
     {
       "generated_at": "2026-06-02T02:10:55+00:00",
       "title_ja": "忘れられた放課後の観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-05-31T18:58:49+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260531185849:dd7324af1808720a54f7"
-    },
-    {
-      "generated_at": "2026-05-31T18:58:49+00:00",
-      "title_ja": "最後の逃亡者",
-      "work_id": "orig:20260531185849:5a6ae370ba65d262c980"
-    },
-    {
-      "generated_at": "2026-05-31T16:53:11+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260531165311:c06cbe9fd86947a3af89"
-    },
-    {
-      "generated_at": "2026-05-31T16:53:11+00:00",
-      "title_ja": "名前のない交渉人",
-      "work_id": "orig:20260531165311:f4d9aa38a2436819da5e"
     }
   ],
-  "total_generated_works": 384
+  "total_generated_works": 387
 }
