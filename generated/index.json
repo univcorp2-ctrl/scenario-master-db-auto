@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 23,
-    "manga": 333,
+    "manga": 336,
     "novel": 29,
     "series": 20
   },
-  "generated_at": "2026-06-03T14:19:21+00:00",
+  "generated_at": "2026-06-03T19:39:40+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-03T19:39:40+00:00",
+      "title_ja": "眠らない交渉人",
+      "work_id": "orig:20260603193940:8a22cfd87a7317885f83"
+    },
+    {
+      "generated_at": "2026-06-03T19:39:40+00:00",
+      "title_ja": "眠らない迷宮",
+      "work_id": "orig:20260603193940:c16d1165f93fcf844092"
+    },
+    {
+      "generated_at": "2026-06-03T19:39:40+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260603193940:a8d398b2defa6092de27"
+    },
     {
       "generated_at": "2026-06-03T14:19:21+00:00",
       "title_ja": "逆さまの灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-02T13:46:29+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260602134629:a4f64e48235ec7395713"
-    },
-    {
-      "generated_at": "2026-06-02T13:46:29+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260602134629:7a38bfe7ee4d7aa8bb9c"
-    },
-    {
-      "generated_at": "2026-06-02T08:18:19+00:00",
-      "title_ja": "二度目の記録係",
-      "work_id": "orig:20260602081819:1538fab48294501279d0"
-    },
-    {
-      "generated_at": "2026-06-02T08:18:19+00:00",
-      "title_ja": "最後の観測者",
-      "work_id": "orig:20260602081819:f2eec2d12266e30e9eaf"
     }
   ],
-  "total_generated_works": 405
+  "total_generated_works": 408
 }
