@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 23,
-    "manga": 343,
+    "manga": 346,
     "novel": 29,
     "series": 22
   },
-  "generated_at": "2026-06-04T12:35:40+00:00",
+  "generated_at": "2026-06-04T16:42:14+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-04T16:42:14+00:00",
+      "title_ja": "逆さまの放課後の時計塔",
+      "work_id": "orig:20260604164214:54bcd46801440ec58438"
+    },
+    {
+      "generated_at": "2026-06-04T16:42:14+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260604164214:7359804eeaf6a80bbcf3"
+    },
+    {
+      "generated_at": "2026-06-04T16:42:14+00:00",
+      "title_ja": "逆さまの放課後の記録係",
+      "work_id": "orig:20260604164214:6aab3c5de415f3d9f6d0"
+    },
     {
       "generated_at": "2026-06-04T12:35:40+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-03T08:45:45+00:00",
       "title_ja": "眠らない放課後の残響",
       "work_id": "orig:20260603084545:203c0963a9c762d2aa20"
-    },
-    {
-      "generated_at": "2026-06-03T08:45:45+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260603084545:e7e98dcdd54ccabb87cf"
-    },
-    {
-      "generated_at": "2026-06-03T02:28:45+00:00",
-      "title_ja": "月下の時計塔",
-      "work_id": "orig:20260603022845:07686dd5b3216f1d7a4c"
-    },
-    {
-      "generated_at": "2026-06-03T02:28:45+00:00",
-      "title_ja": "眠らない灯台",
-      "work_id": "orig:20260603022845:0187d174663db08feccf"
     }
   ],
-  "total_generated_works": 417
+  "total_generated_works": 420
 }
