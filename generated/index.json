@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 23,
-    "manga": 346,
+    "manga": 349,
     "novel": 29,
     "series": 22
   },
-  "generated_at": "2026-06-04T16:42:14+00:00",
+  "generated_at": "2026-06-04T19:51:41+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-04T19:51:41+00:00",
+      "title_ja": "忘れられた放課後の地図",
+      "work_id": "orig:20260604195141:29f2d34333abb2a711cc"
+    },
+    {
+      "generated_at": "2026-06-04T19:51:41+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260604195141:082cbe20e7d7accd54f8"
+    },
+    {
+      "generated_at": "2026-06-04T19:51:41+00:00",
+      "title_ja": "名前のない放課後の観測者",
+      "work_id": "orig:20260604195141:a257a387e2b799c4a694"
+    },
     {
       "generated_at": "2026-06-04T16:42:14+00:00",
       "title_ja": "逆さまの放課後の時計塔",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-03T14:19:21+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260603141921:6717c4ce7f285927fc05"
-    },
-    {
-      "generated_at": "2026-06-03T14:19:21+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260603141921:7e502a46501861f974c4"
-    },
-    {
-      "generated_at": "2026-06-03T08:45:45+00:00",
-      "title_ja": "名前のない放課後の残響",
-      "work_id": "orig:20260603084545:9df441e2dbcd01c43b6f"
-    },
-    {
-      "generated_at": "2026-06-03T08:45:45+00:00",
-      "title_ja": "眠らない放課後の残響",
-      "work_id": "orig:20260603084545:203c0963a9c762d2aa20"
     }
   ],
-  "total_generated_works": 420
+  "total_generated_works": 423
 }
