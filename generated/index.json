@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 23,
-    "manga": 349,
-    "novel": 29,
+    "manga": 351,
+    "novel": 30,
     "series": 22
   },
-  "generated_at": "2026-06-04T19:51:41+00:00",
+  "generated_at": "2026-06-05T02:00:41+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-05T02:00:41+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260605020041:90089ed295bfa20489a2"
+    },
+    {
+      "generated_at": "2026-06-05T02:00:41+00:00",
+      "title_ja": "最後の放課後の調律師",
+      "work_id": "orig:20260605020041:faf66c5967b4e855a572"
+    },
+    {
+      "generated_at": "2026-06-05T02:00:41+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260605020041:3bb0d81b950c9bbda10a"
+    },
     {
       "generated_at": "2026-06-04T19:51:41+00:00",
       "title_ja": "忘れられた放課後の地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-03T19:39:40+00:00",
       "title_ja": "眠らない迷宮",
       "work_id": "orig:20260603193940:c16d1165f93fcf844092"
-    },
-    {
-      "generated_at": "2026-06-03T19:39:40+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260603193940:a8d398b2defa6092de27"
-    },
-    {
-      "generated_at": "2026-06-03T14:19:21+00:00",
-      "title_ja": "逆さまの灯台",
-      "work_id": "orig:20260603141921:2297bad9aa740a3490dc"
-    },
-    {
-      "generated_at": "2026-06-03T14:19:21+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260603141921:6717c4ce7f285927fc05"
     }
   ],
-  "total_generated_works": 423
+  "total_generated_works": 426
 }
