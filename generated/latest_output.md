@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-06T11:14:08+00:00`
-- Master DB records: `532`
-- Generated concepts: `453`
+- Checked at UTC: `2026-06-06T13:01:22+00:00`
+- Master DB records: `534`
+- Generated concepts: `456`
 
-## 透明な放課後の逃亡者
+## 逆さまの観測者
 
-- Work ID: `orig:20260606111408:f1c092f7058af380dcd1`
-- Generated at UTC: `2026-06-06T11:14:08+00:00`
+- Work ID: `orig:20260606130122:c4a4d7b5e866103ae75a`
+- Generated at UTC: `2026-06-06T13:01:22+00:00`
 - Medium: `manga`
-- Genre mix: Award Winning, Comedy, Drama, Love Polygon
-- Logline: 記憶を修理する職人ギルドがある王国で、敗者の記憶を預かることになった元アスリートが、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: Drama, Action, Comedy, Gag Humor
+- Logline: 記憶を修理する職人ギルドがある王国で、禁じられた物語を修復する若い司書が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
 - World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: coming of age
-- Hook tags: high concept, clear dilemma
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: identity, trust and betrayal
+- Hook tags: top-ranked manga
 
 ### Three-act structure
 1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:18, jikan:manga:81117
+jikan:manga:110160, jikan:manga:44
