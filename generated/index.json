@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 27,
-    "manga": 400,
+    "manga": 402,
     "novel": 33,
-    "series": 23
+    "series": 24
   },
-  "generated_at": "2026-06-07T17:02:05+00:00",
+  "generated_at": "2026-06-07T19:01:40+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-07T19:01:40+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260607190140:4b9a250910a090317f69"
+    },
+    {
+      "generated_at": "2026-06-07T19:01:40+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260607190140:face2d8f39f983f69eb2"
+    },
+    {
+      "generated_at": "2026-06-07T19:01:40+00:00",
+      "title_ja": "最後の修復士",
+      "work_id": "orig:20260607190140:69081f188d5cdf6ca409"
+    },
     {
       "generated_at": "2026-06-07T17:02:05+00:00",
       "title_ja": "二度目の観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-07T02:06:01+00:00",
       "title_ja": "最後の放課後の修復士",
       "work_id": "orig:20260607020601:ba76a1b2e789beb4275e"
-    },
-    {
-      "generated_at": "2026-06-07T02:06:01+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260607020601:594ccf6e65f8370c993e"
-    },
-    {
-      "generated_at": "2026-06-06T19:02:31+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260606190231:1ea40ca1e02eca78af49"
-    },
-    {
-      "generated_at": "2026-06-06T19:02:31+00:00",
-      "title_ja": "月下の観測者",
-      "work_id": "orig:20260606190231:63e16f278d93942cde99"
     }
   ],
-  "total_generated_works": 483
+  "total_generated_works": 486
 }
