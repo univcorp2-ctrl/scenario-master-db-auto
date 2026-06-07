@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-07T10:19:02+00:00`
+- Checked at UTC: `2026-06-07T13:13:33+00:00`
 - Master DB records: `536`
-- Generated concepts: `474`
+- Generated concepts: `477`
 
-## 名前のない観測者
+## 眠らない証言者たち
 
-- Work ID: `orig:20260607101902:246a680ec7efdf54b50b`
-- Generated at UTC: `2026-06-07T10:19:02+00:00`
-- Medium: `novel`
-- Genre mix: Adventure, Drama, Fantasy, Sci-Fi
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 過去の選択を一度だけ郵送できる地方都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
-- Themes: identity, trust and betrayal
+- Work ID: `orig:20260607131333:495276de7cd12a5ff1ea`
+- Generated at UTC: `2026-06-07T13:13:33+00:00`
+- Medium: `manga`
+- Genre mix: Comedy, Drama, Mystery, Supernatural
+- Logline: 宇宙移民船の中に再現された古い商店街で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: truth and justice
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:91941
+jikan:manga:23751

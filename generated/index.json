@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 26,
-    "manga": 393,
+    "manga": 396,
     "novel": 32,
     "series": 23
   },
-  "generated_at": "2026-06-07T10:19:02+00:00",
+  "generated_at": "2026-06-07T13:13:33+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-07T13:13:33+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260607131333:495276de7cd12a5ff1ea"
+    },
+    {
+      "generated_at": "2026-06-07T13:13:33+00:00",
+      "title_ja": "月下の放課後の観測者",
+      "work_id": "orig:20260607131333:54d32313f04ea737bb5c"
+    },
+    {
+      "generated_at": "2026-06-07T13:13:33+00:00",
+      "title_ja": "眠らない放課後の灯台",
+      "work_id": "orig:20260607131333:6e0e8062a258beb74c38"
+    },
     {
       "generated_at": "2026-06-07T10:19:02+00:00",
       "title_ja": "名前のない観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-06T15:03:46+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260606150346:4dc961e86aa4150d02f2"
-    },
-    {
-      "generated_at": "2026-06-06T15:03:46+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260606150346:8e01003ec9e61c31afe9"
-    },
-    {
-      "generated_at": "2026-06-06T13:01:22+00:00",
-      "title_ja": "逆さまの観測者",
-      "work_id": "orig:20260606130122:c4a4d7b5e866103ae75a"
-    },
-    {
-      "generated_at": "2026-06-06T13:01:22+00:00",
-      "title_ja": "眠らない放課後の調律師",
-      "work_id": "orig:20260606130122:3d11ad03721cc7b979fc"
     }
   ],
-  "total_generated_works": 474
+  "total_generated_works": 477
 }
