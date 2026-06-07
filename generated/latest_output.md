@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-07T13:13:33+00:00`
+- Checked at UTC: `2026-06-07T15:16:14+00:00`
 - Master DB records: `536`
-- Generated concepts: `477`
+- Generated concepts: `480`
 
-## 眠らない証言者たち
+## 名前のない放課後の残響
 
-- Work ID: `orig:20260607131333:495276de7cd12a5ff1ea`
-- Generated at UTC: `2026-06-07T13:13:33+00:00`
-- Medium: `manga`
-- Genre mix: Comedy, Drama, Mystery, Supernatural
-- Logline: 宇宙移民船の中に再現された古い商店街で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260607151614:198a67d450d98fac6c40`
+- Generated at UTC: `2026-06-07T15:16:14+00:00`
+- Medium: `film`
+- Genre mix: Comedy, School, Romance, Shounen
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:23751
+jikan:manga:838, jikan:manga:62547, jikan:manga:26144, jikan:manga:119282
