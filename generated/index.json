@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 27,
-    "manga": 402,
+    "manga": 404,
     "novel": 33,
-    "series": 24
+    "series": 25
   },
-  "generated_at": "2026-06-07T19:01:40+00:00",
+  "generated_at": "2026-06-08T02:11:02+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-08T02:11:02+00:00",
+      "title_ja": "忘れられた放課後の観測者",
+      "work_id": "orig:20260608021102:dae7820cc838640b66f1"
+    },
+    {
+      "generated_at": "2026-06-08T02:11:02+00:00",
+      "title_ja": "最後の迷宮",
+      "work_id": "orig:20260608021102:5eaa7eb1b82826c9a233"
+    },
+    {
+      "generated_at": "2026-06-08T02:11:02+00:00",
+      "title_ja": "透明な放課後の修復士",
+      "work_id": "orig:20260608021102:0267bcf51c1f23ae478d"
+    },
     {
       "generated_at": "2026-06-07T19:01:40+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-07T07:45:36+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260607074536:537d046085f603cffc37"
-    },
-    {
-      "generated_at": "2026-06-07T07:45:36+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260607074536:4aff03699ddcd5df7c0f"
-    },
-    {
-      "generated_at": "2026-06-07T02:06:01+00:00",
-      "title_ja": "時計塔家族の約束",
-      "work_id": "orig:20260607020601:992cd8200a6b6cd4cf2b"
-    },
-    {
-      "generated_at": "2026-06-07T02:06:01+00:00",
-      "title_ja": "最後の放課後の修復士",
-      "work_id": "orig:20260607020601:ba76a1b2e789beb4275e"
     }
   ],
-  "total_generated_works": 486
+  "total_generated_works": 489
 }
