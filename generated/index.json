@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 30,
-    "manga": 419,
+    "film": 31,
+    "manga": 421,
     "novel": 35,
     "series": 26
   },
-  "generated_at": "2026-06-09T09:26:58+00:00",
+  "generated_at": "2026-06-09T12:28:58+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-09T12:28:58+00:00",
+      "title_ja": "透明な逃亡者",
+      "work_id": "orig:20260609122858:d33996566a69d7f16eb1"
+    },
+    {
+      "generated_at": "2026-06-09T12:28:58+00:00",
+      "title_ja": "地図家族の約束",
+      "work_id": "orig:20260609122858:939eb0cb52232419e2b3"
+    },
+    {
+      "generated_at": "2026-06-09T12:28:58+00:00",
+      "title_ja": "忘れられた地図",
+      "work_id": "orig:20260609122858:32f042cf13f4eea4d0d0"
+    },
     {
       "generated_at": "2026-06-09T09:26:58+00:00",
       "title_ja": "逆さまの放課後の修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-08T13:57:03+00:00",
       "title_ja": "透明な証言者たち",
       "work_id": "orig:20260608135703:cd22db76f594aa438090"
-    },
-    {
-      "generated_at": "2026-06-08T13:57:03+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260608135703:4d054d66a9cb9c22b260"
-    },
-    {
-      "generated_at": "2026-06-08T08:42:50+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260608084250:36a0275e5a032f1edcfd"
-    },
-    {
-      "generated_at": "2026-06-08T08:42:50+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260608084250:88b6ba188695a1e0d76a"
     }
   ],
-  "total_generated_works": 510
+  "total_generated_works": 513
 }
