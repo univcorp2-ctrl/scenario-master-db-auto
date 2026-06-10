@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 33,
-    "manga": 425,
+    "manga": 427,
     "novel": 37,
-    "series": 27
+    "series": 28
   },
-  "generated_at": "2026-06-10T01:59:53+00:00",
+  "generated_at": "2026-06-10T06:23:12+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-10T06:23:12+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260610062312:7cc0419c60e9da69e2ed"
+    },
+    {
+      "generated_at": "2026-06-10T06:23:12+00:00",
+      "title_ja": "名前のない残響",
+      "work_id": "orig:20260610062312:1024e284085f4ae861cc"
+    },
+    {
+      "generated_at": "2026-06-10T06:23:12+00:00",
+      "title_ja": "眠らない交渉人",
+      "work_id": "orig:20260610062312:df73fee70bfc8250dd91"
+    },
     {
       "generated_at": "2026-06-10T01:59:53+00:00",
       "title_ja": "逆さまの修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-09T05:57:37+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260609055737:4edc59f9946a5e03e6b1"
-    },
-    {
-      "generated_at": "2026-06-09T05:57:37+00:00",
-      "title_ja": "二度目の時計塔",
-      "work_id": "orig:20260609055737:0ca268dd4536db98ad4e"
-    },
-    {
-      "generated_at": "2026-06-09T01:48:53+00:00",
-      "title_ja": "最後の灯台",
-      "work_id": "orig:20260609014853:91caa8ce5ab2f69bb9b1"
-    },
-    {
-      "generated_at": "2026-06-09T01:48:53+00:00",
-      "title_ja": "二度目の放課後の調律師",
-      "work_id": "orig:20260609014853:84a73992758cb3d8c93b"
     }
   ],
-  "total_generated_works": 522
+  "total_generated_works": 525
 }
