@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 34,
-    "manga": 440,
+    "manga": 442,
     "novel": 38,
-    "series": 28
+    "series": 29
   },
-  "generated_at": "2026-06-11T08:25:58+00:00",
+  "generated_at": "2026-06-11T13:47:07+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-11T13:47:07+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260611134707:d927fb62cf8e82d1d3d5"
+    },
+    {
+      "generated_at": "2026-06-11T13:47:07+00:00",
+      "title_ja": "月下の交渉人",
+      "work_id": "orig:20260611134707:fe3a343bb0a7c7d588d2"
+    },
+    {
+      "generated_at": "2026-06-11T13:47:07+00:00",
+      "title_ja": "名前のない時計塔",
+      "work_id": "orig:20260611134707:57f69e100a5b309b29ad"
+    },
     {
       "generated_at": "2026-06-11T08:25:58+00:00",
       "title_ja": "最後の放課後の調律師",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-10T06:23:12+00:00",
       "title_ja": "名前のない残響",
       "work_id": "orig:20260610062312:1024e284085f4ae861cc"
-    },
-    {
-      "generated_at": "2026-06-10T06:23:12+00:00",
-      "title_ja": "眠らない交渉人",
-      "work_id": "orig:20260610062312:df73fee70bfc8250dd91"
-    },
-    {
-      "generated_at": "2026-06-10T01:59:53+00:00",
-      "title_ja": "逆さまの修復士",
-      "work_id": "orig:20260610015953:ec5aaa32850a4bbcb57b"
-    },
-    {
-      "generated_at": "2026-06-10T01:59:53+00:00",
-      "title_ja": "眠らない放課後の地図",
-      "work_id": "orig:20260610015953:736733e7f97c67518be9"
     }
   ],
-  "total_generated_works": 540
+  "total_generated_works": 543
 }
