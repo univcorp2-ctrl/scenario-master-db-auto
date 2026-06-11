@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 34,
-    "manga": 437,
+    "manga": 440,
     "novel": 38,
     "series": 28
   },
-  "generated_at": "2026-06-11T02:10:52+00:00",
+  "generated_at": "2026-06-11T08:25:58+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-11T08:25:58+00:00",
+      "title_ja": "最後の放課後の調律師",
+      "work_id": "orig:20260611082558:bdf19d7018abf3d3163b"
+    },
+    {
+      "generated_at": "2026-06-11T08:25:58+00:00",
+      "title_ja": "眠らない逃亡者",
+      "work_id": "orig:20260611082558:39dc1bffbc7d110b294e"
+    },
+    {
+      "generated_at": "2026-06-11T08:25:58+00:00",
+      "title_ja": "二度目の修復士",
+      "work_id": "orig:20260611082558:1689f8de155af21303a0"
+    },
     {
       "generated_at": "2026-06-11T02:10:52+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-10T01:59:53+00:00",
       "title_ja": "眠らない放課後の地図",
       "work_id": "orig:20260610015953:736733e7f97c67518be9"
-    },
-    {
-      "generated_at": "2026-06-10T01:59:53+00:00",
-      "title_ja": "透明な放課後の地図",
-      "work_id": "orig:20260610015953:fe23222590e781bfd3a2"
-    },
-    {
-      "generated_at": "2026-06-09T19:52:24+00:00",
-      "title_ja": "忘れられた放課後の残響",
-      "work_id": "orig:20260609195224:103a775cb39290caa628"
-    },
-    {
-      "generated_at": "2026-06-09T19:52:24+00:00",
-      "title_ja": "透明な調律師",
-      "work_id": "orig:20260609195224:5c37b7dbcaf769dbbcc3"
     }
   ],
-  "total_generated_works": 537
+  "total_generated_works": 540
 }
