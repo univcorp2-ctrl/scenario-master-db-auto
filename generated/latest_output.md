@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-12T02:06:41+00:00`
-- Master DB records: `550`
-- Generated concepts: `552`
+- Checked at UTC: `2026-06-12T08:14:12+00:00`
+- Master DB records: `551`
+- Generated concepts: `555`
 
-## 逆さまの証言者たち
+## 透明な放課後の時計塔
 
-- Work ID: `orig:20260612020641:5e4f0320b95c3eb5e3b3`
-- Generated at UTC: `2026-06-12T02:06:41+00:00`
+- Work ID: `orig:20260612081412:1acaa991101f1b5b47d9`
+- Generated at UTC: `2026-06-12T08:14:12+00:00`
 - Medium: `manga`
-- Genre mix: Action, Shounen, Fantasy, Mystery
-- Logline: 失われた物語だけが通貨として流通する群島で、他人の願いを翻訳できるが自分の夢を失った音楽家が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice, coming of age
+- Genre mix: Drama, Shounen, Adventure, Award Winning
+- Logline: 怪異と行政手続きが共存する辺境の町で、怪異専門の窓口で働く臆病な公務員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:55869, jikan:manga:22, jikan:manga:121269, jikan:manga:162964, jikan:manga:123006
+jikan:manga:126287, jikan:manga:94376, jikan:manga:1014
