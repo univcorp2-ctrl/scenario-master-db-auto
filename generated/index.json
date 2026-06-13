@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 36,
-    "manga": 468,
-    "novel": 40,
+    "manga": 470,
+    "novel": 41,
     "series": 32
   },
-  "generated_at": "2026-06-13T13:17:29+00:00",
+  "generated_at": "2026-06-13T15:24:09+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-13T15:24:09+00:00",
+      "title_ja": "最後の逃亡者",
+      "work_id": "orig:20260613152409:a558231020bebf49ffa8"
+    },
+    {
+      "generated_at": "2026-06-13T15:24:09+00:00",
+      "title_ja": "忘れられた修復士",
+      "work_id": "orig:20260613152409:156dacb3330b35a53f9c"
+    },
+    {
+      "generated_at": "2026-06-13T15:24:09+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260613152409:157f7bfdd390607fc3da"
+    },
     {
       "generated_at": "2026-06-13T13:17:29+00:00",
       "title_ja": "名前のない迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-12T16:37:20+00:00",
       "title_ja": "透明な地図",
       "work_id": "orig:20260612163720:4e9995a8fb06d0262032"
-    },
-    {
-      "generated_at": "2026-06-12T16:37:20+00:00",
-      "title_ja": "名前のない迷宮",
-      "work_id": "orig:20260612163720:b301e89b43c539cca672"
-    },
-    {
-      "generated_at": "2026-06-12T12:46:53+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260612124653:612a7331a28debdcb775"
-    },
-    {
-      "generated_at": "2026-06-12T12:46:53+00:00",
-      "title_ja": "名前のない残響",
-      "work_id": "orig:20260612124653:0b050e69fa8c75f003da"
     }
   ],
-  "total_generated_works": 576
+  "total_generated_works": 579
 }
