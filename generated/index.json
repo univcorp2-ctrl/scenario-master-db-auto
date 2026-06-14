@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 488,
+    "manga": 491,
     "novel": 43,
     "series": 32
   },
-  "generated_at": "2026-06-14T15:31:24+00:00",
+  "generated_at": "2026-06-14T17:05:15+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-14T17:05:15+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260614170515:b784f0d2ccb8b98b0ae8"
+    },
+    {
+      "generated_at": "2026-06-14T17:05:15+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260614170515:aae73afb050bb6f22808"
+    },
+    {
+      "generated_at": "2026-06-14T17:05:15+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260614170515:ce7cc17550441d5733bc"
+    },
     {
       "generated_at": "2026-06-14T15:31:24+00:00",
       "title_ja": "忘れられた証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-13T19:03:26+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260613190326:a2efe35df157d3ba2fe7"
-    },
-    {
-      "generated_at": "2026-06-13T19:03:26+00:00",
-      "title_ja": "月下の逃亡者",
-      "work_id": "orig:20260613190326:8fc58bc20a4d58288c3f"
-    },
-    {
-      "generated_at": "2026-06-13T17:06:33+00:00",
-      "title_ja": "最後の迷宮",
-      "work_id": "orig:20260613170633:d93454cde86659cc6ad9"
-    },
-    {
-      "generated_at": "2026-06-13T17:06:33+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260613170633:975e1d32de929c404dab"
     }
   ],
-  "total_generated_works": 600
+  "total_generated_works": 603
 }
