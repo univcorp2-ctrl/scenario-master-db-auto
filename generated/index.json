@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 485,
+    "manga": 488,
     "novel": 43,
     "series": 32
   },
-  "generated_at": "2026-06-14T13:22:36+00:00",
+  "generated_at": "2026-06-14T15:31:24+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-14T15:31:24+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260614153124:dedcc1a6d256fc20c611"
+    },
+    {
+      "generated_at": "2026-06-14T15:31:24+00:00",
+      "title_ja": "月下の放課後の逃亡者",
+      "work_id": "orig:20260614153124:77a924618ee2a28f9bcb"
+    },
+    {
+      "generated_at": "2026-06-14T15:31:24+00:00",
+      "title_ja": "名前のない記録係",
+      "work_id": "orig:20260614153124:b5abdf9ccb9fa33795f0"
+    },
     {
       "generated_at": "2026-06-14T13:22:36+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-13T17:06:33+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260613170633:975e1d32de929c404dab"
-    },
-    {
-      "generated_at": "2026-06-13T17:06:33+00:00",
-      "title_ja": "忘れられた灯台",
-      "work_id": "orig:20260613170633:88088a656d7f76e1937e"
-    },
-    {
-      "generated_at": "2026-06-13T15:24:09+00:00",
-      "title_ja": "最後の逃亡者",
-      "work_id": "orig:20260613152409:a558231020bebf49ffa8"
-    },
-    {
-      "generated_at": "2026-06-13T15:24:09+00:00",
-      "title_ja": "忘れられた修復士",
-      "work_id": "orig:20260613152409:156dacb3330b35a53f9c"
     }
   ],
-  "total_generated_works": 597
+  "total_generated_works": 600
 }
