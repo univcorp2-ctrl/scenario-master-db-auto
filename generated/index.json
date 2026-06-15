@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 500,
+    "manga": 502,
     "novel": 43,
-    "series": 32
+    "series": 33
   },
-  "generated_at": "2026-06-15T09:49:32+00:00",
+  "generated_at": "2026-06-15T15:34:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-15T15:34:08+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260615153408:7722de6df92dda46a962"
+    },
+    {
+      "generated_at": "2026-06-15T15:34:08+00:00",
+      "title_ja": "眠らない調律師",
+      "work_id": "orig:20260615153408:6e7a17c80ed7b5b9b95c"
+    },
+    {
+      "generated_at": "2026-06-15T15:34:08+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260615153408:9ab34de8a57af84f33ff"
+    },
     {
       "generated_at": "2026-06-15T09:49:32+00:00",
       "title_ja": "二度目の放課後の調律師",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-14T13:22:36+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260614132236:4b9eefb5e5d94d751854"
-    },
-    {
-      "generated_at": "2026-06-14T13:22:36+00:00",
-      "title_ja": "月下の修復士",
-      "work_id": "orig:20260614132236:1c629b88d1154c815634"
-    },
-    {
-      "generated_at": "2026-06-14T11:48:35+00:00",
-      "title_ja": "透明な放課後の観測者",
-      "work_id": "orig:20260614114835:197099d86f2b2090c1f5"
-    },
-    {
-      "generated_at": "2026-06-14T11:48:35+00:00",
-      "title_ja": "忘れられた放課後の時計塔",
-      "work_id": "orig:20260614114835:0cbde86f35c047f0982b"
     }
   ],
-  "total_generated_works": 612
+  "total_generated_works": 615
 }
