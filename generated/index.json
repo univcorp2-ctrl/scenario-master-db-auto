@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 497,
+    "manga": 500,
     "novel": 43,
     "series": 32
   },
-  "generated_at": "2026-06-15T02:13:57+00:00",
+  "generated_at": "2026-06-15T09:49:32+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-15T09:49:32+00:00",
+      "title_ja": "二度目の放課後の調律師",
+      "work_id": "orig:20260615094932:3705be00c8922cf3ef3d"
+    },
+    {
+      "generated_at": "2026-06-15T09:49:32+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260615094932:01c7dd58217dc6e5e7a9"
+    },
+    {
+      "generated_at": "2026-06-15T09:49:32+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260615094932:60378850d5d822607373"
+    },
     {
       "generated_at": "2026-06-15T02:13:57+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-14T11:48:35+00:00",
       "title_ja": "忘れられた放課後の時計塔",
       "work_id": "orig:20260614114835:0cbde86f35c047f0982b"
-    },
-    {
-      "generated_at": "2026-06-14T11:48:35+00:00",
-      "title_ja": "地図家族の約束",
-      "work_id": "orig:20260614114835:96a3f57132bb0dccb4ea"
-    },
-    {
-      "generated_at": "2026-06-14T08:06:32+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260614080632:952c62f223882f4ba4d8"
-    },
-    {
-      "generated_at": "2026-06-14T08:06:32+00:00",
-      "title_ja": "忘れられた記録係",
-      "work_id": "orig:20260614080632:d8a65f1663c49a50dfe2"
     }
   ],
-  "total_generated_works": 609
+  "total_generated_works": 612
 }
