@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-17T02:13:33+00:00`
+- Checked at UTC: `2026-06-17T08:52:18+00:00`
 - Master DB records: `560`
-- Generated concepts: `633`
+- Generated concepts: `636`
 
-## 透明な放課後の交渉人
+## 二度目の証言者たち
 
-- Work ID: `orig:20260617021333:52d6c606ff306a7b3569`
-- Generated at UTC: `2026-06-17T02:13:33+00:00`
+- Work ID: `orig:20260617085218:c96372f4d82065c27ecb`
+- Generated at UTC: `2026-06-17T08:52:18+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Time Travel, Idols (Male), Psychological
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 過去の選択を一度だけ郵送できる地方都市
+- Genre mix: Fantasy, Adventure, Shounen, Mystery
+- Logline: 怪異と行政手続きが共存する辺境の町で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
 - Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: coming of age, family bonds
-- Hook tags: high concept, clear dilemma
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: truth and justice, coming of age
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:151061, jikan:manga:1014, jikan:manga:147692
+jikan:manga:26027, jikan:manga:974, jikan:manga:62547, jikan:manga:86119, jikan:manga:13
