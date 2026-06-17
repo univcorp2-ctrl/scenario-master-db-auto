@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 523,
+    "manga": 526,
     "novel": 45,
     "series": 34
   },
-  "generated_at": "2026-06-17T13:35:03+00:00",
+  "generated_at": "2026-06-17T16:50:11+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-17T16:50:11+00:00",
+      "title_ja": "逆さまの残響",
+      "work_id": "orig:20260617165011:228df0cfacd98c58c8f5"
+    },
+    {
+      "generated_at": "2026-06-17T16:50:11+00:00",
+      "title_ja": "月下の調律師",
+      "work_id": "orig:20260617165011:7d98e6e004bf5f47bd3c"
+    },
+    {
+      "generated_at": "2026-06-17T16:50:11+00:00",
+      "title_ja": "月下の調律師",
+      "work_id": "orig:20260617165011:a5dab68c2b9965c22f63"
+    },
     {
       "generated_at": "2026-06-17T13:35:03+00:00",
       "title_ja": "忘れられた放課後の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-16T09:14:03+00:00",
       "title_ja": "最後の放課後の迷宮",
       "work_id": "orig:20260616091403:ccb38d58208d057dc774"
-    },
-    {
-      "generated_at": "2026-06-16T09:14:03+00:00",
-      "title_ja": "逆さまの放課後の修復士",
-      "work_id": "orig:20260616091403:ac53b26ff7405f64ddb0"
-    },
-    {
-      "generated_at": "2026-06-16T02:29:22+00:00",
-      "title_ja": "眠らない時計塔",
-      "work_id": "orig:20260616022922:b3b8210ba16b184b3444"
-    },
-    {
-      "generated_at": "2026-06-16T02:29:22+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260616022922:0585d3dbdcee1412ea94"
     }
   ],
-  "total_generated_works": 639
+  "total_generated_works": 642
 }

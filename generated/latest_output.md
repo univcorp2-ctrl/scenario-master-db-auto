@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-17T13:35:03+00:00`
+- Checked at UTC: `2026-06-17T16:50:11+00:00`
 - Master DB records: `561`
-- Generated concepts: `639`
+- Generated concepts: `642`
 
-## 忘れられた放課後の迷宮
+## 逆さまの残響
 
-- Work ID: `orig:20260617133503:fb42f0c56b6c6a7e4b04`
-- Generated at UTC: `2026-06-17T13:35:03+00:00`
+- Work ID: `orig:20260617165011:228df0cfacd98c58c8f5`
+- Generated at UTC: `2026-06-17T16:50:11+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Seinen, School, Supernatural
-- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、怪異専門の窓口で働く臆病な公務員が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: coming of age
+- Genre mix: Action, Adventure, Drama, Historical
+- Logline: 宇宙移民船の中に再現された古い商店街で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: identity, trust and betrayal
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-wd:Q302647, jikan:manga:16922, jikan:manga:87397, jikan:manga:401, jikan:manga:38071
+jikan:manga:42001, wd:Q482870
