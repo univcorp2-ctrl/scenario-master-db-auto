@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 536,
+    "manga": 539,
     "novel": 46,
     "series": 35
   },
-  "generated_at": "2026-06-18T12:44:24+00:00",
+  "generated_at": "2026-06-18T16:49:34+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-18T16:49:34+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260618164934:09d09c03ee78ca68e924"
+    },
+    {
+      "generated_at": "2026-06-18T16:49:34+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260618164934:329c34d427f3204c3ee9"
+    },
+    {
+      "generated_at": "2026-06-18T16:49:34+00:00",
+      "title_ja": "最後の放課後の観測者",
+      "work_id": "orig:20260618164934:d7316e7b7713e866f03b"
+    },
     {
       "generated_at": "2026-06-18T12:44:24+00:00",
       "title_ja": "眠らない放課後の残響",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-17T13:35:03+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260617133503:6129e7b51fa3eef11bfd"
-    },
-    {
-      "generated_at": "2026-06-17T13:35:03+00:00",
-      "title_ja": "透明な放課後の地図",
-      "work_id": "orig:20260617133503:54339868fc73abf3b47b"
-    },
-    {
-      "generated_at": "2026-06-17T08:52:18+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260617085218:c96372f4d82065c27ecb"
-    },
-    {
-      "generated_at": "2026-06-17T08:52:18+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260617085218:bfd8b5b79a6850cfefab"
     }
   ],
-  "total_generated_works": 654
+  "total_generated_works": 657
 }
