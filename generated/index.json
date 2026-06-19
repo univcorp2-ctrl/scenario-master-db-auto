@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 544,
+    "manga": 547,
     "novel": 46,
     "series": 36
   },
-  "generated_at": "2026-06-19T02:39:18+00:00",
+  "generated_at": "2026-06-19T08:56:46+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-19T08:56:46+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260619085646:cf92e8718de9a2d6cd1d"
+    },
+    {
+      "generated_at": "2026-06-19T08:56:46+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260619085646:38674ae169af15441038"
+    },
+    {
+      "generated_at": "2026-06-19T08:56:46+00:00",
+      "title_ja": "眠らない残響",
+      "work_id": "orig:20260619085646:135e33500b5f824a6688"
+    },
     {
       "generated_at": "2026-06-19T02:39:18+00:00",
       "title_ja": "逆さまの放課後の修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-18T02:11:06+00:00",
       "title_ja": "月下の観測者",
       "work_id": "orig:20260618021106:acd8162013ec789b4a68"
-    },
-    {
-      "generated_at": "2026-06-18T02:11:06+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260618021106:adb139c29986720dd6c5"
-    },
-    {
-      "generated_at": "2026-06-17T19:54:13+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260617195413:58b38afd4a8134331ec6"
-    },
-    {
-      "generated_at": "2026-06-17T19:54:13+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260617195413:cc2c4996be53c9b2d55e"
     }
   ],
-  "total_generated_works": 663
+  "total_generated_works": 666
 }
