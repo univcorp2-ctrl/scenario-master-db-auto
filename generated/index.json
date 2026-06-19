@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 37,
-    "manga": 542,
+    "manga": 544,
     "novel": 46,
-    "series": 35
+    "series": 36
   },
-  "generated_at": "2026-06-18T20:03:59+00:00",
+  "generated_at": "2026-06-19T02:39:18+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-19T02:39:18+00:00",
+      "title_ja": "逆さまの放課後の修復士",
+      "work_id": "orig:20260619023918:65bf8de9b759631146ee"
+    },
+    {
+      "generated_at": "2026-06-19T02:39:18+00:00",
+      "title_ja": "透明な放課後の残響",
+      "work_id": "orig:20260619023918:ff3f8ea3af1ec3f1b852"
+    },
+    {
+      "generated_at": "2026-06-19T02:39:18+00:00",
+      "title_ja": "名前のない放課後の交渉人",
+      "work_id": "orig:20260619023918:9340b4a54e4030622347"
+    },
     {
       "generated_at": "2026-06-18T20:03:59+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-17T19:54:13+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260617195413:cc2c4996be53c9b2d55e"
-    },
-    {
-      "generated_at": "2026-06-17T19:54:13+00:00",
-      "title_ja": "月下の放課後の交渉人",
-      "work_id": "orig:20260617195413:2d1b16a5694e2d4a79ca"
-    },
-    {
-      "generated_at": "2026-06-17T16:50:11+00:00",
-      "title_ja": "逆さまの残響",
-      "work_id": "orig:20260617165011:228df0cfacd98c58c8f5"
-    },
-    {
-      "generated_at": "2026-06-17T16:50:11+00:00",
-      "title_ja": "月下の調律師",
-      "work_id": "orig:20260617165011:7d98e6e004bf5f47bd3c"
     }
   ],
-  "total_generated_works": 660
+  "total_generated_works": 663
 }
