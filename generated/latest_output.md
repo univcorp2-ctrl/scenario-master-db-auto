@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-20T19:05:11+00:00`
+- Checked at UTC: `2026-06-21T02:12:45+00:00`
 - Master DB records: `564`
-- Generated concepts: `696`
+- Generated concepts: `699`
 
-## 逆さまの修復士
+## 名前のない証言者たち
 
-- Work ID: `orig:20260620190511:35a151cc723e90412352`
-- Generated at UTC: `2026-06-20T19:05:11+00:00`
-- Medium: `manga`
-- Genre mix: Action, Comedy, Fantasy, Gore
-- Logline: 記憶を修理する職人ギルドがある王国で、敗者の記憶を預かることになった元アスリートが、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: identity, trust and betrayal
+- Work ID: `orig:20260621021245:af6c610bea330475ec62`
+- Generated at UTC: `2026-06-21T02:12:45+00:00`
+- Medium: `novel`
+- Genre mix: Mystery, Drama, Fantasy, Seinen
+- Logline: 宇宙移民船の中に再現された古い商店街で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: truth and justice
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:1133
+jikan:manga:23751, jikan:manga:115730, jikan:manga:40761, jikan:manga:111229
