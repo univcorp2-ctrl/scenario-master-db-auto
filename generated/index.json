@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 38,
-    "manga": 578,
+    "manga": 581,
     "novel": 52,
     "series": 40
   },
-  "generated_at": "2026-06-21T15:43:19+00:00",
+  "generated_at": "2026-06-21T17:14:01+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-21T17:14:01+00:00",
+      "title_ja": "最後の修復士",
+      "work_id": "orig:20260621171401:5913376db8d72563b4a0"
+    },
+    {
+      "generated_at": "2026-06-21T17:14:01+00:00",
+      "title_ja": "逆さまの時計塔",
+      "work_id": "orig:20260621171401:e77d55f45e304dce5f27"
+    },
+    {
+      "generated_at": "2026-06-21T17:14:01+00:00",
+      "title_ja": "透明な交渉人",
+      "work_id": "orig:20260621171401:0f1887a60bd7dfd8dca8"
+    },
     {
       "generated_at": "2026-06-21T15:43:19+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-20T17:12:16+00:00",
       "title_ja": "名前のない証言者たち",
       "work_id": "orig:20260620171216:dc8dc8c39e3140a90395"
-    },
-    {
-      "generated_at": "2026-06-20T17:12:16+00:00",
-      "title_ja": "眠らない時計塔",
-      "work_id": "orig:20260620171216:73748ac31aedaaf7cc6f"
-    },
-    {
-      "generated_at": "2026-06-20T15:27:12+00:00",
-      "title_ja": "透明な調律師",
-      "work_id": "orig:20260620152712:392d406b5f616c59b61f"
-    },
-    {
-      "generated_at": "2026-06-20T15:27:12+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260620152712:75a43e3f354b27e1fffb"
     }
   ],
-  "total_generated_works": 708
+  "total_generated_works": 711
 }
