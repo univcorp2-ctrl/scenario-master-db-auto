@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 38,
-    "manga": 583,
+    "manga": 586,
     "novel": 52,
     "series": 41
   },
-  "generated_at": "2026-06-21T19:09:20+00:00",
+  "generated_at": "2026-06-22T02:16:02+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-22T02:16:02+00:00",
+      "title_ja": "眠らない記録係",
+      "work_id": "orig:20260622021602:762b3b2b22ee0e40f5f0"
+    },
+    {
+      "generated_at": "2026-06-22T02:16:02+00:00",
+      "title_ja": "名前のない放課後の記録係",
+      "work_id": "orig:20260622021602:a2f2b40f694648af69b5"
+    },
+    {
+      "generated_at": "2026-06-22T02:16:02+00:00",
+      "title_ja": "月下の交渉人",
+      "work_id": "orig:20260622021602:c7973c0c532ff71159cb"
+    },
     {
       "generated_at": "2026-06-21T19:09:20+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-21T02:12:45+00:00",
       "title_ja": "最後の交渉人",
       "work_id": "orig:20260621021245:db8e9e7ac3f3ffd45a1e"
-    },
-    {
-      "generated_at": "2026-06-21T02:12:45+00:00",
-      "title_ja": "逆さまの修復士",
-      "work_id": "orig:20260621021245:8962d01aa983eced6141"
-    },
-    {
-      "generated_at": "2026-06-20T19:05:11+00:00",
-      "title_ja": "逆さまの修復士",
-      "work_id": "orig:20260620190511:35a151cc723e90412352"
-    },
-    {
-      "generated_at": "2026-06-20T19:05:11+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260620190511:c19b0e01477f6fc192f0"
     }
   ],
-  "total_generated_works": 714
+  "total_generated_works": 717
 }
