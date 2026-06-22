@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 38,
-    "manga": 589,
+    "manga": 592,
     "novel": 52,
     "series": 41
   },
-  "generated_at": "2026-06-22T09:36:22+00:00",
+  "generated_at": "2026-06-22T15:11:50+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-22T15:11:50+00:00",
+      "title_ja": "最後の放課後の記録係",
+      "work_id": "orig:20260622151150:19327c31d41ea0e71bc3"
+    },
+    {
+      "generated_at": "2026-06-22T15:11:50+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260622151150:4faa55862618ac4c6d3e"
+    },
+    {
+      "generated_at": "2026-06-22T15:11:50+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260622151150:2b1e60e659963bc21eac"
+    },
     {
       "generated_at": "2026-06-22T09:36:22+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-21T12:03:57+00:00",
       "title_ja": "透明な迷宮",
       "work_id": "orig:20260621120357:f0c5f387ed02a1818a6b"
-    },
-    {
-      "generated_at": "2026-06-21T12:03:57+00:00",
-      "title_ja": "眠らない灯台",
-      "work_id": "orig:20260621120357:9ab7b041b966f5dc8ae8"
-    },
-    {
-      "generated_at": "2026-06-21T08:19:03+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260621081903:ed62626dcdeca808639d"
-    },
-    {
-      "generated_at": "2026-06-21T08:19:03+00:00",
-      "title_ja": "最後の放課後の修復士",
-      "work_id": "orig:20260621081903:cc63e9760d8c58f18d4e"
     }
   ],
-  "total_generated_works": 720
+  "total_generated_works": 723
 }
