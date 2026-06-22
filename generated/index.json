@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 38,
-    "manga": 586,
+    "manga": 589,
     "novel": 52,
     "series": 41
   },
-  "generated_at": "2026-06-22T02:16:02+00:00",
+  "generated_at": "2026-06-22T09:36:22+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-22T09:36:22+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260622093622:2100ef88ae2c2ac6d6d5"
+    },
+    {
+      "generated_at": "2026-06-22T09:36:22+00:00",
+      "title_ja": "忘れられた調律師",
+      "work_id": "orig:20260622093622:6b716583328650b7130a"
+    },
+    {
+      "generated_at": "2026-06-22T09:36:22+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260622093622:2037d68b3939a2acc804"
+    },
     {
       "generated_at": "2026-06-22T02:16:02+00:00",
       "title_ja": "眠らない記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-21T08:19:03+00:00",
       "title_ja": "最後の放課後の修復士",
       "work_id": "orig:20260621081903:cc63e9760d8c58f18d4e"
-    },
-    {
-      "generated_at": "2026-06-21T08:19:03+00:00",
-      "title_ja": "最後の交渉人",
-      "work_id": "orig:20260621081903:5d0d18d5da9a8e1bb116"
-    },
-    {
-      "generated_at": "2026-06-21T02:12:45+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260621021245:af6c610bea330475ec62"
-    },
-    {
-      "generated_at": "2026-06-21T02:12:45+00:00",
-      "title_ja": "最後の交渉人",
-      "work_id": "orig:20260621021245:db8e9e7ac3f3ffd45a1e"
     }
   ],
-  "total_generated_works": 717
+  "total_generated_works": 720
 }
