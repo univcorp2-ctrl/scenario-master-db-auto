@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-22T19:01:41+00:00`
+- Checked at UTC: `2026-06-23T01:55:06+00:00`
 - Master DB records: `570`
-- Generated concepts: `726`
+- Generated concepts: `729`
 
-## 逆さまの証言者たち
+## 二度目の記録係
 
-- Work ID: `orig:20260622190141:ac178ed43e88fbf8f1a4`
-- Generated at UTC: `2026-06-22T19:01:41+00:00`
+- Work ID: `orig:20260623015506:85722e9dd85f475fd67b`
+- Generated at UTC: `2026-06-23T01:55:06+00:00`
 - Medium: `film`
-- Genre mix: Drama, Romance, Action, Adventure
-- Logline: 記憶を修理する職人ギルドがある王国で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: truth and justice
+- Genre mix: Action, Gore, High Stakes Game, Horror
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: identity, trust and betrayal
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:47022, jikan:manga:104538, jikan:manga:25515, jikan:manga:56755
+jikan:manga:33031, jikan:manga:147171, wd:Q19840638
