@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 40,
-    "manga": 596,
+    "manga": 599,
     "novel": 52,
     "series": 41
   },
-  "generated_at": "2026-06-23T01:55:06+00:00",
+  "generated_at": "2026-06-23T05:56:58+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-23T05:56:57+00:00",
+      "title_ja": "最後の迷宮",
+      "work_id": "orig:20260623055657:9ac45df74f92ef75cc47"
+    },
+    {
+      "generated_at": "2026-06-23T05:56:57+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260623055657:a0b83af72268a1bd5a06"
+    },
+    {
+      "generated_at": "2026-06-23T05:56:57+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260623055657:6ff1a42c58e8455f95a1"
+    },
     {
       "generated_at": "2026-06-23T01:55:06+00:00",
       "title_ja": "二度目の記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-21T19:09:20+00:00",
       "title_ja": "二度目の放課後の地図",
       "work_id": "orig:20260621190920:4f3a9486539caa8b50d6"
-    },
-    {
-      "generated_at": "2026-06-21T19:09:20+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260621190920:f5ac836420afe00cf77d"
-    },
-    {
-      "generated_at": "2026-06-21T17:14:01+00:00",
-      "title_ja": "最後の修復士",
-      "work_id": "orig:20260621171401:5913376db8d72563b4a0"
-    },
-    {
-      "generated_at": "2026-06-21T17:14:01+00:00",
-      "title_ja": "逆さまの時計塔",
-      "work_id": "orig:20260621171401:e77d55f45e304dce5f27"
     }
   ],
-  "total_generated_works": 729
+  "total_generated_works": 732
 }

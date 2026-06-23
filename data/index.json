@@ -1,19 +1,19 @@
 {
   "by_medium": {
-    "manga": 508,
+    "manga": 509,
     "novel": 62
   },
   "by_source": {
-    "jikan": 508,
+    "jikan": 509,
     "wikidata": 62
   },
-  "generated_at": "2026-06-23T01:55:06+00:00",
+  "generated_at": "2026-06-23T05:56:57+00:00",
   "latest_run": {
     "candidate_count": 10,
-    "created": 0,
-    "finished_at": "2026-06-23T01:55:06+00:00",
-    "total_records": 570,
-    "updated": 10
+    "created": 1,
+    "finished_at": "2026-06-23T05:56:57+00:00",
+    "total_records": 571,
+    "updated": 9
   },
-  "total_records": 570
+  "total_records": 571
 }
