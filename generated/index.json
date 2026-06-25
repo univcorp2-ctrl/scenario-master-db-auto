@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 42,
-    "manga": 629,
-    "novel": 55,
+    "manga": 631,
+    "novel": 56,
     "series": 42
   },
-  "generated_at": "2026-06-25T05:58:50+00:00",
+  "generated_at": "2026-06-25T08:53:48+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-25T08:53:48+00:00",
+      "title_ja": "月下の観測者",
+      "work_id": "orig:20260625085348:2572c4bb8feab1ccb537"
+    },
+    {
+      "generated_at": "2026-06-25T08:53:48+00:00",
+      "title_ja": "眠らない逃亡者",
+      "work_id": "orig:20260625085348:2175adea37a89e522903"
+    },
+    {
+      "generated_at": "2026-06-25T08:53:48+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260625085348:c5ca438875e5f8fab463"
+    },
     {
       "generated_at": "2026-06-25T05:58:50+00:00",
       "title_ja": "最後の調律師",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-24T08:49:06+00:00",
       "title_ja": "迷宮家族の約束",
       "work_id": "orig:20260624084906:e23c5dfcf8b8bf9a5539"
-    },
-    {
-      "generated_at": "2026-06-24T08:49:06+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260624084906:2befd23aa1b65a33b3a0"
-    },
-    {
-      "generated_at": "2026-06-24T05:55:55+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260624055555:51767082debf20f6f147"
-    },
-    {
-      "generated_at": "2026-06-24T05:55:55+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260624055555:19a8f523528b4593f942"
     }
   ],
-  "total_generated_works": 768
+  "total_generated_works": 771
 }
