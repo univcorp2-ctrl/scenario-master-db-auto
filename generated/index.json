@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 42,
-    "manga": 635,
+    "manga": 637,
     "novel": 58,
-    "series": 42
+    "series": 43
   },
-  "generated_at": "2026-06-25T16:13:22+00:00",
+  "generated_at": "2026-06-25T19:42:30+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-25T19:42:30+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260625194230:aeef58be607fd535df66"
+    },
+    {
+      "generated_at": "2026-06-25T19:42:30+00:00",
+      "title_ja": "眠らない放課後の時計塔",
+      "work_id": "orig:20260625194230:b522443803aad323d395"
+    },
+    {
+      "generated_at": "2026-06-25T19:42:30+00:00",
+      "title_ja": "眠らない調律師",
+      "work_id": "orig:20260625194230:0757ed42d131fa04bb8c"
+    },
     {
       "generated_at": "2026-06-25T16:13:22+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-24T19:22:56+00:00",
       "title_ja": "逆さまの逃亡者",
       "work_id": "orig:20260624192256:4f90e7a66208d59b42cc"
-    },
-    {
-      "generated_at": "2026-06-24T19:22:56+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260624192256:174cafd4b863f8ef9bcf"
-    },
-    {
-      "generated_at": "2026-06-24T16:05:43+00:00",
-      "title_ja": "透明な放課後の記録係",
-      "work_id": "orig:20260624160543:53d7f2d0b2a572d0a341"
-    },
-    {
-      "generated_at": "2026-06-24T16:05:43+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260624160543:2d9df80a205f43c5b440"
     }
   ],
-  "total_generated_works": 777
+  "total_generated_works": 780
 }
