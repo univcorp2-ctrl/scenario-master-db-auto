@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-25T08:53:48+00:00`
+- Checked at UTC: `2026-06-25T12:10:39+00:00`
 - Master DB records: `574`
-- Generated concepts: `771`
+- Generated concepts: `774`
 
-## 月下の観測者
+## 逆さまの地図
 
-- Work ID: `orig:20260625085348:2572c4bb8feab1ccb537`
-- Generated at UTC: `2026-06-25T08:53:48+00:00`
+- Work ID: `orig:20260625121039:f45c4cd836e7b9b12e23`
+- Generated at UTC: `2026-06-25T12:10:39+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Drama, Otaku Culture, Romance
-- Logline: 失われた物語だけが通貨として流通する群島で、禁じられた物語を修復する若い司書が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 禁じられた物語を修復する若い司書
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Genre mix: Action, Fantasy, Drama, Gore
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
 - Themes: identity, trust and betrayal
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:9711
+jikan:manga:124845, jikan:manga:1097, jikan:manga:83903
