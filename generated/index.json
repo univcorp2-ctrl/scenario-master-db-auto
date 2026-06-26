@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 42,
-    "manga": 637,
+    "manga": 640,
     "novel": 58,
     "series": 43
   },
-  "generated_at": "2026-06-25T19:42:30+00:00",
+  "generated_at": "2026-06-26T01:58:55+00:00",
   "latest": [
+    {
+      "generated_at": "2026-06-26T01:58:55+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260626015855:09e61a9702883c28716d"
+    },
+    {
+      "generated_at": "2026-06-26T01:58:55+00:00",
+      "title_ja": "逆さまの残響",
+      "work_id": "orig:20260626015855:1423f9a2d47830fc6901"
+    },
+    {
+      "generated_at": "2026-06-26T01:58:55+00:00",
+      "title_ja": "二度目の放課後の地図",
+      "work_id": "orig:20260626015855:25ea03b2634b7b01ead8"
+    },
     {
       "generated_at": "2026-06-25T19:42:30+00:00",
       "title_ja": "忘れられた証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-25T01:57:36+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260625015736:4ae89a5039c5032ee8b6"
-    },
-    {
-      "generated_at": "2026-06-25T01:57:36+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260625015736:71f6517f5c7dc0fd13da"
-    },
-    {
-      "generated_at": "2026-06-24T19:22:56+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260624192256:b5573e7c36ea673d6ac3"
-    },
-    {
-      "generated_at": "2026-06-24T19:22:56+00:00",
-      "title_ja": "逆さまの逃亡者",
-      "work_id": "orig:20260624192256:4f90e7a66208d59b42cc"
     }
   ],
-  "total_generated_works": 780
+  "total_generated_works": 783
 }
