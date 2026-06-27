@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-26T19:25:36+00:00`
+- Checked at UTC: `2026-06-27T01:52:40+00:00`
 - Master DB records: `575`
-- Generated concepts: `798`
+- Generated concepts: `801`
 
-## 最後の灯台
+## 逆さまの証言者たち
 
-- Work ID: `orig:20260626192536:8892a214b8c6ffc33af3`
-- Generated at UTC: `2026-06-26T19:25:36+00:00`
+- Work ID: `orig:20260627015240:4f4a9a2d52c41255fbd0`
+- Generated at UTC: `2026-06-27T01:52:40+00:00`
 - Medium: `manga`
-- Genre mix: Action, Drama, Suspense, Psychological
-- Logline: 宇宙移民船の中に再現された古い商店街で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
-- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
-- Themes: identity, trust and betrayal
+- Genre mix: Drama, Mystery, Comedy, Historical
+- Logline: 記憶を修理する職人ギルドがある王国で、誰からも忘れられる体質を利用して事件を解く学生が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: truth and justice, coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:124845, jikan:manga:21, jikan:manga:85968, jikan:manga:119282
+jikan:manga:107562, jikan:manga:51, jikan:manga:23751, jikan:manga:46282
