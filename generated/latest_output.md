@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-27T11:17:51+00:00`
+- Checked at UTC: `2026-06-27T13:02:30+00:00`
 - Master DB records: `575`
-- Generated concepts: `810`
+- Generated concepts: `813`
 
-## 月下の放課後の調律師
+## 月下の証言者たち
 
-- Work ID: `orig:20260627111751:6d123e468b2bcd03916c`
-- Generated at UTC: `2026-06-27T11:17:51+00:00`
+- Work ID: `orig:20260627130230:a8d273a73bcb805ac789`
+- Generated at UTC: `2026-06-27T13:02:30+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Action, Award Winning, Sci-Fi
-- Logline: 感情が公共インフラとして数値化される都市で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: coming of age
+- Genre mix: Mystery, Supernatural, Comedy, Drama
+- Logline: 記憶を修理する職人ギルドがある王国で、禁じられた物語を修復する若い司書が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: truth and justice
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:664, jikan:manga:26, jikan:manga:106, jikan:manga:37523
+jikan:manga:93097, jikan:manga:23751, jikan:manga:141833
