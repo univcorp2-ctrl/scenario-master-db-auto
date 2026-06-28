@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-28T15:08:53+00:00`
+- Checked at UTC: `2026-06-28T16:54:35+00:00`
 - Master DB records: `578`
-- Generated concepts: `837`
+- Generated concepts: `840`
 
-## 透明な証言者たち
+## 逆さまの灯台
 
-- Work ID: `orig:20260628150853:d35f28ee8b4831269511`
-- Generated at UTC: `2026-06-28T15:08:53+00:00`
+- Work ID: `orig:20260628165435:49c8b4cbfaff5c4c608a`
+- Generated at UTC: `2026-06-28T16:54:35+00:00`
 - Medium: `manga`
-- Genre mix: Shounen, Comedy, Fantasy, Mystery
-- Logline: 宇宙移民船の中に再現された古い商店街で、禁じられた物語を修復する若い司書が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
-- Protagonist: 禁じられた物語を修復する若い司書
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: truth and justice
-- Hook tags: top-ranked manga
+- Genre mix: Action, Adventure, Fantasy, Martial Arts
+- Logline: 感情が公共インフラとして数値化される都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 感情が公共インフラとして数値化される都市
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: identity, trust and betrayal
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:96044, jikan:manga:34053, jikan:manga:3031, jikan:manga:36413
+jikan:manga:42
