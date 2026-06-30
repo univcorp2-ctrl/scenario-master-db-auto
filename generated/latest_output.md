@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-06-30T10:46:33+00:00`
-- Master DB records: `578`
-- Generated concepts: `867`
+- Checked at UTC: `2026-06-30T13:48:43+00:00`
+- Master DB records: `579`
+- Generated concepts: `870`
 
-## 二度目の迷宮
+## 月下の放課後の残響
 
-- Work ID: `orig:20260630104633:3854b18e106069c865c7`
-- Generated at UTC: `2026-06-30T10:46:33+00:00`
+- Work ID: `orig:20260630134843:1bc5adc5baddeeded3e1`
+- Generated at UTC: `2026-06-30T13:48:43+00:00`
 - Medium: `manga`
-- Genre mix: Sci-Fi, Suspense
-- Logline: 夢の記録が裁判証拠になる近未来で、怪異専門の窓口で働く臆病な公務員が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: identity, trust and betrayal
+- Genre mix: School, Action, Fantasy, Romance
+- Logline: 感情が公共インフラとして数値化される都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 感情が公共インフラとして数値化される都市
+- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: coming of age
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. goal vs obstacleが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:39859
+jikan:manga:135545, jikan:manga:24464, jikan:manga:81117
