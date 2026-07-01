@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 45,
-    "manga": 726,
+    "film": 46,
+    "manga": 728,
     "novel": 64,
     "series": 50
   },
-  "generated_at": "2026-07-01T11:24:13+00:00",
+  "generated_at": "2026-07-01T13:59:52+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-01T13:59:52+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260701135952:79cdc718758faf19ea9a"
+    },
+    {
+      "generated_at": "2026-07-01T13:59:52+00:00",
+      "title_ja": "忘れられた放課後の記録係",
+      "work_id": "orig:20260701135952:141bb4a984f9e9767161"
+    },
+    {
+      "generated_at": "2026-07-01T13:59:52+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260701135952:37c1cf558bf3d78e5263"
+    },
     {
       "generated_at": "2026-07-01T11:24:13+00:00",
       "title_ja": "二度目の地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-30T13:48:43+00:00",
       "title_ja": "眠らない逃亡者",
       "work_id": "orig:20260630134843:2fe655fe5bc29e6d1826"
-    },
-    {
-      "generated_at": "2026-06-30T13:48:43+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260630134843:33c6633c815b104f3aa6"
-    },
-    {
-      "generated_at": "2026-06-30T10:46:33+00:00",
-      "title_ja": "二度目の迷宮",
-      "work_id": "orig:20260630104633:3854b18e106069c865c7"
-    },
-    {
-      "generated_at": "2026-06-30T10:46:33+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260630104633:9ad3e122908ef09f044e"
     }
   ],
-  "total_generated_works": 885
+  "total_generated_works": 888
 }
