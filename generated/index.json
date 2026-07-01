@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 46,
-    "manga": 730,
+    "manga": 733,
     "novel": 65,
     "series": 50
   },
-  "generated_at": "2026-07-01T16:25:26+00:00",
+  "generated_at": "2026-07-01T19:26:51+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-01T19:26:51+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260701192651:e661accd9e189ba49cd8"
+    },
+    {
+      "generated_at": "2026-07-01T19:26:51+00:00",
+      "title_ja": "二度目の時計塔",
+      "work_id": "orig:20260701192651:2c62b1a9b192059ac1f3"
+    },
+    {
+      "generated_at": "2026-07-01T19:26:51+00:00",
+      "title_ja": "眠らない時計塔",
+      "work_id": "orig:20260701192651:61b3ee603ca9d686e92d"
+    },
     {
       "generated_at": "2026-07-01T16:25:26+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-06-30T19:27:55+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260630192755:dab625e2ffdb516df085"
-    },
-    {
-      "generated_at": "2026-06-30T19:27:55+00:00",
-      "title_ja": "眠らない記録係",
-      "work_id": "orig:20260630192755:38b43cd1103b7b3183c5"
-    },
-    {
-      "generated_at": "2026-06-30T16:13:33+00:00",
-      "title_ja": "逆さまの迷宮",
-      "work_id": "orig:20260630161333:e5b9df3da795ebe5be2f"
-    },
-    {
-      "generated_at": "2026-06-30T16:13:33+00:00",
-      "title_ja": "忘れられた逃亡者",
-      "work_id": "orig:20260630161333:1951fe4a1b8cdb97b365"
     }
   ],
-  "total_generated_works": 891
+  "total_generated_works": 894
 }
