@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 46,
-    "manga": 736,
+    "manga": 739,
     "novel": 65,
     "series": 50
   },
-  "generated_at": "2026-07-02T01:57:00+00:00",
+  "generated_at": "2026-07-02T05:49:55+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-02T05:49:55+00:00",
+      "title_ja": "最後の調律師",
+      "work_id": "orig:20260702054955:f95effd9a9437e33cbac"
+    },
+    {
+      "generated_at": "2026-07-02T05:49:55+00:00",
+      "title_ja": "眠らない迷宮",
+      "work_id": "orig:20260702054955:eacfe4a9f5745c143076"
+    },
+    {
+      "generated_at": "2026-07-02T05:49:55+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260702054955:f609218165d32a537553"
+    },
     {
       "generated_at": "2026-07-02T01:57:00+00:00",
       "title_ja": "眠らない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-01T08:00:52+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260701080052:a88e568c3871ae7cef2d"
-    },
-    {
-      "generated_at": "2026-07-01T08:00:52+00:00",
-      "title_ja": "忘れられた観測者",
-      "work_id": "orig:20260701080052:d039cd815a52d6c7008d"
-    },
-    {
-      "generated_at": "2026-07-01T02:03:28+00:00",
-      "title_ja": "二度目の記録係",
-      "work_id": "orig:20260701020328:36f6bfc06ba22313eacb"
-    },
-    {
-      "generated_at": "2026-07-01T02:03:28+00:00",
-      "title_ja": "眠らない放課後の観測者",
-      "work_id": "orig:20260701020328:a0d3c8c19d986c44e822"
     }
   ],
-  "total_generated_works": 897
+  "total_generated_works": 900
 }
