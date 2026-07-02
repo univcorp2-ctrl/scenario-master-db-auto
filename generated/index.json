@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 46,
-    "manga": 746,
+    "manga": 749,
     "novel": 66,
     "series": 51
   },
-  "generated_at": "2026-07-02T13:58:01+00:00",
+  "generated_at": "2026-07-02T16:01:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-02T16:01:08+00:00",
+      "title_ja": "透明な迷宮",
+      "work_id": "orig:20260702160108:7597ee5f67f83d53df3b"
+    },
+    {
+      "generated_at": "2026-07-02T16:01:08+00:00",
+      "title_ja": "二度目の観測者",
+      "work_id": "orig:20260702160108:8f394e62cdd6953631fd"
+    },
+    {
+      "generated_at": "2026-07-02T16:01:08+00:00",
+      "title_ja": "記録係家族の約束",
+      "work_id": "orig:20260702160108:505c1aa623cee9641df5"
+    },
     {
       "generated_at": "2026-07-02T13:58:01+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-01T19:26:51+00:00",
       "title_ja": "二度目の時計塔",
       "work_id": "orig:20260701192651:2c62b1a9b192059ac1f3"
-    },
-    {
-      "generated_at": "2026-07-01T19:26:51+00:00",
-      "title_ja": "眠らない時計塔",
-      "work_id": "orig:20260701192651:61b3ee603ca9d686e92d"
-    },
-    {
-      "generated_at": "2026-07-01T16:25:26+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260701162526:acc62561c1b7aed798ff"
-    },
-    {
-      "generated_at": "2026-07-01T16:25:26+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260701162526:e231b431de613fa69954"
     }
   ],
-  "total_generated_works": 909
+  "total_generated_works": 912
 }
