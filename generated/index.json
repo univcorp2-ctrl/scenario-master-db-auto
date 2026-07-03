@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 47,
-    "manga": 761,
-    "novel": 67,
+    "manga": 763,
+    "novel": 68,
     "series": 52
   },
-  "generated_at": "2026-07-03T11:58:23+00:00",
+  "generated_at": "2026-07-03T13:49:47+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-03T13:49:47+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260703134947:c26b784df10ad1681b81"
+    },
+    {
+      "generated_at": "2026-07-03T13:49:47+00:00",
+      "title_ja": "二度目の修復士",
+      "work_id": "orig:20260703134947:f553f117b2b2d580f98f"
+    },
+    {
+      "generated_at": "2026-07-03T13:49:47+00:00",
+      "title_ja": "名前のない放課後の記録係",
+      "work_id": "orig:20260703134947:45cef577ad5399d14e90"
+    },
     {
       "generated_at": "2026-07-03T11:58:23+00:00",
       "title_ja": "忘れられた証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-02T16:01:08+00:00",
       "title_ja": "二度目の観測者",
       "work_id": "orig:20260702160108:8f394e62cdd6953631fd"
-    },
-    {
-      "generated_at": "2026-07-02T16:01:08+00:00",
-      "title_ja": "記録係家族の約束",
-      "work_id": "orig:20260702160108:505c1aa623cee9641df5"
-    },
-    {
-      "generated_at": "2026-07-02T13:58:01+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260702135801:f42b07b2982b2ee50f4e"
-    },
-    {
-      "generated_at": "2026-07-02T13:58:01+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260702135801:b90585dab6cc007bfe90"
     }
   ],
-  "total_generated_works": 927
+  "total_generated_works": 930
 }
