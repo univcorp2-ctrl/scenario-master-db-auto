@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 54,
-    "manga": 795,
+    "film": 55,
+    "manga": 797,
     "novel": 72,
     "series": 54
   },
-  "generated_at": "2026-07-05T11:21:33+00:00",
+  "generated_at": "2026-07-05T13:01:10+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-05T13:01:10+00:00",
+      "title_ja": "透明な放課後の地図",
+      "work_id": "orig:20260705130110:d0f01012101025734ef6"
+    },
+    {
+      "generated_at": "2026-07-05T13:01:10+00:00",
+      "title_ja": "透明な放課後の残響",
+      "work_id": "orig:20260705130110:ea6104350a8ae0300fca"
+    },
+    {
+      "generated_at": "2026-07-05T13:01:10+00:00",
+      "title_ja": "眠らない放課後の逃亡者",
+      "work_id": "orig:20260705130110:41dedc3f43ead5192a4f"
+    },
     {
       "generated_at": "2026-07-05T11:21:33+00:00",
       "title_ja": "名前のない逃亡者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-04T16:48:11+00:00",
       "title_ja": "忘れられた放課後の観測者",
       "work_id": "orig:20260704164811:d17bafe6ecddbf1aac26"
-    },
-    {
-      "generated_at": "2026-07-04T16:48:11+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260704164811:3959fd3e36e51fcc2687"
-    },
-    {
-      "generated_at": "2026-07-04T14:56:10+00:00",
-      "title_ja": "眠らない放課後の地図",
-      "work_id": "orig:20260704145610:8556c158e734168b4074"
-    },
-    {
-      "generated_at": "2026-07-04T14:56:10+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260704145610:9104b2700048a30d2af3"
     }
   ],
-  "total_generated_works": 975
+  "total_generated_works": 978
 }
