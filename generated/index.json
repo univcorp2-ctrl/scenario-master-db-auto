@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 56,
-    "manga": 806,
+    "manga": 809,
     "novel": 73,
     "series": 55
   },
-  "generated_at": "2026-07-06T01:47:07+00:00",
+  "generated_at": "2026-07-06T06:14:00+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-06T06:14:00+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260706061400:3aae93c4928df6f228c0"
+    },
+    {
+      "generated_at": "2026-07-06T06:14:00+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260706061400:63eb94a32daf3124d4ed"
+    },
+    {
+      "generated_at": "2026-07-06T06:14:00+00:00",
+      "title_ja": "名前のない調律師",
+      "work_id": "orig:20260706061400:32c1abdbaaec6124952e"
+    },
     {
       "generated_at": "2026-07-06T01:47:07+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-05T11:21:33+00:00",
       "title_ja": "最後の放課後の時計塔",
       "work_id": "orig:20260705112133:7fce59d6bb8817525eb9"
-    },
-    {
-      "generated_at": "2026-07-05T11:21:33+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260705112133:a2868c54d6468b094f9d"
-    },
-    {
-      "generated_at": "2026-07-05T08:35:19+00:00",
-      "title_ja": "忘れられた時計塔",
-      "work_id": "orig:20260705083519:c8b60b185b8cccb068ee"
-    },
-    {
-      "generated_at": "2026-07-05T08:35:19+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260705083519:8eb32b940ca3b497e9f5"
     }
   ],
-  "total_generated_works": 990
+  "total_generated_works": 993
 }
