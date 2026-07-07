@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 59,
-    "manga": 821,
+    "manga": 824,
     "novel": 74,
     "series": 57
   },
-  "generated_at": "2026-07-07T09:00:44+00:00",
+  "generated_at": "2026-07-07T12:19:32+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-07T12:19:32+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260707121932:fcf215ff9ac87d4cfe73"
+    },
+    {
+      "generated_at": "2026-07-07T12:19:32+00:00",
+      "title_ja": "忘れられた調律師",
+      "work_id": "orig:20260707121932:2a58dafdce85c0aa61fd"
+    },
+    {
+      "generated_at": "2026-07-07T12:19:32+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260707121932:63d9de1f6ea25a4ce83b"
+    },
     {
       "generated_at": "2026-07-07T09:00:44+00:00",
       "title_ja": "二度目の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-06T11:52:44+00:00",
       "title_ja": "名前のない証言者たち",
       "work_id": "orig:20260706115244:f9b219616e0af6f945d8"
-    },
-    {
-      "generated_at": "2026-07-06T11:52:44+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260706115244:ed62a8ec123ab4043dfd"
-    },
-    {
-      "generated_at": "2026-07-06T06:14:00+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260706061400:3aae93c4928df6f228c0"
-    },
-    {
-      "generated_at": "2026-07-06T06:14:00+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260706061400:63eb94a32daf3124d4ed"
     }
   ],
-  "total_generated_works": 1011
+  "total_generated_works": 1014
 }
