@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 60,
-    "manga": 843,
+    "manga": 846,
     "novel": 76,
     "series": 59
   },
-  "generated_at": "2026-07-08T15:56:14+00:00",
+  "generated_at": "2026-07-08T17:16:17+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-08T17:16:17+00:00",
+      "title_ja": "交渉人家族の約束",
+      "work_id": "orig:20260708171617:20103da6bd6b5411fd3c"
+    },
+    {
+      "generated_at": "2026-07-08T17:16:17+00:00",
+      "title_ja": "逆さまの調律師",
+      "work_id": "orig:20260708171617:38ede5d104b68bf7c6aa"
+    },
+    {
+      "generated_at": "2026-07-08T17:16:17+00:00",
+      "title_ja": "透明な灯台",
+      "work_id": "orig:20260708171617:1f12348555cace62ca00"
+    },
     {
       "generated_at": "2026-07-08T15:56:14+00:00",
       "title_ja": "透明な放課後の交渉人",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-08T01:18:34+00:00",
       "title_ja": "最後の放課後の修復士",
       "work_id": "orig:20260708011834:ac777fa04e9040984eb9"
-    },
-    {
-      "generated_at": "2026-07-08T01:18:34+00:00",
-      "title_ja": "最後の逃亡者",
-      "work_id": "orig:20260708011834:373caca01c9a25025928"
-    },
-    {
-      "generated_at": "2026-07-07T19:28:58+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260707192858:795297254717ad5a908a"
-    },
-    {
-      "generated_at": "2026-07-07T19:28:58+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260707192858:76a3cd83256c679eb541"
     }
   ],
-  "total_generated_works": 1038
+  "total_generated_works": 1041
 }
