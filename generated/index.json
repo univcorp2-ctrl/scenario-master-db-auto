@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 61,
-    "manga": 858,
+    "manga": 861,
     "novel": 77,
     "series": 60
   },
-  "generated_at": "2026-07-09T16:19:17+00:00",
+  "generated_at": "2026-07-09T19:16:42+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-09T19:16:42+00:00",
+      "title_ja": "月下の地図",
+      "work_id": "orig:20260709191642:20089da5309be01ad15a"
+    },
+    {
+      "generated_at": "2026-07-09T19:16:42+00:00",
+      "title_ja": "最後の放課後の残響",
+      "work_id": "orig:20260709191642:fe94e733a838232b4664"
+    },
+    {
+      "generated_at": "2026-07-09T19:16:42+00:00",
+      "title_ja": "逆さまの放課後の交渉人",
+      "work_id": "orig:20260709191642:e31c38c29d82b9c053ad"
+    },
     {
       "generated_at": "2026-07-09T16:19:17+00:00",
       "title_ja": "眠らない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-08T17:16:17+00:00",
       "title_ja": "逆さまの調律師",
       "work_id": "orig:20260708171617:38ede5d104b68bf7c6aa"
-    },
-    {
-      "generated_at": "2026-07-08T17:16:17+00:00",
-      "title_ja": "透明な灯台",
-      "work_id": "orig:20260708171617:1f12348555cace62ca00"
-    },
-    {
-      "generated_at": "2026-07-08T15:56:14+00:00",
-      "title_ja": "透明な放課後の交渉人",
-      "work_id": "orig:20260708155614:3c5cb750e5d405139a87"
-    },
-    {
-      "generated_at": "2026-07-08T15:56:14+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260708155614:c2a491f735b62bc694f4"
     }
   ],
-  "total_generated_works": 1056
+  "total_generated_works": 1059
 }
