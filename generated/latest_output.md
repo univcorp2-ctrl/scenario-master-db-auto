@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-09T19:16:42+00:00`
+- Checked at UTC: `2026-07-10T01:23:48+00:00`
 - Master DB records: `585`
-- Generated concepts: `1059`
+- Generated concepts: `1062`
 
-## 月下の地図
+## 忘れられた証言者たち
 
-- Work ID: `orig:20260709191642:20089da5309be01ad15a`
-- Generated at UTC: `2026-07-09T19:16:42+00:00`
-- Medium: `manga`
-- Genre mix: Action, Adventure, Award Winning, Fantasy
-- Logline: 怪異と行政手続きが共存する辺境の町で、敗者の記憶を預かることになった元アスリートが、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 怪異と行政手続きが共存する辺境の町
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260710012347:4a4fa27af99184130d47`
+- Generated at UTC: `2026-07-10T01:23:47+00:00`
+- Medium: `film`
+- Genre mix: Fantasy, Romance, Adventure, Award Winning
+- Logline: 失われた物語だけが通貨として流通する群島で、未来の自分から届く失敗報告だけを頼りに動く配達員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 失われた物語だけが通貨として流通する群島
+- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: truth and justice
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:651
+jikan:manga:133641, jikan:manga:25515, jikan:manga:110031, jikan:manga:156681, jikan:manga:923

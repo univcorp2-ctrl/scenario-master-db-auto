@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 61,
-    "manga": 861,
+    "film": 62,
+    "manga": 863,
     "novel": 77,
     "series": 60
   },
-  "generated_at": "2026-07-09T19:16:42+00:00",
+  "generated_at": "2026-07-10T01:23:47+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-10T01:23:47+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260710012347:4a4fa27af99184130d47"
+    },
+    {
+      "generated_at": "2026-07-10T01:23:47+00:00",
+      "title_ja": "忘れられた放課後の修復士",
+      "work_id": "orig:20260710012347:e54aa3521b079a081431"
+    },
+    {
+      "generated_at": "2026-07-10T01:23:47+00:00",
+      "title_ja": "二度目の放課後の迷宮",
+      "work_id": "orig:20260710012347:7440701853b4a91d64f5"
+    },
     {
       "generated_at": "2026-07-09T19:16:42+00:00",
       "title_ja": "月下の地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-08T19:01:10+00:00",
       "title_ja": "最後の調律師",
       "work_id": "orig:20260708190110:aebd17d0042e27c80c8a"
-    },
-    {
-      "generated_at": "2026-07-08T19:01:10+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260708190110:9f8ae39b77d0cfa4a109"
-    },
-    {
-      "generated_at": "2026-07-08T17:16:17+00:00",
-      "title_ja": "交渉人家族の約束",
-      "work_id": "orig:20260708171617:20103da6bd6b5411fd3c"
-    },
-    {
-      "generated_at": "2026-07-08T17:16:17+00:00",
-      "title_ja": "逆さまの調律師",
-      "work_id": "orig:20260708171617:38ede5d104b68bf7c6aa"
     }
   ],
-  "total_generated_works": 1059
+  "total_generated_works": 1062
 }
