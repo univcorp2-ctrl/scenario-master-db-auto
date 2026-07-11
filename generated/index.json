@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 63,
-    "manga": 873,
+    "manga": 876,
     "novel": 81,
     "series": 60
   },
-  "generated_at": "2026-07-10T19:12:10+00:00",
+  "generated_at": "2026-07-11T01:17:20+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-11T01:17:20+00:00",
+      "title_ja": "月下の放課後の観測者",
+      "work_id": "orig:20260711011720:f6de2e6a8a75da5aae04"
+    },
+    {
+      "generated_at": "2026-07-11T01:17:20+00:00",
+      "title_ja": "眠らない迷宮",
+      "work_id": "orig:20260711011720:83cb0ddd59ba69565318"
+    },
+    {
+      "generated_at": "2026-07-11T01:17:20+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260711011720:b93f181cb3b38736c3c6"
+    },
     {
       "generated_at": "2026-07-10T19:12:10+00:00",
       "title_ja": "眠らない観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-10T01:23:47+00:00",
       "title_ja": "忘れられた放課後の修復士",
       "work_id": "orig:20260710012347:e54aa3521b079a081431"
-    },
-    {
-      "generated_at": "2026-07-10T01:23:47+00:00",
-      "title_ja": "二度目の放課後の迷宮",
-      "work_id": "orig:20260710012347:7440701853b4a91d64f5"
-    },
-    {
-      "generated_at": "2026-07-09T19:16:42+00:00",
-      "title_ja": "月下の地図",
-      "work_id": "orig:20260709191642:20089da5309be01ad15a"
-    },
-    {
-      "generated_at": "2026-07-09T19:16:42+00:00",
-      "title_ja": "最後の放課後の残響",
-      "work_id": "orig:20260709191642:fe94e733a838232b4664"
     }
   ],
-  "total_generated_works": 1077
+  "total_generated_works": 1080
 }
