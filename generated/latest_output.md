@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-12T01:18:43+00:00`
+- Checked at UTC: `2026-07-12T05:12:34+00:00`
 - Master DB records: `586`
-- Generated concepts: `1107`
+- Generated concepts: `1110`
 
-## 最後の放課後の迷宮
+## 透明な証言者たち
 
-- Work ID: `orig:20260712011843:bf8b8e9bfbb295b6a23f`
-- Generated at UTC: `2026-07-12T01:18:43+00:00`
+- Work ID: `orig:20260712051234:480b2789c8769e0602b4`
+- Generated at UTC: `2026-07-12T05:12:34+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Psychological, Award Winning, Seinen
-- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、誰からも忘れられる体質を利用して事件を解く学生が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
-- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: coming of age
+- Genre mix: Fantasy, Award Winning, Comedy, Shounen
+- Logline: 怪異と行政手続きが共存する辺境の町で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: truth and justice
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:657, jikan:manga:166865, jikan:manga:151061
+jikan:manga:95243, jikan:manga:114745, jikan:manga:170427, jikan:manga:17904, jikan:manga:108177
