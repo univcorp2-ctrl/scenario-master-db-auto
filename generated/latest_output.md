@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-12T14:45:34+00:00`
+- Checked at UTC: `2026-07-12T16:41:34+00:00`
 - Master DB records: `587`
-- Generated concepts: `1125`
+- Generated concepts: `1128`
 
-## 逆さまの証言者たち
+## 忘れられた証言者たち
 
-- Work ID: `orig:20260712144534:18e83b06c06c55ad97ce`
-- Generated at UTC: `2026-07-12T14:45:34+00:00`
+- Work ID: `orig:20260712164134:e0932a9571603092fa28`
+- Generated at UTC: `2026-07-12T16:41:34+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Fantasy, Supernatural, Mystery
-- Logline: 宇宙移民船の中に再現された古い商店街で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 宇宙移民船の中に再現された古い商店街
+- Genre mix: Psychological, Action, Drama, Horror
+- Logline: 記憶を修理する職人ギルドがある王国で、敗者の記憶を預かることになった元アスリートが、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: coming of age, truth and justice
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:147272, jikan:manga:108177, jikan:manga:40761, jikan:manga:124374, jikan:manga:11054
+jikan:manga:55215, jikan:manga:89357, jikan:manga:81117
