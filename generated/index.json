@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 68,
-    "manga": 918,
-    "novel": 85,
+    "manga": 920,
+    "novel": 86,
     "series": 60
   },
-  "generated_at": "2026-07-12T18:44:06+00:00",
+  "generated_at": "2026-07-13T01:20:33+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-13T01:20:33+00:00",
+      "title_ja": "二度目の放課後の残響",
+      "work_id": "orig:20260713012033:c9b884024b9964d198a7"
+    },
+    {
+      "generated_at": "2026-07-13T01:20:33+00:00",
+      "title_ja": "月下の放課後の交渉人",
+      "work_id": "orig:20260713012033:fbda63fc394d8120c0fc"
+    },
+    {
+      "generated_at": "2026-07-13T01:20:33+00:00",
+      "title_ja": "逆さまの放課後の逃亡者",
+      "work_id": "orig:20260713012033:2466a17e0e74084d0fdc"
+    },
     {
       "generated_at": "2026-07-12T18:44:06+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-12T09:40:50+00:00",
       "title_ja": "二度目の迷宮",
       "work_id": "orig:20260712094050:9e78d6a267b4d6d8cf3b"
-    },
-    {
-      "generated_at": "2026-07-12T09:40:50+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260712094050:e187e0eb061d88e11f53"
-    },
-    {
-      "generated_at": "2026-07-12T07:53:24+00:00",
-      "title_ja": "月下の迷宮",
-      "work_id": "orig:20260712075324:b51e61711e5879d8ed46"
-    },
-    {
-      "generated_at": "2026-07-12T07:53:24+00:00",
-      "title_ja": "月下の放課後の残響",
-      "work_id": "orig:20260712075324:b5972c7c46a9f9389b6a"
     }
   ],
-  "total_generated_works": 1131
+  "total_generated_works": 1134
 }
