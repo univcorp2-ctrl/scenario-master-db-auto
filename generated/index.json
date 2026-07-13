@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 69,
-    "manga": 925,
+    "manga": 928,
     "novel": 86,
     "series": 60
   },
-  "generated_at": "2026-07-13T08:39:52+00:00",
+  "generated_at": "2026-07-13T12:24:24+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-13T12:24:24+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260713122424:70e07918eb452a490fa0"
+    },
+    {
+      "generated_at": "2026-07-13T12:24:24+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260713122424:9f3f37e0a615447adb7f"
+    },
+    {
+      "generated_at": "2026-07-13T12:24:24+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260713122424:f6e9931df6e4dbd4bfba"
+    },
     {
       "generated_at": "2026-07-13T08:39:52+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-12T14:45:34+00:00",
       "title_ja": "逆さまの放課後の迷宮",
       "work_id": "orig:20260712144534:3a1eecd9d5605108ac74"
-    },
-    {
-      "generated_at": "2026-07-12T14:45:34+00:00",
-      "title_ja": "名前のない観測者",
-      "work_id": "orig:20260712144534:4858866ec23ae9b720c5"
-    },
-    {
-      "generated_at": "2026-07-12T12:45:57+00:00",
-      "title_ja": "透明な観測者",
-      "work_id": "orig:20260712124557:054da9c19d43e9aafcff"
-    },
-    {
-      "generated_at": "2026-07-12T12:45:57+00:00",
-      "title_ja": "最後の地図",
-      "work_id": "orig:20260712124557:eddec79356b4a8fa6078"
     }
   ],
-  "total_generated_works": 1140
+  "total_generated_works": 1143
 }
