@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-13T16:17:42+00:00`
+- Checked at UTC: `2026-07-13T19:07:52+00:00`
 - Master DB records: `587`
-- Generated concepts: `1146`
+- Generated concepts: `1149`
 
-## 透明な証言者たち
+## 名前のない残響
 
-- Work ID: `orig:20260713161742:912238dd8b749f13d573`
-- Generated at UTC: `2026-07-13T16:17:42+00:00`
-- Medium: `novel`
-- Genre mix: Comedy, Adventure, Fantasy, Mystery
-- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice, coming of age
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260713190752:5464766dafc40c61bf5e`
+- Generated at UTC: `2026-07-13T19:07:52+00:00`
+- Medium: `manga`
+- Genre mix: Comedy, Slice of Life, Supernatural
+- Logline: 宇宙移民船の中に再現された古い商店街で、怪異専門の窓口で働く臆病な公務員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: identity, trust and betrayal
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:132214, jikan:manga:16144, jikan:manga:44227, jikan:manga:138533, jikan:manga:147272
+jikan:manga:98379
