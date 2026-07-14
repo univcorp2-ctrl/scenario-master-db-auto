@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-14T04:36:48+00:00`
+- Checked at UTC: `2026-07-14T07:42:01+00:00`
 - Master DB records: `587`
-- Generated concepts: `1155`
+- Generated concepts: `1158`
 
-## 逆さまの逃亡者
+## 月下の放課後の修復士
 
-- Work ID: `orig:20260714043648:0ba171c956db7cc9e9e3`
-- Generated at UTC: `2026-07-14T04:36:48+00:00`
+- Work ID: `orig:20260714074201:670ce200a7a39eb8da00`
+- Generated at UTC: `2026-07-14T07:42:01+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Drama, Seinen, Action
-- Logline: 怪異と行政手続きが共存する辺境の町で、誰からも忘れられる体質を利用して事件を解く学生が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 怪異と行政手続きが共存する辺境の町
+- Genre mix: Award Winning, Comedy, Drama, Love Polygon
+- Logline: 記憶を修理する職人ギルドがある王国で、誰からも忘れられる体質を利用して事件を解く学生が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:7375, jikan:manga:44489, jikan:manga:24, jikan:manga:95243
+jikan:manga:18
