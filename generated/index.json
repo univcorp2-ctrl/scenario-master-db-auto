@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 70,
-    "manga": 954,
-    "novel": 88,
+    "manga": 956,
+    "novel": 89,
     "series": 61
   },
-  "generated_at": "2026-07-14T16:59:00+00:00",
+  "generated_at": "2026-07-14T18:56:53+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-14T18:56:53+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260714185653:26b8fa6956cbf39b26b9"
+    },
+    {
+      "generated_at": "2026-07-14T18:56:53+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260714185653:fd15bdb296553b777f30"
+    },
+    {
+      "generated_at": "2026-07-14T18:56:53+00:00",
+      "title_ja": "名前のない放課後の逃亡者",
+      "work_id": "orig:20260714185653:3203f50287704951295d"
+    },
     {
       "generated_at": "2026-07-14T16:59:00+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-14T07:42:01+00:00",
       "title_ja": "透明な放課後の調律師",
       "work_id": "orig:20260714074201:b6dc12935922e2a82be6"
-    },
-    {
-      "generated_at": "2026-07-14T07:42:01+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260714074201:9a98499242b6d464de22"
-    },
-    {
-      "generated_at": "2026-07-14T04:36:48+00:00",
-      "title_ja": "逆さまの逃亡者",
-      "work_id": "orig:20260714043648:0ba171c956db7cc9e9e3"
-    },
-    {
-      "generated_at": "2026-07-14T04:36:48+00:00",
-      "title_ja": "透明な放課後の調律師",
-      "work_id": "orig:20260714043648:ff13bb864630c262672e"
     }
   ],
-  "total_generated_works": 1173
+  "total_generated_works": 1176
 }
