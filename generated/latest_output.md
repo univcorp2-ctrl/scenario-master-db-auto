@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-15T11:18:27+00:00`
+- Checked at UTC: `2026-07-15T13:02:20+00:00`
 - Master DB records: `587`
-- Generated concepts: `1191`
+- Generated concepts: `1194`
 
-## 逆さまの証言者たち
+## 忘れられた放課後の交渉人
 
-- Work ID: `orig:20260715111827:1cbdc6a9b9b7cb3b793b`
-- Generated at UTC: `2026-07-15T11:18:27+00:00`
+- Work ID: `orig:20260715130220:c9a73913701866c4bc3b`
+- Generated at UTC: `2026-07-15T13:02:20+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Fantasy, Mystery, Shounen
-- Logline: 感情が公共インフラとして数値化される都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: truth and justice
+- Genre mix: Drama, Action, Seinen, Fantasy
+- Logline: 宇宙移民船の中に再現された古い商店街で、誰からも忘れられる体質を利用して事件を解く学生が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:34053, jikan:manga:62795, jikan:manga:743, jikan:manga:134744
+wd:Q482478, jikan:manga:149, jikan:manga:146878, jikan:manga:107931, jikan:manga:98930
