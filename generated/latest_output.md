@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-17T15:04:05+00:00`
+- Checked at UTC: `2026-07-17T16:56:01+00:00`
 - Master DB records: `589`
-- Generated concepts: `1251`
+- Generated concepts: `1254`
 
-## 二度目の残響
+## 最後の証言者たち
 
-- Work ID: `orig:20260717150405:f82ef367359c4a2a6398`
-- Generated at UTC: `2026-07-17T15:04:05+00:00`
+- Work ID: `orig:20260717165601:00732db74ac15a33109a`
+- Generated at UTC: `2026-07-17T16:56:01+00:00`
 - Medium: `manga`
-- Genre mix: Action, Comedy, Fantasy, Sci-Fi
-- Logline: 夢の記録が裁判証拠になる近未来で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Genre mix: Adventure, Fantasy, Mystery, Shounen
+- Logline: 過去の選択を一度だけ郵送できる地方都市で、誰からも忘れられる体質を利用して事件を解く学生が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 過去の選択を一度だけ郵送できる地方都市
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: truth and justice
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:24875
+jikan:manga:3031

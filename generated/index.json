@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 77,
-    "manga": 1019,
+    "manga": 1022,
     "novel": 92,
     "series": 63
   },
-  "generated_at": "2026-07-17T15:04:05+00:00",
+  "generated_at": "2026-07-17T16:56:01+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-17T16:56:01+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260717165601:00732db74ac15a33109a"
+    },
+    {
+      "generated_at": "2026-07-17T16:56:01+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260717165601:fc1c32ed576f3c87c3b4"
+    },
+    {
+      "generated_at": "2026-07-17T16:56:01+00:00",
+      "title_ja": "名前のない時計塔",
+      "work_id": "orig:20260717165601:1a0ed6d4b80ddb202743"
+    },
     {
       "generated_at": "2026-07-17T15:04:05+00:00",
       "title_ja": "二度目の残響",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-17T04:50:06+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260717045006:eaa19731414a59c242f9"
-    },
-    {
-      "generated_at": "2026-07-17T04:50:06+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260717045006:1572fdb9757e186ef395"
-    },
-    {
-      "generated_at": "2026-07-17T01:19:46+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260717011946:c7d4ce71c2c93cc4ebe0"
-    },
-    {
-      "generated_at": "2026-07-17T01:19:46+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260717011946:0582b245fabffbe9dbba"
     }
   ],
-  "total_generated_works": 1251
+  "total_generated_works": 1254
 }
