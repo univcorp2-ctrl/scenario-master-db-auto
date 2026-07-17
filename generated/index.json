@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 76,
-    "manga": 1011,
+    "manga": 1014,
     "novel": 92,
     "series": 63
   },
-  "generated_at": "2026-07-17T09:42:06+00:00",
+  "generated_at": "2026-07-17T11:12:12+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-17T11:12:12+00:00",
+      "title_ja": "名前のない観測者",
+      "work_id": "orig:20260717111212:add4bf19be4fdca5e413"
+    },
+    {
+      "generated_at": "2026-07-17T11:12:12+00:00",
+      "title_ja": "最後の観測者",
+      "work_id": "orig:20260717111212:8afc8eaed64e3d4fe0d8"
+    },
+    {
+      "generated_at": "2026-07-17T11:12:12+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260717111212:a17166e1cbaaf8329c32"
+    },
     {
       "generated_at": "2026-07-17T09:42:06+00:00",
       "title_ja": "忘れられた記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-16T16:59:29+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260716165929:c64123a7a6ec40d74887"
-    },
-    {
-      "generated_at": "2026-07-16T16:59:29+00:00",
-      "title_ja": "逆さまの放課後の観測者",
-      "work_id": "orig:20260716165929:fcff528543e1a9c9e09b"
-    },
-    {
-      "generated_at": "2026-07-16T15:23:12+00:00",
-      "title_ja": "名前のない放課後の灯台",
-      "work_id": "orig:20260716152312:bd42e065ed59bfd6d6e2"
-    },
-    {
-      "generated_at": "2026-07-16T15:23:12+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260716152312:f4d42b624ad1aef1fd66"
     }
   ],
-  "total_generated_works": 1242
+  "total_generated_works": 1245
 }
