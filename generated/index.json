@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 77,
-    "manga": 1037,
-    "novel": 92,
+    "manga": 1039,
+    "novel": 93,
     "series": 63
   },
-  "generated_at": "2026-07-18T09:13:40+00:00",
+  "generated_at": "2026-07-18T10:54:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-18T10:54:08+00:00",
+      "title_ja": "眠らない放課後の交渉人",
+      "work_id": "orig:20260718105408:c7cdfdcfb1197697bd81"
+    },
+    {
+      "generated_at": "2026-07-18T10:54:08+00:00",
+      "title_ja": "逆さまの放課後の交渉人",
+      "work_id": "orig:20260718105408:f4b959f8362aa547c07b"
+    },
+    {
+      "generated_at": "2026-07-18T10:54:08+00:00",
+      "title_ja": "眠らない逃亡者",
+      "work_id": "orig:20260718105408:39d7b6a4a9f36c683d67"
+    },
     {
       "generated_at": "2026-07-18T09:13:40+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-17T16:56:01+00:00",
       "title_ja": "最後の証言者たち",
       "work_id": "orig:20260717165601:fc1c32ed576f3c87c3b4"
-    },
-    {
-      "generated_at": "2026-07-17T16:56:01+00:00",
-      "title_ja": "名前のない時計塔",
-      "work_id": "orig:20260717165601:1a0ed6d4b80ddb202743"
-    },
-    {
-      "generated_at": "2026-07-17T15:04:05+00:00",
-      "title_ja": "二度目の残響",
-      "work_id": "orig:20260717150405:f82ef367359c4a2a6398"
-    },
-    {
-      "generated_at": "2026-07-17T15:04:05+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260717150405:a392da5a6ee3b7256101"
     }
   ],
-  "total_generated_works": 1269
+  "total_generated_works": 1272
 }
