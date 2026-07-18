@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-18T04:35:03+00:00`
+- Checked at UTC: `2026-07-18T07:22:49+00:00`
 - Master DB records: `589`
-- Generated concepts: `1263`
+- Generated concepts: `1266`
 
-## 眠らない記録係
+## 月下の証言者たち
 
-- Work ID: `orig:20260718043503:1f67d48a79b9f1403635`
-- Generated at UTC: `2026-07-18T04:35:03+00:00`
+- Work ID: `orig:20260718072249:32b0324e67eb49816a87`
+- Generated at UTC: `2026-07-18T07:22:49+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Action, Adventure, Time Travel
-- Logline: 夢の記録が裁判証拠になる近未来で、怪異専門の窓口で働く臆病な公務員が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: Shounen, School, Fantasy, Mystery
+- Logline: 夢の記録が裁判証拠になる近未来で、怪異専門の窓口で働く臆病な公務員が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
 - World: 夢の記録が裁判証拠になる近未来
 - Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: coming of age, truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
 1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:146909, jikan:manga:61189, jikan:manga:148137
+jikan:manga:135545, jikan:manga:3866, jikan:manga:25096, jikan:manga:1263, jikan:manga:105347

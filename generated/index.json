@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 77,
-    "manga": 1031,
+    "manga": 1034,
     "novel": 92,
     "series": 63
   },
-  "generated_at": "2026-07-18T04:35:03+00:00",
+  "generated_at": "2026-07-18T07:22:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-18T07:22:49+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260718072249:32b0324e67eb49816a87"
+    },
+    {
+      "generated_at": "2026-07-18T07:22:49+00:00",
+      "title_ja": "名前のない記録係",
+      "work_id": "orig:20260718072249:8adf5bedb69e8680eb1b"
+    },
+    {
+      "generated_at": "2026-07-18T07:22:49+00:00",
+      "title_ja": "忘れられた放課後の地図",
+      "work_id": "orig:20260718072249:0a0a28ef091aefaa156a"
+    },
     {
       "generated_at": "2026-07-18T04:35:03+00:00",
       "title_ja": "眠らない記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-17T12:55:15+00:00",
       "title_ja": "眠らない調律師",
       "work_id": "orig:20260717125515:4815b57f11851f77afc3"
-    },
-    {
-      "generated_at": "2026-07-17T12:55:15+00:00",
-      "title_ja": "忘れられた記録係",
-      "work_id": "orig:20260717125515:0a44213911010b03454b"
-    },
-    {
-      "generated_at": "2026-07-17T11:12:12+00:00",
-      "title_ja": "名前のない観測者",
-      "work_id": "orig:20260717111212:add4bf19be4fdca5e413"
-    },
-    {
-      "generated_at": "2026-07-17T11:12:12+00:00",
-      "title_ja": "最後の観測者",
-      "work_id": "orig:20260717111212:8afc8eaed64e3d4fe0d8"
     }
   ],
-  "total_generated_works": 1263
+  "total_generated_works": 1266
 }
