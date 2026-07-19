@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-19T14:45:12+00:00`
+- Checked at UTC: `2026-07-19T16:41:09+00:00`
 - Master DB records: `589`
-- Generated concepts: `1305`
+- Generated concepts: `1308`
 
-## 透明な残響
+## 月下の証言者たち
 
-- Work ID: `orig:20260719144512:3dadd95d11910718c47a`
-- Generated at UTC: `2026-07-19T14:45:12+00:00`
-- Medium: `manga`
-- Genre mix: Drama, Fantasy, Childcare, Slice of Life
-- Logline: 失われた物語だけが通貨として流通する群島で、未来の自分から届く失敗報告だけを頼りに動く配達員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260719164109:29fd171baff8394d9254`
+- Generated at UTC: `2026-07-19T16:41:09+00:00`
+- Medium: `novel`
+- Genre mix: Comedy, Action, Shounen, Supernatural
+- Logline: 記憶を修理する職人ギルドがある王国で、禁じられた物語を修復する若い司書が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: coming of age, truth and justice
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:127221, jikan:manga:74697, jikan:manga:56805
+jikan:manga:3006, jikan:manga:119022, jikan:manga:11514, jikan:manga:164926, jikan:manga:1061
