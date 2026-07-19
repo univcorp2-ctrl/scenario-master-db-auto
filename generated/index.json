@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 78,
-    "manga": 1060,
+    "manga": 1063,
     "novel": 97,
     "series": 64
   },
-  "generated_at": "2026-07-19T11:02:38+00:00",
+  "generated_at": "2026-07-19T12:43:56+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-19T12:43:56+00:00",
+      "title_ja": "逆さまの残響",
+      "work_id": "orig:20260719124356:b2ed05a9b8acd4a8c766"
+    },
+    {
+      "generated_at": "2026-07-19T12:43:56+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260719124356:1560c14a3390fa85958b"
+    },
+    {
+      "generated_at": "2026-07-19T12:43:56+00:00",
+      "title_ja": "最後の交渉人",
+      "work_id": "orig:20260719124356:72cff7a5be123e121d22"
+    },
     {
       "generated_at": "2026-07-19T11:02:38+00:00",
       "title_ja": "眠らない放課後の観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-18T18:41:46+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260718184146:f82293312caf176bf4af"
-    },
-    {
-      "generated_at": "2026-07-18T18:41:46+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260718184146:dc75c8656c6838d4216a"
-    },
-    {
-      "generated_at": "2026-07-18T16:41:12+00:00",
-      "title_ja": "最後の放課後の逃亡者",
-      "work_id": "orig:20260718164112:d44694d1c3069457e228"
-    },
-    {
-      "generated_at": "2026-07-18T16:41:12+00:00",
-      "title_ja": "名前のない修復士",
-      "work_id": "orig:20260718164112:bde186b78da2d742bf0e"
     }
   ],
-  "total_generated_works": 1299
+  "total_generated_works": 1302
 }
