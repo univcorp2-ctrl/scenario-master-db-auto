@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 78,
-    "manga": 1085,
+    "film": 79,
+    "manga": 1087,
     "novel": 99,
     "series": 67
   },
-  "generated_at": "2026-07-20T17:13:39+00:00",
+  "generated_at": "2026-07-20T19:19:53+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-20T19:19:53+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260720191953:cb0a359e3c70cf2e499a"
+    },
+    {
+      "generated_at": "2026-07-20T19:19:53+00:00",
+      "title_ja": "眠らない残響",
+      "work_id": "orig:20260720191953:37b6192a3ad8b4f2687b"
+    },
+    {
+      "generated_at": "2026-07-20T19:19:53+00:00",
+      "title_ja": "二度目の放課後の地図",
+      "work_id": "orig:20260720191953:97aac577d86efbde4d5b"
+    },
     {
       "generated_at": "2026-07-20T17:13:39+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-20T01:20:26+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260720012026:1824499581a14b6f2645"
-    },
-    {
-      "generated_at": "2026-07-20T01:20:26+00:00",
-      "title_ja": "月下の放課後の残響",
-      "work_id": "orig:20260720012026:ceb18b51e31135160078"
-    },
-    {
-      "generated_at": "2026-07-19T18:44:24+00:00",
-      "title_ja": "逆さまの地図",
-      "work_id": "orig:20260719184424:ae4ee49377070c7952ed"
-    },
-    {
-      "generated_at": "2026-07-19T18:44:24+00:00",
-      "title_ja": "透明な観測者",
-      "work_id": "orig:20260719184424:80fbe9507fe27efbd108"
     }
   ],
-  "total_generated_works": 1329
+  "total_generated_works": 1332
 }
