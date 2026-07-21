@@ -7,13 +7,13 @@
     "jikan": 520,
     "wikidata": 69
   },
-  "generated_at": "2026-07-21T11:40:20+00:00",
+  "generated_at": "2026-07-21T13:08:50+00:00",
   "latest_run": {
-    "candidate_count": 4,
+    "candidate_count": 10,
     "created": 0,
-    "finished_at": "2026-07-21T11:40:20+00:00",
+    "finished_at": "2026-07-21T13:08:50+00:00",
     "total_records": 589,
-    "updated": 4
+    "updated": 10
   },
   "total_records": 589
 }
