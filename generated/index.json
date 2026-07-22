@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 80,
-    "manga": 1107,
+    "manga": 1109,
     "novel": 101,
-    "series": 71
+    "series": 72
   },
-  "generated_at": "2026-07-22T01:15:35+00:00",
+  "generated_at": "2026-07-22T04:54:41+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-22T04:54:41+00:00",
+      "title_ja": "逆さまの調律師",
+      "work_id": "orig:20260722045441:60c23775146c462b190b"
+    },
+    {
+      "generated_at": "2026-07-22T04:54:41+00:00",
+      "title_ja": "逆さまの時計塔",
+      "work_id": "orig:20260722045441:8c5705648d58138f933f"
+    },
+    {
+      "generated_at": "2026-07-22T04:54:41+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260722045441:c6389c3911789ed46d78"
+    },
     {
       "generated_at": "2026-07-22T01:15:35+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-21T11:40:20+00:00",
       "title_ja": "忘れられた証言者たち",
       "work_id": "orig:20260721114020:c70cb10ea4b3af097884"
-    },
-    {
-      "generated_at": "2026-07-21T11:40:20+00:00",
-      "title_ja": "月下の地図",
-      "work_id": "orig:20260721114020:1c461485c0c7ada7b96b"
-    },
-    {
-      "generated_at": "2026-07-21T08:02:36+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260721080236:f6e022a64187818f573d"
-    },
-    {
-      "generated_at": "2026-07-21T08:02:36+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260721080236:bdd4a33c2595fac0e29d"
     }
   ],
-  "total_generated_works": 1359
+  "total_generated_works": 1362
 }
