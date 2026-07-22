@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 81,
-    "manga": 1118,
-    "novel": 102,
+    "manga": 1120,
+    "novel": 103,
     "series": 73
   },
-  "generated_at": "2026-07-22T15:25:10+00:00",
+  "generated_at": "2026-07-22T17:04:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-22T17:04:49+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260722170449:040d16e5c7c9fec6b6e5"
+    },
+    {
+      "generated_at": "2026-07-22T17:04:49+00:00",
+      "title_ja": "月下の逃亡者",
+      "work_id": "orig:20260722170449:d80028030a109d1c2214"
+    },
+    {
+      "generated_at": "2026-07-22T17:04:49+00:00",
+      "title_ja": "最後の残響",
+      "work_id": "orig:20260722170449:9696ad86ff94fc2ba7b0"
+    },
     {
       "generated_at": "2026-07-22T15:25:10+00:00",
       "title_ja": "逆さまの放課後の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-22T01:15:35+00:00",
       "title_ja": "忘れられた修復士",
       "work_id": "orig:20260722011535:2f832ecff9029318e600"
-    },
-    {
-      "generated_at": "2026-07-22T01:15:35+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260722011535:293f96d9c311dc39787c"
-    },
-    {
-      "generated_at": "2026-07-21T19:00:29+00:00",
-      "title_ja": "月下の迷宮",
-      "work_id": "orig:20260721190029:52c12d8397994e7c1c5e"
-    },
-    {
-      "generated_at": "2026-07-21T19:00:29+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260721190029:e7744b27cdecc1e5aa7f"
     }
   ],
-  "total_generated_works": 1374
+  "total_generated_works": 1377
 }
