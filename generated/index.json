@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 80,
-    "manga": 1104,
+    "manga": 1107,
     "novel": 101,
     "series": 71
   },
-  "generated_at": "2026-07-21T19:00:29+00:00",
+  "generated_at": "2026-07-22T01:15:35+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-22T01:15:35+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260722011535:19084517a94e42547ecd"
+    },
+    {
+      "generated_at": "2026-07-22T01:15:35+00:00",
+      "title_ja": "忘れられた修復士",
+      "work_id": "orig:20260722011535:2f832ecff9029318e600"
+    },
+    {
+      "generated_at": "2026-07-22T01:15:35+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260722011535:293f96d9c311dc39787c"
+    },
     {
       "generated_at": "2026-07-21T19:00:29+00:00",
       "title_ja": "月下の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-21T08:02:36+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260721080236:bdd4a33c2595fac0e29d"
-    },
-    {
-      "generated_at": "2026-07-21T08:02:36+00:00",
-      "title_ja": "透明な調律師",
-      "work_id": "orig:20260721080236:9f7a766ea6fa05431c0c"
-    },
-    {
-      "generated_at": "2026-07-21T04:55:05+00:00",
-      "title_ja": "月下の放課後の残響",
-      "work_id": "orig:20260721045505:4c16cf785992b7e74764"
-    },
-    {
-      "generated_at": "2026-07-21T04:55:05+00:00",
-      "title_ja": "二度目の放課後の地図",
-      "work_id": "orig:20260721045505:2b234fc0556d21c1fdd2"
     }
   ],
-  "total_generated_works": 1356
+  "total_generated_works": 1359
 }
