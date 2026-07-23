@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-23T15:46:37+00:00`
+- Checked at UTC: `2026-07-23T17:07:51+00:00`
 - Master DB records: `589`
-- Generated concepts: `1398`
+- Generated concepts: `1401`
 
-## 眠らない証言者たち
+## 名前のない迷宮
 
-- Work ID: `orig:20260723154636:9de9c1b99194ae3c2063`
-- Generated at UTC: `2026-07-23T15:46:36+00:00`
-- Medium: `manga`
-- Genre mix: Fantasy, Drama, Isekai, Seinen
-- Logline: 夢の記録が裁判証拠になる近未来で、敗者の記憶を預かることになった元アスリートが、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: truth and justice, coming of age
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260723170751:91e8dcb85c7467f76889`
+- Generated at UTC: `2026-07-23T17:07:51+00:00`
+- Medium: `film`
+- Genre mix: Comedy, Adventure, Fantasy, Isekai
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、誰からも忘れられる体質を利用して事件を解く学生が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: identity, trust and betrayal
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:156681, jikan:manga:4658, jikan:manga:79993, jikan:manga:78523
+jikan:manga:60553, jikan:manga:135496, wd:Q1539509

@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 83,
-    "manga": 1136,
+    "film": 84,
+    "manga": 1138,
     "novel": 105,
     "series": 74
   },
-  "generated_at": "2026-07-23T15:46:36+00:00",
+  "generated_at": "2026-07-23T17:07:51+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-23T17:07:51+00:00",
+      "title_ja": "名前のない迷宮",
+      "work_id": "orig:20260723170751:91e8dcb85c7467f76889"
+    },
+    {
+      "generated_at": "2026-07-23T17:07:51+00:00",
+      "title_ja": "眠らない迷宮",
+      "work_id": "orig:20260723170751:038172748801c94d55f9"
+    },
+    {
+      "generated_at": "2026-07-23T17:07:51+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260723170751:dee63c4f79afeda58e92"
+    },
     {
       "generated_at": "2026-07-23T15:46:36+00:00",
       "title_ja": "眠らない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-23T01:23:04+00:00",
       "title_ja": "二度目の放課後の記録係",
       "work_id": "orig:20260723012304:cbf0b54c4f6f682d96da"
-    },
-    {
-      "generated_at": "2026-07-23T01:23:04+00:00",
-      "title_ja": "名前のない放課後の時計塔",
-      "work_id": "orig:20260723012304:3537f5cf45d3f06bdbfd"
-    },
-    {
-      "generated_at": "2026-07-22T18:52:46+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260722185246:69de5f3f88cfef854429"
-    },
-    {
-      "generated_at": "2026-07-22T18:52:46+00:00",
-      "title_ja": "月下の観測者",
-      "work_id": "orig:20260722185246:d5f650065d3dcc4ad85d"
     }
   ],
-  "total_generated_works": 1398
+  "total_generated_works": 1401
 }
