@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 85,
-    "manga": 1154,
+    "manga": 1157,
     "novel": 106,
     "series": 74
   },
-  "generated_at": "2026-07-24T13:10:43+00:00",
+  "generated_at": "2026-07-24T15:19:38+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-24T15:19:38+00:00",
+      "title_ja": "忘れられた時計塔",
+      "work_id": "orig:20260724151938:60145a7cafee52552cdf"
+    },
+    {
+      "generated_at": "2026-07-24T15:19:38+00:00",
+      "title_ja": "月下の放課後の残響",
+      "work_id": "orig:20260724151938:0140b41bcbb329f65a26"
+    },
+    {
+      "generated_at": "2026-07-24T15:19:38+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260724151938:e1444ee1e5c10aa571d1"
+    },
     {
       "generated_at": "2026-07-24T13:10:43+00:00",
       "title_ja": "二度目の逃亡者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-23T18:55:24+00:00",
       "title_ja": "眠らない放課後の灯台",
       "work_id": "orig:20260723185524:97ca2848ec1cab309c5c"
-    },
-    {
-      "generated_at": "2026-07-23T18:55:24+00:00",
-      "title_ja": "忘れられた放課後の灯台",
-      "work_id": "orig:20260723185524:cb30c70e5121959c961b"
-    },
-    {
-      "generated_at": "2026-07-23T17:07:51+00:00",
-      "title_ja": "名前のない迷宮",
-      "work_id": "orig:20260723170751:91e8dcb85c7467f76889"
-    },
-    {
-      "generated_at": "2026-07-23T17:07:51+00:00",
-      "title_ja": "眠らない迷宮",
-      "work_id": "orig:20260723170751:038172748801c94d55f9"
     }
   ],
-  "total_generated_works": 1419
+  "total_generated_works": 1422
 }
