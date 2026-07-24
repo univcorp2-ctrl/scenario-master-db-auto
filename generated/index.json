@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 85,
-    "manga": 1160,
+    "manga": 1163,
     "novel": 106,
     "series": 74
   },
-  "generated_at": "2026-07-24T17:18:20+00:00",
+  "generated_at": "2026-07-24T19:07:30+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-24T19:07:30+00:00",
+      "title_ja": "月下の地図",
+      "work_id": "orig:20260724190730:440d2351e1da17c91224"
+    },
+    {
+      "generated_at": "2026-07-24T19:07:30+00:00",
+      "title_ja": "逆さまの修復士",
+      "work_id": "orig:20260724190730:815c1ed01b28569cf185"
+    },
+    {
+      "generated_at": "2026-07-24T19:07:30+00:00",
+      "title_ja": "眠らない地図",
+      "work_id": "orig:20260724190730:4e3cfb3f4e99b0daa92b"
+    },
     {
       "generated_at": "2026-07-24T17:18:20+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-24T04:57:04+00:00",
       "title_ja": "逆さまの放課後の交渉人",
       "work_id": "orig:20260724045704:80ec79256060fc348c5d"
-    },
-    {
-      "generated_at": "2026-07-24T04:57:04+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260724045704:b7a3667db14607d1edd6"
-    },
-    {
-      "generated_at": "2026-07-24T01:19:15+00:00",
-      "title_ja": "最後の修復士",
-      "work_id": "orig:20260724011915:64219f542e7787e49e48"
-    },
-    {
-      "generated_at": "2026-07-24T01:19:15+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260724011915:3405d4147368fae3935f"
     }
   ],
-  "total_generated_works": 1425
+  "total_generated_works": 1428
 }
