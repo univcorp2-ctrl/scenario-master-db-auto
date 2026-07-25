@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 86,
-    "manga": 1180,
+    "manga": 1183,
     "novel": 106,
     "series": 74
   },
-  "generated_at": "2026-07-25T12:53:32+00:00",
+  "generated_at": "2026-07-25T14:53:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-25T14:53:49+00:00",
+      "title_ja": "逆さまの放課後の逃亡者",
+      "work_id": "orig:20260725145349:ec21e4827a25ab5133a2"
+    },
+    {
+      "generated_at": "2026-07-25T14:53:49+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260725145349:c7f88c4ab2da0429b552"
+    },
+    {
+      "generated_at": "2026-07-25T14:53:49+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260725145349:df9960cf97e10956f658"
+    },
     {
       "generated_at": "2026-07-25T12:53:32+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-25T01:20:15+00:00",
       "title_ja": "逆さまの時計塔",
       "work_id": "orig:20260725012015:bf95f35e8eac9668576f"
-    },
-    {
-      "generated_at": "2026-07-25T01:20:15+00:00",
-      "title_ja": "眠らない放課後の時計塔",
-      "work_id": "orig:20260725012015:88c370fec9ecc15df315"
-    },
-    {
-      "generated_at": "2026-07-24T19:07:30+00:00",
-      "title_ja": "月下の地図",
-      "work_id": "orig:20260724190730:440d2351e1da17c91224"
-    },
-    {
-      "generated_at": "2026-07-24T19:07:30+00:00",
-      "title_ja": "逆さまの修復士",
-      "work_id": "orig:20260724190730:815c1ed01b28569cf185"
     }
   ],
-  "total_generated_works": 1446
+  "total_generated_works": 1449
 }
