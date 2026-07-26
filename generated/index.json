@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 87,
-    "manga": 1200,
+    "manga": 1203,
     "novel": 112,
     "series": 74
   },
-  "generated_at": "2026-07-26T14:55:30+00:00",
+  "generated_at": "2026-07-26T16:42:53+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-26T16:42:53+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260726164253:7644de8c2ab43ba88262"
+    },
+    {
+      "generated_at": "2026-07-26T16:42:53+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260726164253:dbb614748541a0cda989"
+    },
+    {
+      "generated_at": "2026-07-26T16:42:53+00:00",
+      "title_ja": "月下の地図",
+      "work_id": "orig:20260726164253:e6d9df39c01cb5768f41"
+    },
     {
       "generated_at": "2026-07-26T14:55:30+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-26T01:22:43+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260726012243:556ab4e2071ac19c72d5"
-    },
-    {
-      "generated_at": "2026-07-26T01:22:43+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260726012243:b6585d9c9acb088b9561"
-    },
-    {
-      "generated_at": "2026-07-25T18:45:04+00:00",
-      "title_ja": "月下の修復士",
-      "work_id": "orig:20260725184504:22c905d02affaf4fa93e"
-    },
-    {
-      "generated_at": "2026-07-25T18:45:04+00:00",
-      "title_ja": "最後の灯台",
-      "work_id": "orig:20260725184504:ab49ab2c1f8ba346bed9"
     }
   ],
-  "total_generated_works": 1473
+  "total_generated_works": 1476
 }
