@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 86,
-    "manga": 1192,
-    "novel": 109,
+    "manga": 1193,
+    "novel": 111,
     "series": 74
   },
-  "generated_at": "2026-07-26T05:17:09+00:00",
+  "generated_at": "2026-07-26T08:01:38+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-26T08:01:38+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260726080138:1e919ef868d1916605b1"
+    },
+    {
+      "generated_at": "2026-07-26T08:01:38+00:00",
+      "title_ja": "最後の逃亡者",
+      "work_id": "orig:20260726080138:e102ec78c700d888853b"
+    },
+    {
+      "generated_at": "2026-07-26T08:01:38+00:00",
+      "title_ja": "最後の放課後の観測者",
+      "work_id": "orig:20260726080138:81ded9dd79dbce250e7f"
+    },
     {
       "generated_at": "2026-07-26T05:17:09+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-25T12:53:32+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260725125332:c66f62a591fe057cfea7"
-    },
-    {
-      "generated_at": "2026-07-25T12:53:32+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260725125332:f7eb094a61349580389e"
-    },
-    {
-      "generated_at": "2026-07-25T10:59:28+00:00",
-      "title_ja": "二度目の修復士",
-      "work_id": "orig:20260725105928:fd710b2dc960e7bad160"
-    },
-    {
-      "generated_at": "2026-07-25T10:59:28+00:00",
-      "title_ja": "眠らない放課後の迷宮",
-      "work_id": "orig:20260725105928:fa7abbbbd665d1f7551d"
     }
   ],
-  "total_generated_works": 1461
+  "total_generated_works": 1464
 }
