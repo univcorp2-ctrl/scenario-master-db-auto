@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 87,
-    "manga": 1203,
+    "manga": 1206,
     "novel": 112,
     "series": 74
   },
-  "generated_at": "2026-07-26T16:42:53+00:00",
+  "generated_at": "2026-07-26T18:50:04+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-26T18:50:04+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260726185004:27f6ec67b9b7ed24931f"
+    },
+    {
+      "generated_at": "2026-07-26T18:50:04+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260726185004:37c77760cf0315e70266"
+    },
+    {
+      "generated_at": "2026-07-26T18:50:04+00:00",
+      "title_ja": "逆さまの放課後の時計塔",
+      "work_id": "orig:20260726185004:8a55acc614d86850f150"
+    },
     {
       "generated_at": "2026-07-26T16:42:53+00:00",
       "title_ja": "忘れられた証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-26T05:17:09+00:00",
       "title_ja": "月下の修復士",
       "work_id": "orig:20260726051709:9d95c409a911652d7b38"
-    },
-    {
-      "generated_at": "2026-07-26T05:17:09+00:00",
-      "title_ja": "月下の放課後の地図",
-      "work_id": "orig:20260726051709:5fd5b27b36837a9b4a9c"
-    },
-    {
-      "generated_at": "2026-07-26T01:22:43+00:00",
-      "title_ja": "二度目の放課後の逃亡者",
-      "work_id": "orig:20260726012243:991f7de675de5fbd7a7a"
-    },
-    {
-      "generated_at": "2026-07-26T01:22:43+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260726012243:556ab4e2071ac19c72d5"
     }
   ],
-  "total_generated_works": 1476
+  "total_generated_works": 1479
 }
