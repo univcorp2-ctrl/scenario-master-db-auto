@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-25T18:45:04+00:00`
+- Checked at UTC: `2026-07-26T01:22:43+00:00`
 - Master DB records: `591`
-- Generated concepts: `1455`
+- Generated concepts: `1458`
 
-## 月下の修復士
+## 二度目の放課後の逃亡者
 
-- Work ID: `orig:20260725184504:22c905d02affaf4fa93e`
-- Generated at UTC: `2026-07-25T18:45:04+00:00`
+- Work ID: `orig:20260726012243:991f7de675de5fbd7a7a`
+- Generated at UTC: `2026-07-26T01:22:43+00:00`
 - Medium: `manga`
-- Genre mix: Action, Comedy, Gag Humor, Historical
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 過去の選択を一度だけ郵送できる地方都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: identity, trust and betrayal
+- Genre mix: Award Winning, Shounen, Fantasy, Adventure
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、禁じられた物語を修復する若い司書が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:44
+jikan:manga:116778, jikan:manga:14790, jikan:manga:1032
