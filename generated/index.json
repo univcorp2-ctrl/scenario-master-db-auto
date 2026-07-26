@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 87,
-    "manga": 1195,
+    "manga": 1198,
     "novel": 111,
     "series": 74
   },
-  "generated_at": "2026-07-26T11:11:50+00:00",
+  "generated_at": "2026-07-26T12:50:27+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-26T12:50:27+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260726125027:c14f9b1a80681cdcb7ec"
+    },
+    {
+      "generated_at": "2026-07-26T12:50:27+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260726125027:8a9a766aeea2aef26160"
+    },
+    {
+      "generated_at": "2026-07-26T12:50:27+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260726125027:12684b84bb6370787040"
+    },
     {
       "generated_at": "2026-07-26T11:11:50+00:00",
       "title_ja": "最後の放課後の迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-25T16:41:39+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260725164139:2e9a11a4a269d2ae6d49"
-    },
-    {
-      "generated_at": "2026-07-25T16:41:39+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260725164139:75c70ea78925002903aa"
-    },
-    {
-      "generated_at": "2026-07-25T14:53:49+00:00",
-      "title_ja": "逆さまの放課後の逃亡者",
-      "work_id": "orig:20260725145349:ec21e4827a25ab5133a2"
-    },
-    {
-      "generated_at": "2026-07-25T14:53:49+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260725145349:c7f88c4ab2da0429b552"
     }
   ],
-  "total_generated_works": 1467
+  "total_generated_works": 1470
 }
