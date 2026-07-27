@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 89,
-    "manga": 1213,
+    "manga": 1216,
     "novel": 114,
     "series": 75
   },
-  "generated_at": "2026-07-27T12:47:36+00:00",
+  "generated_at": "2026-07-27T16:05:48+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-27T16:05:48+00:00",
+      "title_ja": "最後の地図",
+      "work_id": "orig:20260727160548:3af66adca42943b8dbc6"
+    },
+    {
+      "generated_at": "2026-07-27T16:05:48+00:00",
+      "title_ja": "忘れられた地図",
+      "work_id": "orig:20260727160548:ecf0635f55f992b2cf36"
+    },
+    {
+      "generated_at": "2026-07-27T16:05:48+00:00",
+      "title_ja": "透明な修復士",
+      "work_id": "orig:20260727160548:c38f3534cce6ef8a45d1"
+    },
     {
       "generated_at": "2026-07-27T12:47:36+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-26T16:42:53+00:00",
       "title_ja": "二度目の証言者たち",
       "work_id": "orig:20260726164253:dbb614748541a0cda989"
-    },
-    {
-      "generated_at": "2026-07-26T16:42:53+00:00",
-      "title_ja": "月下の地図",
-      "work_id": "orig:20260726164253:e6d9df39c01cb5768f41"
-    },
-    {
-      "generated_at": "2026-07-26T14:55:30+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260726145530:45b1e1c10e5898a335b3"
-    },
-    {
-      "generated_at": "2026-07-26T14:55:30+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260726145530:acea5355371d79dbe83f"
     }
   ],
-  "total_generated_works": 1491
+  "total_generated_works": 1494
 }
