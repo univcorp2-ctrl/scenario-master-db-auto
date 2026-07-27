@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-27T16:05:48+00:00`
+- Checked at UTC: `2026-07-27T19:05:55+00:00`
 - Master DB records: `591`
-- Generated concepts: `1494`
+- Generated concepts: `1497`
 
-## 最後の地図
+## 名前のない証言者たち
 
-- Work ID: `orig:20260727160548:3af66adca42943b8dbc6`
-- Generated at UTC: `2026-07-27T16:05:48+00:00`
+- Work ID: `orig:20260727190555:14e6e96d8110e19a2a29`
+- Generated at UTC: `2026-07-27T19:05:55+00:00`
 - Medium: `manga`
-- Genre mix: dark fantasy, isekai, Action, Fantasy
-- Logline: 夢の記録が裁判証拠になる近未来で、敗者の記憶を預かることになった元アスリートが、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Genre mix: Shounen, Drama, Mystery, Psychological
+- Logline: 過去の選択を一度だけ郵送できる地方都市で、未来の自分から届く失敗報告だけを頼りに動く配達員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 過去の選択を一度だけ郵送できる地方都市
+- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: truth and justice, coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-wd:Q11293422, jikan:manga:12854, jikan:manga:133431
+jikan:manga:16081, jikan:manga:15547, jikan:manga:3866, jikan:manga:6812, jikan:manga:6520
