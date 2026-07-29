@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 89,
-    "manga": 1247,
+    "manga": 1250,
     "novel": 115,
     "series": 76
   },
-  "generated_at": "2026-07-29T04:55:37+00:00",
+  "generated_at": "2026-07-29T08:13:58+00:00",
   "latest": [
+    {
+      "generated_at": "2026-07-29T08:13:58+00:00",
+      "title_ja": "月下の放課後の記録係",
+      "work_id": "orig:20260729081358:096b2826fbeb58f34cb0"
+    },
+    {
+      "generated_at": "2026-07-29T08:13:58+00:00",
+      "title_ja": "眠らない残響",
+      "work_id": "orig:20260729081358:2125882e54ba8922ca67"
+    },
+    {
+      "generated_at": "2026-07-29T08:13:58+00:00",
+      "title_ja": "逆さまの地図",
+      "work_id": "orig:20260729081358:0099bc9c322944c1b028"
+    },
     {
       "generated_at": "2026-07-29T04:55:37+00:00",
       "title_ja": "二度目の逃亡者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-07-28T13:24:06+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260728132406:ba81f0097885fc40b9af"
-    },
-    {
-      "generated_at": "2026-07-28T13:24:06+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260728132406:00faa103fb6847c7f2c3"
-    },
-    {
-      "generated_at": "2026-07-28T11:48:59+00:00",
-      "title_ja": "逆さまの残響",
-      "work_id": "orig:20260728114859:d812d017dc8372a83be6"
-    },
-    {
-      "generated_at": "2026-07-28T11:48:59+00:00",
-      "title_ja": "月下の時計塔",
-      "work_id": "orig:20260728114859:a0053dc9265758ac820c"
     }
   ],
-  "total_generated_works": 1527
+  "total_generated_works": 1530
 }
