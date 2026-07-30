@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-29T18:47:16+00:00`
+- Checked at UTC: `2026-07-30T01:10:11+00:00`
 - Master DB records: `591`
-- Generated concepts: `1545`
+- Generated concepts: `1548`
 
-## 名前のない観測者
+## 透明な証言者たち
 
-- Work ID: `orig:20260729184715:13feaf4ad7b024749659`
-- Generated at UTC: `2026-07-29T18:47:15+00:00`
+- Work ID: `orig:20260730011011:c4183a1d064824489c9e`
+- Generated at UTC: `2026-07-30T01:10:11+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Drama, Love Polygon, Romance
-- Logline: 失われた物語だけが通貨として流通する群島で、誰からも忘れられる体質を利用して事件を解く学生が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
+- Genre mix: Action, Comedy, Crossdressing, Drama
+- Logline: 夢の記録が裁判証拠になる近未来で、怪異専門の窓口で働く臆病な公務員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 夢の記録が裁判証拠になる近未来
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:610
+jikan:manga:762
