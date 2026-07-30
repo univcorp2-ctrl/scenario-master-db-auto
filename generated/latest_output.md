@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-07-30T01:10:11+00:00`
+- Checked at UTC: `2026-07-30T04:43:29+00:00`
 - Master DB records: `591`
-- Generated concepts: `1548`
+- Generated concepts: `1551`
 
-## 透明な証言者たち
+## 二度目の地図
 
-- Work ID: `orig:20260730011011:c4183a1d064824489c9e`
-- Generated at UTC: `2026-07-30T01:10:11+00:00`
+- Work ID: `orig:20260730044329:c2a3e0f7344533872b47`
+- Generated at UTC: `2026-07-30T04:43:29+00:00`
 - Medium: `manga`
-- Genre mix: Action, Comedy, Crossdressing, Drama
-- Logline: 夢の記録が裁判証拠になる近未来で、怪異専門の窓口で働く臆病な公務員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: Fantasy, Isekai, Reincarnation, Comedy
+- Logline: 夢の記録が裁判証拠になる近未来で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
 - World: 夢の記録が裁判証拠になる近未来
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: truth and justice
-- Hook tags: high concept, clear dilemma
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: identity, trust and betrayal
+- Hook tags: top-ranked manga
 
 ### Three-act structure
 1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:762
+jikan:manga:70261, jikan:manga:610, jikan:manga:81, jikan:manga:119022
