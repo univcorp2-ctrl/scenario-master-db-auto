@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-03T19:13:51+00:00`
+- Checked at UTC: `2026-08-04T01:14:03+00:00`
 - Master DB records: `591`
-- Generated concepts: `1635`
+- Generated concepts: `1638`
 
-## 名前のない逃亡者
+## 名前のない証言者たち
 
-- Work ID: `orig:20260803191350:b945a3531924104364b1`
-- Generated at UTC: `2026-08-03T19:13:50+00:00`
+- Work ID: `orig:20260804011403:e6aede655b218d9eecf3`
+- Generated at UTC: `2026-08-04T01:14:03+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Shounen, Drama, Historical
-- Logline: 失われた物語だけが通貨として流通する群島で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Genre mix: Fantasy, Mystery, Seinen, Drama
+- Logline: 宇宙移民船の中に再現された古い商店街で、敗者の記憶を預かることになった元アスリートが、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: truth and justice
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:147272, jikan:manga:1325, jikan:manga:81211, jikan:manga:33031, jikan:manga:93753
+jikan:manga:115730, jikan:manga:9738, jikan:manga:40761, jikan:manga:98436
