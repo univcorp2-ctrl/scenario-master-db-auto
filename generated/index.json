@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 94,
-    "manga": 1340,
+    "manga": 1343,
     "novel": 132,
     "series": 87
   },
-  "generated_at": "2026-08-04T16:04:25+00:00",
+  "generated_at": "2026-08-04T19:15:05+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-04T19:15:05+00:00",
+      "title_ja": "逆さまの観測者",
+      "work_id": "orig:20260804191505:9ef080949a060656e538"
+    },
+    {
+      "generated_at": "2026-08-04T19:15:05+00:00",
+      "title_ja": "眠らない逃亡者",
+      "work_id": "orig:20260804191505:ce66677e0c59b052af67"
+    },
+    {
+      "generated_at": "2026-08-04T19:15:05+00:00",
+      "title_ja": "名前のない記録係",
+      "work_id": "orig:20260804191505:d3ae757f5bc88313e2fb"
+    },
     {
       "generated_at": "2026-08-04T16:04:25+00:00",
       "title_ja": "逆さまの放課後の修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-04T01:14:03+00:00",
       "title_ja": "眠らない観測者",
       "work_id": "orig:20260804011403:0ff8856ecdae22745d9c"
-    },
-    {
-      "generated_at": "2026-08-04T01:14:03+00:00",
-      "title_ja": "二度目の放課後の交渉人",
-      "work_id": "orig:20260804011403:e5285c6ca41f114ff5ba"
-    },
-    {
-      "generated_at": "2026-08-03T19:13:50+00:00",
-      "title_ja": "名前のない逃亡者",
-      "work_id": "orig:20260803191350:b945a3531924104364b1"
-    },
-    {
-      "generated_at": "2026-08-03T19:13:50+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260803191350:7ce983bd4fc040e271ca"
     }
   ],
-  "total_generated_works": 1653
+  "total_generated_works": 1656
 }
