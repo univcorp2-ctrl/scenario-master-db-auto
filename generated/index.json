@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 95,
-    "manga": 1352,
+    "manga": 1354,
     "novel": 133,
-    "series": 88
+    "series": 89
   },
-  "generated_at": "2026-08-05T11:49:21+00:00",
+  "generated_at": "2026-08-05T13:28:52+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-05T13:28:52+00:00",
+      "title_ja": "最後の記録係",
+      "work_id": "orig:20260805132852:90bf7211a82ba9d848c3"
+    },
+    {
+      "generated_at": "2026-08-05T13:28:52+00:00",
+      "title_ja": "眠らない地図",
+      "work_id": "orig:20260805132852:48fe148a7a8636f7e6c5"
+    },
+    {
+      "generated_at": "2026-08-05T13:28:52+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260805132852:e5b03ed8b43ef5f491b4"
+    },
     {
       "generated_at": "2026-08-05T11:49:21+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-04T16:04:25+00:00",
       "title_ja": "最後の迷宮",
       "work_id": "orig:20260804160425:f249578625f1c3c0ae4e"
-    },
-    {
-      "generated_at": "2026-08-04T16:04:25+00:00",
-      "title_ja": "眠らない放課後の時計塔",
-      "work_id": "orig:20260804160425:c1886dee5ab5b48d59f3"
-    },
-    {
-      "generated_at": "2026-08-04T13:30:17+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260804133017:e4f02ba1492d19ef8221"
-    },
-    {
-      "generated_at": "2026-08-04T13:30:17+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260804133017:bcc2df016aaaeec4cc4a"
     }
   ],
-  "total_generated_works": 1668
+  "total_generated_works": 1671
 }
