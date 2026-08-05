@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 95,
-    "manga": 1354,
-    "novel": 133,
+    "film": 96,
+    "manga": 1355,
+    "novel": 134,
     "series": 89
   },
-  "generated_at": "2026-08-05T13:28:52+00:00",
+  "generated_at": "2026-08-05T15:52:43+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-05T15:52:43+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260805155243:3a4b9d95fc0bf72a4178"
+    },
+    {
+      "generated_at": "2026-08-05T15:52:43+00:00",
+      "title_ja": "月下の時計塔",
+      "work_id": "orig:20260805155243:b36df169354724f20d8a"
+    },
+    {
+      "generated_at": "2026-08-05T15:52:43+00:00",
+      "title_ja": "透明な放課後の修復士",
+      "work_id": "orig:20260805155243:d9453d21067a978278bb"
+    },
     {
       "generated_at": "2026-08-05T13:28:52+00:00",
       "title_ja": "最後の記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-04T19:15:05+00:00",
       "title_ja": "眠らない逃亡者",
       "work_id": "orig:20260804191505:ce66677e0c59b052af67"
-    },
-    {
-      "generated_at": "2026-08-04T19:15:05+00:00",
-      "title_ja": "名前のない記録係",
-      "work_id": "orig:20260804191505:d3ae757f5bc88313e2fb"
-    },
-    {
-      "generated_at": "2026-08-04T16:04:25+00:00",
-      "title_ja": "逆さまの放課後の修復士",
-      "work_id": "orig:20260804160425:a7cde001dc221280c247"
-    },
-    {
-      "generated_at": "2026-08-04T16:04:25+00:00",
-      "title_ja": "最後の迷宮",
-      "work_id": "orig:20260804160425:f249578625f1c3c0ae4e"
     }
   ],
-  "total_generated_works": 1671
+  "total_generated_works": 1674
 }
