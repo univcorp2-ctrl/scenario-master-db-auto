@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 96,
-    "manga": 1357,
+    "manga": 1359,
     "novel": 134,
-    "series": 90
+    "series": 91
   },
-  "generated_at": "2026-08-05T17:15:54+00:00",
+  "generated_at": "2026-08-05T19:08:22+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-05T19:08:22+00:00",
+      "title_ja": "名前のない逃亡者",
+      "work_id": "orig:20260805190822:0acdde91c7b3e3ebac19"
+    },
+    {
+      "generated_at": "2026-08-05T19:08:22+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260805190822:a53ac4b79bd46baa8859"
+    },
+    {
+      "generated_at": "2026-08-05T19:08:22+00:00",
+      "title_ja": "二度目の放課後の修復士",
+      "work_id": "orig:20260805190822:ed94c0ccc84b9fad276f"
+    },
     {
       "generated_at": "2026-08-05T17:15:54+00:00",
       "title_ja": "月下の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-05T04:51:14+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260805045114:df9d8803f4fdd8ae82b3"
-    },
-    {
-      "generated_at": "2026-08-05T04:51:14+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260805045114:d49f47345b85592c023d"
-    },
-    {
-      "generated_at": "2026-08-05T01:15:39+00:00",
-      "title_ja": "最後の逃亡者",
-      "work_id": "orig:20260805011539:c903a50393deb08f038e"
-    },
-    {
-      "generated_at": "2026-08-05T01:15:39+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260805011539:2280e7f0a0bbc2fdb06e"
     }
   ],
-  "total_generated_works": 1677
+  "total_generated_works": 1680
 }
