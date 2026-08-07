@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 100,
-    "manga": 1389,
+    "film": 101,
+    "manga": 1391,
     "novel": 138,
     "series": 95
   },
-  "generated_at": "2026-08-07T16:38:40+00:00",
+  "generated_at": "2026-08-07T18:35:25+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-07T18:35:25+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260807183525:ec87e187c3c9c6f4a343"
+    },
+    {
+      "generated_at": "2026-08-07T18:35:25+00:00",
+      "title_ja": "最後の放課後の交渉人",
+      "work_id": "orig:20260807183525:7cbfadd1655b6a31a084"
+    },
+    {
+      "generated_at": "2026-08-07T18:35:25+00:00",
+      "title_ja": "眠らない地図",
+      "work_id": "orig:20260807183525:d09f056020b88b78fc00"
+    },
     {
       "generated_at": "2026-08-07T16:38:40+00:00",
       "title_ja": "名前のない迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-07T06:55:38+00:00",
       "title_ja": "名前のない証言者たち",
       "work_id": "orig:20260807065538:61b17d4ffeceb13239a0"
-    },
-    {
-      "generated_at": "2026-08-07T06:55:38+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260807065538:62d11419c26e43d97dbe"
-    },
-    {
-      "generated_at": "2026-08-07T04:17:26+00:00",
-      "title_ja": "名前のない記録係",
-      "work_id": "orig:20260807041726:40381b6b471a8687f222"
-    },
-    {
-      "generated_at": "2026-08-07T04:17:26+00:00",
-      "title_ja": "透明な放課後の交渉人",
-      "work_id": "orig:20260807041726:a434be2311d952d8af0b"
     }
   ],
-  "total_generated_works": 1722
+  "total_generated_works": 1725
 }
