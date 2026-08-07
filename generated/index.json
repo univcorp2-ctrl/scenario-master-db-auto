@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 98,
-    "manga": 1383,
+    "film": 99,
+    "manga": 1384,
     "novel": 138,
-    "series": 94
+    "series": 95
   },
-  "generated_at": "2026-08-07T10:39:45+00:00",
+  "generated_at": "2026-08-07T12:34:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-07T12:34:08+00:00",
+      "title_ja": "月下の残響",
+      "work_id": "orig:20260807123408:5506b4dcb3282daa7914"
+    },
+    {
+      "generated_at": "2026-08-07T12:34:08+00:00",
+      "title_ja": "名前のない放課後の地図",
+      "work_id": "orig:20260807123408:2d513800a5709c00ce0f"
+    },
+    {
+      "generated_at": "2026-08-07T12:34:08+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260807123408:d512fe57255cc7d7f46d"
+    },
     {
       "generated_at": "2026-08-07T10:39:45+00:00",
       "title_ja": "透明な地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-06T22:42:27+00:00",
       "title_ja": "二度目の放課後の修復士",
       "work_id": "orig:20260806224227:1ed77753e7b8e9294007"
-    },
-    {
-      "generated_at": "2026-08-06T22:42:27+00:00",
-      "title_ja": "二度目の放課後の地図",
-      "work_id": "orig:20260806224227:003f4fa6c9d6fe65473c"
-    },
-    {
-      "generated_at": "2026-08-06T13:27:12+00:00",
-      "title_ja": "二度目の記録係",
-      "work_id": "orig:20260806132712:bd5645128fdcb07fc688"
-    },
-    {
-      "generated_at": "2026-08-06T13:27:12+00:00",
-      "title_ja": "月下の時計塔",
-      "work_id": "orig:20260806132712:80c48b126101666e7f25"
     }
   ],
-  "total_generated_works": 1713
+  "total_generated_works": 1716
 }
