@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 98,
-    "manga": 1380,
+    "manga": 1383,
     "novel": 138,
     "series": 94
   },
-  "generated_at": "2026-08-07T08:43:18+00:00",
+  "generated_at": "2026-08-07T10:39:45+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-07T10:39:45+00:00",
+      "title_ja": "透明な地図",
+      "work_id": "orig:20260807103945:0a060de0422028fffc4b"
+    },
+    {
+      "generated_at": "2026-08-07T10:39:45+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260807103945:024f6d06d6c3aa28dfb7"
+    },
+    {
+      "generated_at": "2026-08-07T10:39:45+00:00",
+      "title_ja": "眠らない放課後の地図",
+      "work_id": "orig:20260807103945:1705bd6d0c1f5eea1ca0"
+    },
     {
       "generated_at": "2026-08-07T08:43:18+00:00",
       "title_ja": "忘れられた放課後の記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-06T13:27:12+00:00",
       "title_ja": "月下の時計塔",
       "work_id": "orig:20260806132712:80c48b126101666e7f25"
-    },
-    {
-      "generated_at": "2026-08-06T13:27:12+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260806132712:cf39a1e8124b6fa368a5"
-    },
-    {
-      "generated_at": "2026-08-06T11:54:15+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260806115415:d3ca0486eb190452a175"
-    },
-    {
-      "generated_at": "2026-08-06T11:54:15+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260806115415:ad10ff9e1da4206d7097"
     }
   ],
-  "total_generated_works": 1710
+  "total_generated_works": 1713
 }
