@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-08T06:28:53+00:00`
+- Checked at UTC: `2026-08-08T08:24:57+00:00`
 - Master DB records: `591`
-- Generated concepts: `1737`
+- Generated concepts: `1740`
 
-## 眠らない残響
+## 二度目の放課後の観測者
 
-- Work ID: `orig:20260808062853:7a4fe879dd9ca938f215`
-- Generated at UTC: `2026-08-08T06:28:53+00:00`
+- Work ID: `orig:20260808082457:4e82391dae63ac2bed69`
+- Generated at UTC: `2026-08-08T08:24:57+00:00`
 - Medium: `manga`
-- Genre mix: Award Winning, Adventure, Fantasy, Drama
-- Logline: 記憶を修理する職人ギルドがある王国で、誰からも忘れられる体質を利用して事件を解く学生が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Genre mix: Drama, Romance, Action, Comedy
+- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、敗者の記憶を預かることになった元アスリートが、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:17904, jikan:manga:143441, jikan:manga:97244, jikan:manga:121269, jikan:manga:72467
+jikan:manga:445, jikan:manga:166817, jikan:manga:1325, jikan:manga:83903
