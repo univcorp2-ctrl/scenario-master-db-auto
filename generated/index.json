@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 101,
-    "manga": 1393,
+    "manga": 1396,
     "novel": 138,
     "series": 96
   },
-  "generated_at": "2026-08-08T00:38:53+00:00",
+  "generated_at": "2026-08-08T03:14:57+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-08T03:14:57+00:00",
+      "title_ja": "二度目の地図",
+      "work_id": "orig:20260808031457:5b71e75e074278481eac"
+    },
+    {
+      "generated_at": "2026-08-08T03:14:57+00:00",
+      "title_ja": "最後の放課後の時計塔",
+      "work_id": "orig:20260808031457:2a19140ac59d075d1d4b"
+    },
+    {
+      "generated_at": "2026-08-08T03:14:57+00:00",
+      "title_ja": "忘れられた放課後の時計塔",
+      "work_id": "orig:20260808031457:da3dd9d228f324ef7428"
+    },
     {
       "generated_at": "2026-08-08T00:38:53+00:00",
       "title_ja": "名前のない灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-07T10:39:45+00:00",
       "title_ja": "透明な証言者たち",
       "work_id": "orig:20260807103945:024f6d06d6c3aa28dfb7"
-    },
-    {
-      "generated_at": "2026-08-07T10:39:45+00:00",
-      "title_ja": "眠らない放課後の地図",
-      "work_id": "orig:20260807103945:1705bd6d0c1f5eea1ca0"
-    },
-    {
-      "generated_at": "2026-08-07T08:43:18+00:00",
-      "title_ja": "忘れられた放課後の記録係",
-      "work_id": "orig:20260807084318:d6f9863db31cbeec550a"
-    },
-    {
-      "generated_at": "2026-08-07T08:43:18+00:00",
-      "title_ja": "眠らない放課後の時計塔",
-      "work_id": "orig:20260807084318:f8a59cada7eeee75b4a2"
     }
   ],
-  "total_generated_works": 1728
+  "total_generated_works": 1731
 }
