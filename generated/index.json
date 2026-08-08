@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 102,
-    "manga": 1398,
+    "manga": 1401,
     "novel": 138,
     "series": 96
   },
-  "generated_at": "2026-08-08T04:44:27+00:00",
+  "generated_at": "2026-08-08T06:28:53+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-08T06:28:53+00:00",
+      "title_ja": "眠らない残響",
+      "work_id": "orig:20260808062853:7a4fe879dd9ca938f215"
+    },
+    {
+      "generated_at": "2026-08-08T06:28:53+00:00",
+      "title_ja": "名前のない調律師",
+      "work_id": "orig:20260808062853:bfb043a6811f8a079f3f"
+    },
+    {
+      "generated_at": "2026-08-08T06:28:53+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260808062853:f4b5c7b68bc0344bfc01"
+    },
     {
       "generated_at": "2026-08-08T04:44:27+00:00",
       "title_ja": "最後の放課後の記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-07T14:43:25+00:00",
       "title_ja": "透明な放課後の記録係",
       "work_id": "orig:20260807144325:6aa863cc8fe8621262a0"
-    },
-    {
-      "generated_at": "2026-08-07T14:43:25+00:00",
-      "title_ja": "透明な修復士",
-      "work_id": "orig:20260807144325:de4ee69e80e018f47854"
-    },
-    {
-      "generated_at": "2026-08-07T12:34:08+00:00",
-      "title_ja": "月下の残響",
-      "work_id": "orig:20260807123408:5506b4dcb3282daa7914"
-    },
-    {
-      "generated_at": "2026-08-07T12:34:08+00:00",
-      "title_ja": "名前のない放課後の地図",
-      "work_id": "orig:20260807123408:2d513800a5709c00ce0f"
     }
   ],
-  "total_generated_works": 1734
+  "total_generated_works": 1737
 }
