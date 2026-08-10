@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-09T18:20:18+00:00",
+  "checked_at": "2026-08-10T00:43:02+00:00",
   "checks": [
     {
       "message": "591 master records found.",
@@ -7,12 +7,12 @@
       "ok": true
     },
     {
-      "message": "1785 generated concepts found.",
+      "message": "1788 generated concepts found.",
       "name": "generated_works_exist",
       "ok": true
     },
     {
-      "message": "DB age: 0.00h",
+      "message": "DB age: 6.38h",
       "name": "latest_db_update_recent",
       "ok": true
     },
@@ -24,15 +24,15 @@
   ],
   "generated_by_medium": {
     "film": 103,
-    "manga": 1438,
+    "manga": 1441,
     "novel": 145,
     "series": 99
   },
-  "generated_works": 1785,
+  "generated_works": 1788,
   "latest_db_update": "2026-08-09T18:20:18+00:00",
-  "latest_db_update_age_hours": 0.0001,
-  "latest_generation": "2026-08-09T18:20:18+00:00",
-  "latest_generation_age_hours": 0.0001,
+  "latest_db_update_age_hours": 6.3789,
+  "latest_generation": "2026-08-10T00:43:01+00:00",
+  "latest_generation_age_hours": 0.0003,
   "master_by_medium": {
     "manga": 520,
     "novel": 71
