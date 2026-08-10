@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-10T16:39:38+00:00`
+- Checked at UTC: `2026-08-10T18:38:34+00:00`
 - Master DB records: `591`
-- Generated concepts: `1812`
+- Generated concepts: `1815`
 
-## 二度目の交渉人
+## 名前のない証言者たち
 
-- Work ID: `orig:20260810163937:6057050ad314badcf2c0`
-- Generated at UTC: `2026-08-10T16:39:37+00:00`
-- Medium: `novel`
-- Genre mix: Action, Adventure, Fantasy
-- Logline: 夢の記録が裁判証拠になる近未来で、禁じられた物語を修復する若い司書が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 夢の記録が裁判証拠になる近未来
+- Work ID: `orig:20260810183833:61bbf42c32263ea748a6`
+- Generated at UTC: `2026-08-10T18:38:33+00:00`
+- Medium: `manga`
+- Genre mix: Drama, Romance, Shounen, Supernatural
+- Logline: 記憶を修理する職人ギルドがある王国で、禁じられた物語を修復する若い司書が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 禁じられた物語を修復する若い司書
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: identity, trust and betrayal
-- Hook tags: high concept, clear dilemma
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: truth and justice
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:56743
+jikan:manga:100448, jikan:manga:91941, jikan:manga:107562
