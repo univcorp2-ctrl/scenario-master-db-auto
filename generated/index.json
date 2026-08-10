@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 104,
-    "manga": 1449,
-    "novel": 147,
+    "manga": 1451,
+    "novel": 148,
     "series": 100
   },
-  "generated_at": "2026-08-10T09:03:30+00:00",
+  "generated_at": "2026-08-10T10:54:12+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-10T10:54:12+00:00",
+      "title_ja": "忘れられた観測者",
+      "work_id": "orig:20260810105412:57c24a8255560c4dd561"
+    },
+    {
+      "generated_at": "2026-08-10T10:54:12+00:00",
+      "title_ja": "眠らない迷宮",
+      "work_id": "orig:20260810105412:dd2d200cdb8b16cd593b"
+    },
+    {
+      "generated_at": "2026-08-10T10:54:12+00:00",
+      "title_ja": "最後の放課後の記録係",
+      "work_id": "orig:20260810105412:5e960e9f06ad5755ba75"
+    },
     {
       "generated_at": "2026-08-10T09:03:30+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-09T18:20:18+00:00",
       "title_ja": "月下の交渉人",
       "work_id": "orig:20260809182018:191a7bc28cf0d73b8ff6"
-    },
-    {
-      "generated_at": "2026-08-09T18:20:18+00:00",
-      "title_ja": "眠らない迷宮",
-      "work_id": "orig:20260809182018:58b0afd5ff015b731e66"
-    },
-    {
-      "generated_at": "2026-08-09T16:18:44+00:00",
-      "title_ja": "二度目の放課後の残響",
-      "work_id": "orig:20260809161844:0d28895dfbe4b107bcb7"
-    },
-    {
-      "generated_at": "2026-08-09T16:18:44+00:00",
-      "title_ja": "眠らない放課後の調律師",
-      "work_id": "orig:20260809161844:98ee221725abfc45a6f2"
     }
   ],
-  "total_generated_works": 1800
+  "total_generated_works": 1803
 }
