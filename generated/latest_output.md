@@ -1,19 +1,19 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-11T16:43:12+00:00`
+- Checked at UTC: `2026-08-11T18:42:04+00:00`
 - Master DB records: `591`
-- Generated concepts: `1842`
+- Generated concepts: `1845`
 
-## 透明な放課後の時計塔
+## 透明な放課後の修復士
 
-- Work ID: `orig:20260811164311:6883754f31972ee82c5e`
-- Generated at UTC: `2026-08-11T16:43:11+00:00`
+- Work ID: `orig:20260811184204:23648be6bd858cf3328e`
+- Generated at UTC: `2026-08-11T18:42:04+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Gag Humor, School, Drama
-- Logline: 失われた物語だけが通貨として流通する群島で、未来の自分から届く失敗報告だけを頼りに動く配達員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: Comedy, Music, School, Seinen
+- Logline: 失われた物語だけが通貨として流通する群島で、誰からも忘れられる体質を利用して事件を解く学生が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
 - World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
 - Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
 - Themes: coming of age
 - Hook tags: high concept, clear dilemma
@@ -24,4 +24,4 @@
 3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:26144, jikan:manga:99314
+jikan:manga:87397, jikan:manga:60553
