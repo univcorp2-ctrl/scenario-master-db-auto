@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 104,
-    "manga": 1460,
+    "manga": 1462,
     "novel": 150,
-    "series": 101
+    "series": 102
   },
-  "generated_at": "2026-08-10T18:38:33+00:00",
+  "generated_at": "2026-08-11T00:42:57+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-11T00:42:57+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260811004257:c1ad34103515c1ebdc64"
+    },
+    {
+      "generated_at": "2026-08-11T00:42:57+00:00",
+      "title_ja": "眠らない放課後の交渉人",
+      "work_id": "orig:20260811004257:e830fdc31bc4f9b4cee2"
+    },
+    {
+      "generated_at": "2026-08-11T00:42:57+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260811004257:3b44be1922c64ce5c647"
+    },
     {
       "generated_at": "2026-08-10T18:38:33+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-10T09:03:30+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260810090330:d018e96e832c1c235cab"
-    },
-    {
-      "generated_at": "2026-08-10T09:03:30+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260810090330:8c621d5bf761ef5be8a2"
-    },
-    {
-      "generated_at": "2026-08-10T07:02:41+00:00",
-      "title_ja": "透明な放課後の修復士",
-      "work_id": "orig:20260810070241:ee391ef10b7bf7caed13"
-    },
-    {
-      "generated_at": "2026-08-10T07:02:41+00:00",
-      "title_ja": "眠らない残響",
-      "work_id": "orig:20260810070241:5404134b7d8a3095471e"
     }
   ],
-  "total_generated_works": 1815
+  "total_generated_works": 1818
 }
