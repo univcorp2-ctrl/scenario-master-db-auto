@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 104,
-    "manga": 1477,
+    "manga": 1480,
     "novel": 152,
     "series": 103
   },
-  "generated_at": "2026-08-11T12:35:05+00:00",
+  "generated_at": "2026-08-11T14:48:32+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-11T14:48:32+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260811144832:c1f4f79fdaf9bcec04e4"
+    },
+    {
+      "generated_at": "2026-08-11T14:48:32+00:00",
+      "title_ja": "名前のない交渉人",
+      "work_id": "orig:20260811144832:dbfd9497f227f525399f"
+    },
+    {
+      "generated_at": "2026-08-11T14:48:32+00:00",
+      "title_ja": "忘れられた放課後の残響",
+      "work_id": "orig:20260811144832:294f8b067cdc25d71740"
+    },
     {
       "generated_at": "2026-08-11T12:35:05+00:00",
       "title_ja": "忘れられた交渉人",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-11T03:24:18+00:00",
       "title_ja": "月下の時計塔",
       "work_id": "orig:20260811032418:ad669af223f2df2e2a51"
-    },
-    {
-      "generated_at": "2026-08-11T03:24:18+00:00",
-      "title_ja": "名前のない放課後の迷宮",
-      "work_id": "orig:20260811032418:492bd0adee79376c9e66"
-    },
-    {
-      "generated_at": "2026-08-11T00:42:57+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260811004257:c1ad34103515c1ebdc64"
-    },
-    {
-      "generated_at": "2026-08-11T00:42:57+00:00",
-      "title_ja": "眠らない放課後の交渉人",
-      "work_id": "orig:20260811004257:e830fdc31bc4f9b4cee2"
     }
   ],
-  "total_generated_works": 1836
+  "total_generated_works": 1839
 }
