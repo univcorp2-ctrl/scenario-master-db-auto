@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 105,
-    "manga": 1493,
+    "manga": 1495,
     "novel": 152,
-    "series": 104
+    "series": 105
   },
-  "generated_at": "2026-08-12T05:21:31+00:00",
+  "generated_at": "2026-08-12T07:01:43+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-12T07:01:43+00:00",
+      "title_ja": "二度目の放課後の地図",
+      "work_id": "orig:20260812070143:5bc40d1c73ad2d8899bd"
+    },
+    {
+      "generated_at": "2026-08-12T07:01:43+00:00",
+      "title_ja": "最後の地図",
+      "work_id": "orig:20260812070143:0fc266838b1209eaf61a"
+    },
+    {
+      "generated_at": "2026-08-12T07:01:43+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260812070143:3fa1092ea0b0189888ce"
+    },
     {
       "generated_at": "2026-08-12T05:21:31+00:00",
       "title_ja": "最後の放課後の灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-11T14:48:32+00:00",
       "title_ja": "名前のない交渉人",
       "work_id": "orig:20260811144832:dbfd9497f227f525399f"
-    },
-    {
-      "generated_at": "2026-08-11T14:48:32+00:00",
-      "title_ja": "忘れられた放課後の残響",
-      "work_id": "orig:20260811144832:294f8b067cdc25d71740"
-    },
-    {
-      "generated_at": "2026-08-11T12:35:05+00:00",
-      "title_ja": "忘れられた交渉人",
-      "work_id": "orig:20260811123505:672842911d482d4efba5"
-    },
-    {
-      "generated_at": "2026-08-11T12:35:05+00:00",
-      "title_ja": "最後の放課後の迷宮",
-      "work_id": "orig:20260811123505:51f79721da042fdd6bd9"
     }
   ],
-  "total_generated_works": 1854
+  "total_generated_works": 1857
 }
