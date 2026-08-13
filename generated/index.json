@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 106,
-    "manga": 1508,
+    "manga": 1511,
     "novel": 152,
     "series": 109
   },
-  "generated_at": "2026-08-12T18:43:17+00:00",
+  "generated_at": "2026-08-13T00:51:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-13T00:51:08+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260813005108:6a9e479063911e603e52"
+    },
+    {
+      "generated_at": "2026-08-13T00:51:08+00:00",
+      "title_ja": "忘れられた修復士",
+      "work_id": "orig:20260813005108:0ad755323caa1a25cb57"
+    },
+    {
+      "generated_at": "2026-08-13T00:51:08+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260813005108:2e17e932e8e14a52d6cc"
+    },
     {
       "generated_at": "2026-08-12T18:43:17+00:00",
       "title_ja": "透明な迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-12T08:57:22+00:00",
       "title_ja": "逆さまの放課後の逃亡者",
       "work_id": "orig:20260812085722:163c22092535de6d11c5"
-    },
-    {
-      "generated_at": "2026-08-12T08:57:22+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260812085722:54222484a81862c1ca5c"
-    },
-    {
-      "generated_at": "2026-08-12T07:01:43+00:00",
-      "title_ja": "二度目の放課後の地図",
-      "work_id": "orig:20260812070143:5bc40d1c73ad2d8899bd"
-    },
-    {
-      "generated_at": "2026-08-12T07:01:43+00:00",
-      "title_ja": "最後の地図",
-      "work_id": "orig:20260812070143:0fc266838b1209eaf61a"
     }
   ],
-  "total_generated_works": 1875
+  "total_generated_works": 1878
 }
