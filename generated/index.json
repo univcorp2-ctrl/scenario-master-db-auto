@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 106,
-    "manga": 1517,
+    "manga": 1519,
     "novel": 152,
-    "series": 109
+    "series": 110
   },
-  "generated_at": "2026-08-13T05:26:27+00:00",
+  "generated_at": "2026-08-13T07:05:49+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-13T07:05:49+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260813070549:1a8b9b11ead3ef62d700"
+    },
+    {
+      "generated_at": "2026-08-13T07:05:49+00:00",
+      "title_ja": "名前のない交渉人",
+      "work_id": "orig:20260813070549:b366ec6d37153d3409b0"
+    },
+    {
+      "generated_at": "2026-08-13T07:05:49+00:00",
+      "title_ja": "逆さまの修復士",
+      "work_id": "orig:20260813070549:87d331254e144459fce3"
+    },
     {
       "generated_at": "2026-08-13T05:26:27+00:00",
       "title_ja": "名前のない証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-12T14:49:01+00:00",
       "title_ja": "月下の観測者",
       "work_id": "orig:20260812144901:60838a0e0a7009c4b1e8"
-    },
-    {
-      "generated_at": "2026-08-12T14:49:01+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260812144901:2ca500dc4ddd9265236e"
-    },
-    {
-      "generated_at": "2026-08-12T12:38:04+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260812123804:1fe91f64c50f75cf8bd4"
-    },
-    {
-      "generated_at": "2026-08-12T12:38:04+00:00",
-      "title_ja": "名前のない観測者",
-      "work_id": "orig:20260812123804:f926f8dd62c3a4d67c87"
     }
   ],
-  "total_generated_works": 1884
+  "total_generated_works": 1887
 }
