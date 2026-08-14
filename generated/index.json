@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 107,
-    "manga": 1545,
+    "manga": 1548,
     "novel": 153,
     "series": 112
   },
-  "generated_at": "2026-08-14T07:02:07+00:00",
+  "generated_at": "2026-08-14T08:54:29+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-14T08:54:29+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260814085429:2b00f4b6640b3a28e2a9"
+    },
+    {
+      "generated_at": "2026-08-14T08:54:29+00:00",
+      "title_ja": "月下の観測者",
+      "work_id": "orig:20260814085429:60351fd4fb934d63f71a"
+    },
+    {
+      "generated_at": "2026-08-14T08:54:29+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260814085429:09acde04d6821670d4e2"
+    },
     {
       "generated_at": "2026-08-14T07:02:07+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-13T16:42:09+00:00",
       "title_ja": "忘れられた証言者たち",
       "work_id": "orig:20260813164209:3caaa1b4fa50a99c8655"
-    },
-    {
-      "generated_at": "2026-08-13T16:42:09+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260813164209:fa134ee3e397362f568e"
-    },
-    {
-      "generated_at": "2026-08-13T14:49:14+00:00",
-      "title_ja": "二度目の証言者たち",
-      "work_id": "orig:20260813144914:b5378a94bd0b430c6ba6"
-    },
-    {
-      "generated_at": "2026-08-13T14:49:14+00:00",
-      "title_ja": "二度目の観測者",
-      "work_id": "orig:20260813144914:e329ae1c45048b0a37e5"
     }
   ],
-  "total_generated_works": 1917
+  "total_generated_works": 1920
 }

@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-14T07:02:07+00:00`
+- Checked at UTC: `2026-08-14T08:54:29+00:00`
 - Master DB records: `591`
-- Generated concepts: `1917`
+- Generated concepts: `1920`
 
-## 最後の証言者たち
+## 逆さまの証言者たち
 
-- Work ID: `orig:20260814070207:44f55bcb6b89bc5345c0`
-- Generated at UTC: `2026-08-14T07:02:07+00:00`
+- Work ID: `orig:20260814085429:2b00f4b6640b3a28e2a9`
+- Generated at UTC: `2026-08-14T08:54:29+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Supernatural, Horror, Mystery
-- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、誰からも忘れられる体質を利用して事件を解く学生が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
-- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Genre mix: Drama, Action, Seinen, Sports
+- Logline: 宇宙移民船の中に再現された古い商店街で、未来の自分から届く失敗報告だけを頼りに動く配達員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
 - Themes: truth and justice
-- Hook tags: high concept, clear dilemma
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:79993, jikan:manga:90810, jikan:manga:1111
+jikan:manga:149, jikan:manga:148137, jikan:manga:23751, jikan:manga:114745, jikan:manga:5744
