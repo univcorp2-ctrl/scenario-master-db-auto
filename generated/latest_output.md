@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-14T14:43:37+00:00`
+- Checked at UTC: `2026-08-14T16:37:56+00:00`
 - Master DB records: `591`
-- Generated concepts: `1929`
+- Generated concepts: `1932`
 
-## 月下の放課後の交渉人
+## 眠らない証言者たち
 
-- Work ID: `orig:20260814144336:a79e041cc4f2c9bdd0bf`
-- Generated at UTC: `2026-08-14T14:43:36+00:00`
+- Work ID: `orig:20260814163756:154db66594a81d5dae6b`
+- Generated at UTC: `2026-08-14T16:37:56+00:00`
 - Medium: `manga`
-- Genre mix: CGDCT, Comedy, School, Slice of Life
-- Logline: 感情が公共インフラとして数値化される都市で、禁じられた物語を修復する若い司書が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 禁じられた物語を修復する若い司書
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: coming of age
+- Genre mix: Action, Fantasy, Historical, Mystery
+- Logline: 記憶を修理する職人ギルドがある王国で、未来の自分から届く失敗報告だけを頼りに動く配達員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
+- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:85
+jikan:manga:3866
