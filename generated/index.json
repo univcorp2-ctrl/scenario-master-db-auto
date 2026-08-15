@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 109,
-    "manga": 1573,
-    "novel": 154,
+    "manga": 1575,
+    "novel": 155,
     "series": 114
   },
-  "generated_at": "2026-08-15T08:12:48+00:00",
+  "generated_at": "2026-08-15T10:10:12+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-15T10:10:12+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260815101012:04bcad30d5dacc033c8d"
+    },
+    {
+      "generated_at": "2026-08-15T10:10:12+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260815101012:ab90b151aa72f9aa36b8"
+    },
+    {
+      "generated_at": "2026-08-15T10:10:12+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260815101012:0a4e43a5059272f60e43"
+    },
     {
       "generated_at": "2026-08-15T08:12:48+00:00",
       "title_ja": "月下の地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-14T18:37:32+00:00",
       "title_ja": "忘れられた放課後の時計塔",
       "work_id": "orig:20260814183732:fa441c23fc307d5726b2"
-    },
-    {
-      "generated_at": "2026-08-14T18:37:32+00:00",
-      "title_ja": "名前のない灯台",
-      "work_id": "orig:20260814183732:94324fab62048d12ca4a"
-    },
-    {
-      "generated_at": "2026-08-14T16:37:56+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260814163756:154db66594a81d5dae6b"
-    },
-    {
-      "generated_at": "2026-08-14T16:37:56+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260814163756:4a9d5a639c8035652e4e"
     }
   ],
-  "total_generated_works": 1950
+  "total_generated_works": 1953
 }
