@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-16T10:10:23+00:00`
+- Checked at UTC: `2026-08-16T12:12:53+00:00`
 - Master DB records: `591`
-- Generated concepts: `1983`
+- Generated concepts: `1986`
 
-## 月下の逃亡者
+## 月下の放課後の記録係
 
-- Work ID: `orig:20260816101023:ef6b491f8edc91d0dace`
-- Generated at UTC: `2026-08-16T10:10:23+00:00`
+- Work ID: `orig:20260816121253:089e2cd79de4cc2149b2`
+- Generated at UTC: `2026-08-16T12:12:53+00:00`
 - Medium: `manga`
-- Genre mix: CGDCT, Comedy, Music, Drama
-- Logline: 感情が公共インフラとして数値化される都市で、未来の自分から届く失敗報告だけを頼りに動く配達員が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
+- Genre mix: Award Winning, Romance, School, Shoujo
+- Logline: 記憶を修理する職人ギルドがある王国で、未来の自分から届く失敗報告だけを頼りに動く配達員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 記憶を修理する職人ギルドがある王国
 - Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: coming of age
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:118568, jikan:manga:81211
+jikan:manga:3378
