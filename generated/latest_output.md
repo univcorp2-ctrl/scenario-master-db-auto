@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-16T12:12:53+00:00`
+- Checked at UTC: `2026-08-16T14:11:04+00:00`
 - Master DB records: `591`
-- Generated concepts: `1986`
+- Generated concepts: `1989`
 
-## 月下の放課後の記録係
+## 透明な証言者たち
 
-- Work ID: `orig:20260816121253:089e2cd79de4cc2149b2`
-- Generated at UTC: `2026-08-16T12:12:53+00:00`
-- Medium: `manga`
-- Genre mix: Award Winning, Romance, School, Shoujo
-- Logline: 記憶を修理する職人ギルドがある王国で、未来の自分から届く失敗報告だけを頼りに動く配達員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
-- Themes: coming of age
-- Hook tags: high concept, clear dilemma
+- Work ID: `orig:20260816141104:38a690a5306ece1c3d66`
+- Generated at UTC: `2026-08-16T14:11:04+00:00`
+- Medium: `novel`
+- Genre mix: Adventure, Seinen, Award Winning, Romance
+- Logline: 失われた物語だけが通貨として流通する群島で、怪異専門の窓口で働く臆病な公務員が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 失われた物語だけが通貨として流通する群島
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 善意で世界を単純化しようとする改革者
+- Themes: truth and justice, coming of age
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:3378
+jikan:manga:1706, jikan:manga:923, jikan:manga:110160, jikan:manga:90125
