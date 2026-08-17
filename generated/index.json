@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 113,
-    "manga": 1611,
+    "film": 114,
+    "manga": 1613,
     "novel": 160,
     "series": 117
   },
-  "generated_at": "2026-08-17T02:50:11+00:00",
+  "generated_at": "2026-08-17T04:29:16+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-17T04:29:16+00:00",
+      "title_ja": "忘れられた放課後の観測者",
+      "work_id": "orig:20260817042916:45f4f60829f036dd5e3d"
+    },
+    {
+      "generated_at": "2026-08-17T04:29:16+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260817042916:16b37a9cd403e6b30815"
+    },
+    {
+      "generated_at": "2026-08-17T04:29:16+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260817042916:e8470403b9ceb03b6479"
+    },
     {
       "generated_at": "2026-08-17T02:50:11+00:00",
       "title_ja": "逆さまの放課後の観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-16T12:12:53+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260816121253:fbc4d1714092e40e8255"
-    },
-    {
-      "generated_at": "2026-08-16T12:12:53+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260816121253:670909907b6992d02e35"
-    },
-    {
-      "generated_at": "2026-08-16T10:10:23+00:00",
-      "title_ja": "月下の逃亡者",
-      "work_id": "orig:20260816101023:ef6b491f8edc91d0dace"
-    },
-    {
-      "generated_at": "2026-08-16T10:10:23+00:00",
-      "title_ja": "眠らない証言者たち",
-      "work_id": "orig:20260816101023:c9003c1538d59ff58732"
     }
   ],
-  "total_generated_works": 2001
+  "total_generated_works": 2004
 }
