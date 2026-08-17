@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 114,
-    "manga": 1623,
+    "manga": 1626,
     "novel": 160,
     "series": 119
   },
-  "generated_at": "2026-08-17T12:16:40+00:00",
+  "generated_at": "2026-08-17T14:15:35+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-17T14:15:35+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260817141535:86877dfbe84e734c22d6"
+    },
+    {
+      "generated_at": "2026-08-17T14:15:35+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260817141535:df8d09e58ae275a4160b"
+    },
+    {
+      "generated_at": "2026-08-17T14:15:35+00:00",
+      "title_ja": "逆さまの放課後の灯台",
+      "work_id": "orig:20260817141535:83ca40305db44e1871f4"
+    },
     {
       "generated_at": "2026-08-17T12:16:40+00:00",
       "title_ja": "名前のない迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-17T02:50:11+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260817025011:5cfc4c4fa35fe775adf0"
-    },
-    {
-      "generated_at": "2026-08-17T02:50:11+00:00",
-      "title_ja": "最後の放課後の灯台",
-      "work_id": "orig:20260817025011:bb215e06c9a693208966"
-    },
-    {
-      "generated_at": "2026-08-17T00:28:22+00:00",
-      "title_ja": "二度目の残響",
-      "work_id": "orig:20260817002822:37573b1bff6b7858e9e1"
-    },
-    {
-      "generated_at": "2026-08-17T00:28:22+00:00",
-      "title_ja": "逆さまの放課後の観測者",
-      "work_id": "orig:20260817002822:8d488066723384656596"
     }
   ],
-  "total_generated_works": 2016
+  "total_generated_works": 2019
 }
