@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-18T14:20:00+00:00`
+- Checked at UTC: `2026-08-18T16:16:07+00:00`
 - Master DB records: `591`
-- Generated concepts: `2049`
+- Generated concepts: `2052`
 
-## 月下の逃亡者
+## 最後の灯台
 
-- Work ID: `orig:20260818142000:a458935a893ca7c57d5b`
-- Generated at UTC: `2026-08-18T14:20:00+00:00`
+- Work ID: `orig:20260818161607:70e45a4272e99bd0e1a7`
+- Generated at UTC: `2026-08-18T16:16:07+00:00`
 - Medium: `manga`
-- Genre mix: Action, Drama, Fantasy, Psychological
-- Logline: 毎朝、住民の役割が抽選で入れ替わる学園都市で、怪異専門の窓口で働く臆病な公務員が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 毎朝、住民の役割が抽選で入れ替わる学園都市
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Genre mix: Action, Comedy, Fantasy, Isekai
+- Logline: 宇宙移民船の中に再現された古い商店街で、未来の自分から届く失敗報告だけを頼りに動く配達員が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
 - Themes: identity, trust and betrayal
-- Hook tags: top-ranked manga
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 毎朝、住民の役割が抽選で入れ替わる学園都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:36131, jikan:manga:151061, jikan:manga:2, jikan:manga:214
+jikan:manga:119022
