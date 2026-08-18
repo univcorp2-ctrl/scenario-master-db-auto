@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 116,
-    "manga": 1651,
+    "manga": 1654,
     "novel": 162,
     "series": 123
   },
-  "generated_at": "2026-08-18T16:16:07+00:00",
+  "generated_at": "2026-08-18T18:17:47+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-18T18:17:47+00:00",
+      "title_ja": "逆さまの迷宮",
+      "work_id": "orig:20260818181747:311743641e4607ecb5c7"
+    },
+    {
+      "generated_at": "2026-08-18T18:17:47+00:00",
+      "title_ja": "逆さまの放課後の修復士",
+      "work_id": "orig:20260818181747:39877dfd620e3336187e"
+    },
+    {
+      "generated_at": "2026-08-18T18:17:47+00:00",
+      "title_ja": "名前のない証言者たち",
+      "work_id": "orig:20260818181747:14b1986fb2a6ca0983e7"
+    },
     {
       "generated_at": "2026-08-18T16:16:07+00:00",
       "title_ja": "最後の灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-18T06:20:11+00:00",
       "title_ja": "眠らない逃亡者",
       "work_id": "orig:20260818062011:46bbbb5cb905536ba154"
-    },
-    {
-      "generated_at": "2026-08-18T06:20:11+00:00",
-      "title_ja": "逆さまの放課後の観測者",
-      "work_id": "orig:20260818062011:e88351ae3dee4e04713f"
-    },
-    {
-      "generated_at": "2026-08-18T04:22:30+00:00",
-      "title_ja": "逆さまの逃亡者",
-      "work_id": "orig:20260818042230:2d4c2f1fc92212419db3"
-    },
-    {
-      "generated_at": "2026-08-18T04:22:30+00:00",
-      "title_ja": "二度目の放課後の残響",
-      "work_id": "orig:20260818042230:155e922499483adfdf9c"
     }
   ],
-  "total_generated_works": 2052
+  "total_generated_works": 2055
 }
