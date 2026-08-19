@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 118,
-    "manga": 1670,
+    "manga": 1673,
     "novel": 163,
     "series": 128
   },
-  "generated_at": "2026-08-19T14:21:02+00:00",
+  "generated_at": "2026-08-19T16:16:15+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-19T16:16:15+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260819161615:8331ddb5d6d0d34784a4"
+    },
+    {
+      "generated_at": "2026-08-19T16:16:15+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260819161615:44918015901da64d0def"
+    },
+    {
+      "generated_at": "2026-08-19T16:16:15+00:00",
+      "title_ja": "迷宮家族の約束",
+      "work_id": "orig:20260819161615:cf3a50860fc18126ba13"
+    },
     {
       "generated_at": "2026-08-19T14:21:02+00:00",
       "title_ja": "忘れられた記録係",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-19T04:24:14+00:00",
       "title_ja": "二度目の放課後の観測者",
       "work_id": "orig:20260819042414:d091d24785253384b63d"
-    },
-    {
-      "generated_at": "2026-08-19T04:24:14+00:00",
-      "title_ja": "最後の残響",
-      "work_id": "orig:20260819042414:fca52f27e2e0e7c867b7"
-    },
-    {
-      "generated_at": "2026-08-19T02:46:59+00:00",
-      "title_ja": "月下の残響",
-      "work_id": "orig:20260819024659:b8dd09372046c5258c4f"
-    },
-    {
-      "generated_at": "2026-08-19T02:46:59+00:00",
-      "title_ja": "眠らない交渉人",
-      "work_id": "orig:20260819024659:35dc53c5335e0f28aea2"
     }
   ],
-  "total_generated_works": 2079
+  "total_generated_works": 2082
 }
