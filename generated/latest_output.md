@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-18T18:17:47+00:00`
+- Checked at UTC: `2026-08-19T00:27:08+00:00`
 - Master DB records: `591`
-- Generated concepts: `2055`
+- Generated concepts: `2058`
 
-## 逆さまの迷宮
+## 透明な放課後の観測者
 
-- Work ID: `orig:20260818181747:311743641e4607ecb5c7`
-- Generated at UTC: `2026-08-18T18:17:47+00:00`
+- Work ID: `orig:20260819002708:f6926d73698dbc5f6a79`
+- Generated at UTC: `2026-08-19T00:27:08+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Isekai, Reincarnation, Slice of Life
-- Logline: 感情が公共インフラとして数値化される都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: School, Shounen, Supernatural, Action
+- Logline: 感情が公共インフラとして数値化される都市で、怪異専門の窓口で働く臆病な公務員が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
 - World: 感情が公共インフラとして数値化される都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: coming of age
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
 1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+2. survivalが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:159387
+jikan:manga:105084, jikan:manga:146878
