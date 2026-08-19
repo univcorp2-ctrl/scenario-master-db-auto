@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 116,
-    "manga": 1664,
+    "film": 117,
+    "manga": 1666,
     "novel": 162,
     "series": 128
   },
-  "generated_at": "2026-08-19T08:20:58+00:00",
+  "generated_at": "2026-08-19T10:15:37+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-19T10:15:37+00:00",
+      "title_ja": "逆さまの時計塔",
+      "work_id": "orig:20260819101537:8354eabe7a9728ee3407"
+    },
+    {
+      "generated_at": "2026-08-19T10:15:37+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260819101537:02244db7abc1bc0f7b71"
+    },
+    {
+      "generated_at": "2026-08-19T10:15:37+00:00",
+      "title_ja": "名前のない放課後の残響",
+      "work_id": "orig:20260819101537:8773125f27cf781ea09f"
+    },
     {
       "generated_at": "2026-08-19T08:20:58+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-18T18:17:47+00:00",
       "title_ja": "逆さまの放課後の修復士",
       "work_id": "orig:20260818181747:39877dfd620e3336187e"
-    },
-    {
-      "generated_at": "2026-08-18T18:17:47+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260818181747:14b1986fb2a6ca0983e7"
-    },
-    {
-      "generated_at": "2026-08-18T16:16:07+00:00",
-      "title_ja": "最後の灯台",
-      "work_id": "orig:20260818161607:70e45a4272e99bd0e1a7"
-    },
-    {
-      "generated_at": "2026-08-18T16:16:07+00:00",
-      "title_ja": "最後の証言者たち",
-      "work_id": "orig:20260818161607:01d80b362c11d168000b"
     }
   ],
-  "total_generated_works": 2070
+  "total_generated_works": 2073
 }
