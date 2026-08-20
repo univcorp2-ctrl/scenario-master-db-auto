@@ -1,12 +1,27 @@
 {
   "by_medium": {
-    "film": 118,
-    "manga": 1684,
+    "film": 120,
+    "manga": 1685,
     "novel": 164,
     "series": 128
   },
-  "generated_at": "2026-08-20T04:23:48+00:00",
+  "generated_at": "2026-08-20T06:22:02+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-20T06:22:02+00:00",
+      "title_ja": "透明な観測者",
+      "work_id": "orig:20260820062202:36803a40256903d262e8"
+    },
+    {
+      "generated_at": "2026-08-20T06:22:02+00:00",
+      "title_ja": "記録係家族の約束",
+      "work_id": "orig:20260820062202:aa06709d1a13cdc440b9"
+    },
+    {
+      "generated_at": "2026-08-20T06:22:02+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260820062202:5ff419307f551baf49da"
+    },
     {
       "generated_at": "2026-08-20T04:23:48+00:00",
       "title_ja": "眠らない放課後の灯台",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-19T14:21:02+00:00",
       "title_ja": "忘れられた残響",
       "work_id": "orig:20260819142102:2b9b1c40e8a8afd2fb9c"
-    },
-    {
-      "generated_at": "2026-08-19T14:21:02+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260819142102:52800a1522e44d960ee8"
-    },
-    {
-      "generated_at": "2026-08-19T12:18:06+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260819121806:b64bf97360195998a0dd"
-    },
-    {
-      "generated_at": "2026-08-19T12:18:06+00:00",
-      "title_ja": "月下の証言者たち",
-      "work_id": "orig:20260819121806:ef80e1bb41f934aba08b"
     }
   ],
-  "total_generated_works": 2094
+  "total_generated_works": 2097
 }
