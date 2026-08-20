@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-19T18:15:04+00:00`
+- Checked at UTC: `2026-08-20T00:27:51+00:00`
 - Master DB records: `591`
-- Generated concepts: `2085`
+- Generated concepts: `2088`
 
-## 最後の証言者たち
+## 月下の放課後の時計塔
 
-- Work ID: `orig:20260819181504:84e6b2db63a4455992ec`
-- Generated at UTC: `2026-08-19T18:15:04+00:00`
+- Work ID: `orig:20260820002751:023b459724bec70259c4`
+- Generated at UTC: `2026-08-20T00:27:51+00:00`
 - Medium: `manga`
-- Genre mix: Drama, Historical, Shounen, Horror
-- Logline: 失われた物語だけが通貨として流通する群島で、怪異専門の窓口で働く臆病な公務員が、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: truth and justice
+- Genre mix: Historical, Action, Award Winning, Comedy
+- Logline: 過去の選択を一度だけ郵送できる地方都市で、禁じられた物語を修復する若い司書が、人々の恐怖を燃料に成長する都市そのものに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 過去の選択を一度だけ郵送できる地方都市
+- Protagonist: 禁じられた物語を修復する若い司書
+- Antagonistic pressure: 人々の恐怖を燃料に成長する都市そのもの
+- Themes: coming of age
 - Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:642, jikan:manga:93753, jikan:manga:21499, jikan:manga:1469, jikan:manga:158
+jikan:manga:93753, jikan:manga:31, jikan:manga:904, jikan:manga:642, jikan:manga:7776
