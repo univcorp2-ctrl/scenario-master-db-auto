@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 120,
-    "manga": 1685,
+    "manga": 1687,
     "novel": 164,
-    "series": 128
+    "series": 129
   },
-  "generated_at": "2026-08-20T06:22:02+00:00",
+  "generated_at": "2026-08-20T08:22:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-20T08:22:08+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260820082208:a7373a4a1870d1c1ebf6"
+    },
+    {
+      "generated_at": "2026-08-20T08:22:08+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260820082208:efd792a029daa93eb310"
+    },
+    {
+      "generated_at": "2026-08-20T08:22:08+00:00",
+      "title_ja": "名前のない迷宮",
+      "work_id": "orig:20260820082208:27ecd787da617201b778"
+    },
     {
       "generated_at": "2026-08-20T06:22:02+00:00",
       "title_ja": "透明な観測者",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-19T16:16:15+00:00",
       "title_ja": "眠らない証言者たち",
       "work_id": "orig:20260819161615:44918015901da64d0def"
-    },
-    {
-      "generated_at": "2026-08-19T16:16:15+00:00",
-      "title_ja": "迷宮家族の約束",
-      "work_id": "orig:20260819161615:cf3a50860fc18126ba13"
-    },
-    {
-      "generated_at": "2026-08-19T14:21:02+00:00",
-      "title_ja": "忘れられた記録係",
-      "work_id": "orig:20260819142102:b27d1e3f6e1252f105b0"
-    },
-    {
-      "generated_at": "2026-08-19T14:21:02+00:00",
-      "title_ja": "忘れられた残響",
-      "work_id": "orig:20260819142102:2b9b1c40e8a8afd2fb9c"
     }
   ],
-  "total_generated_works": 2097
+  "total_generated_works": 2100
 }
