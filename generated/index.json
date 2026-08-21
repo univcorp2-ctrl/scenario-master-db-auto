@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 121,
-    "manga": 1708,
+    "manga": 1711,
     "novel": 167,
     "series": 131
   },
-  "generated_at": "2026-08-21T06:21:13+00:00",
+  "generated_at": "2026-08-21T08:23:29+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-21T08:23:29+00:00",
+      "title_ja": "透明な時計塔",
+      "work_id": "orig:20260821082329:22c09ac8bb625c097c1b"
+    },
+    {
+      "generated_at": "2026-08-21T08:23:29+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260821082329:7fa21e11451df4b2ff0f"
+    },
+    {
+      "generated_at": "2026-08-21T08:23:29+00:00",
+      "title_ja": "月下の灯台",
+      "work_id": "orig:20260821082329:8457d194318f0ea90ce6"
+    },
     {
       "generated_at": "2026-08-21T06:21:13+00:00",
       "title_ja": "最後の放課後の交渉人",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-20T16:18:55+00:00",
       "title_ja": "名前のない証言者たち",
       "work_id": "orig:20260820161855:1c139a6e24ab18e6175f"
-    },
-    {
-      "generated_at": "2026-08-20T16:18:55+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260820161855:fcee9eff9e15fc285a8a"
-    },
-    {
-      "generated_at": "2026-08-20T14:23:10+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260820142310:1b87ecb022a3dc49fdbd"
-    },
-    {
-      "generated_at": "2026-08-20T14:23:10+00:00",
-      "title_ja": "透明な放課後の調律師",
-      "work_id": "orig:20260820142310:144bcd14138c2b587697"
     }
   ],
-  "total_generated_works": 2127
+  "total_generated_works": 2130
 }
