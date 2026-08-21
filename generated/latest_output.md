@@ -1,20 +1,20 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-21T14:21:55+00:00`
+- Checked at UTC: `2026-08-21T16:17:29+00:00`
 - Master DB records: `591`
-- Generated concepts: `2139`
+- Generated concepts: `2142`
 
-## 二度目の観測者
+## 月下の修復士
 
-- Work ID: `orig:20260821142154:601e9055815e8ad4a210`
-- Generated at UTC: `2026-08-21T14:21:54+00:00`
+- Work ID: `orig:20260821161728:ffa62dc706c67ef0d566`
+- Generated at UTC: `2026-08-21T16:17:28+00:00`
 - Medium: `manga`
-- Genre mix: Action, Award Winning, Drama, Gore
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、他人の願いを翻訳できるが自分の夢を失った音楽家が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- Genre mix: Drama, Action, Comedy, Delinquents
+- Logline: 過去の選択を一度だけ郵送できる地方都市で、敗者の記憶を預かることになった元アスリートが、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
 - World: 過去の選択を一度だけ郵送できる地方都市
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Protagonist: 敗者の記憶を預かることになった元アスリート
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
 - Themes: identity, trust and betrayal
 - Hook tags: high concept, clear dilemma
 
@@ -24,4 +24,4 @@
 3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:23390
+jikan:manga:3575, jikan:manga:102343
