@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 120,
-    "manga": 1701,
-    "novel": 164,
+    "manga": 1703,
+    "novel": 165,
     "series": 130
   },
-  "generated_at": "2026-08-20T18:18:47+00:00",
+  "generated_at": "2026-08-21T00:30:40+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-21T00:30:40+00:00",
+      "title_ja": "眠らない放課後の時計塔",
+      "work_id": "orig:20260821003040:6ff2c27dbfb258c4a2c4"
+    },
+    {
+      "generated_at": "2026-08-21T00:30:40+00:00",
+      "title_ja": "最後の放課後の残響",
+      "work_id": "orig:20260821003040:98e6535d6554a22ccba4"
+    },
+    {
+      "generated_at": "2026-08-21T00:30:40+00:00",
+      "title_ja": "二度目の放課後の交渉人",
+      "work_id": "orig:20260821003040:1217c1431e7d4619e7e9"
+    },
     {
       "generated_at": "2026-08-20T18:18:47+00:00",
       "title_ja": "眠らない放課後の修復士",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-20T08:22:08+00:00",
       "title_ja": "逆さまの証言者たち",
       "work_id": "orig:20260820082208:efd792a029daa93eb310"
-    },
-    {
-      "generated_at": "2026-08-20T08:22:08+00:00",
-      "title_ja": "名前のない迷宮",
-      "work_id": "orig:20260820082208:27ecd787da617201b778"
-    },
-    {
-      "generated_at": "2026-08-20T06:22:02+00:00",
-      "title_ja": "透明な観測者",
-      "work_id": "orig:20260820062202:36803a40256903d262e8"
-    },
-    {
-      "generated_at": "2026-08-20T06:22:02+00:00",
-      "title_ja": "記録係家族の約束",
-      "work_id": "orig:20260820062202:aa06709d1a13cdc440b9"
     }
   ],
-  "total_generated_works": 2115
+  "total_generated_works": 2118
 }
