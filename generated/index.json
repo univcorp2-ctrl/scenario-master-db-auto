@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 122,
-    "manga": 1729,
+    "manga": 1732,
     "novel": 167,
     "series": 133
   },
-  "generated_at": "2026-08-22T02:44:33+00:00",
+  "generated_at": "2026-08-22T04:19:28+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-22T04:19:28+00:00",
+      "title_ja": "眠らない地図",
+      "work_id": "orig:20260822041928:c720e9f4fe337c4f6ecf"
+    },
+    {
+      "generated_at": "2026-08-22T04:19:28+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260822041928:761d6d57eef40fa0ea2b"
+    },
+    {
+      "generated_at": "2026-08-22T04:19:28+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260822041928:bc13287a86c7511dd4e1"
+    },
     {
       "generated_at": "2026-08-22T02:44:33+00:00",
       "title_ja": "眠らない迷宮",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-21T12:19:24+00:00",
       "title_ja": "逆さまの地図",
       "work_id": "orig:20260821121924:db798dbe3104e98f4c51"
-    },
-    {
-      "generated_at": "2026-08-21T12:19:24+00:00",
-      "title_ja": "眠らない記録係",
-      "work_id": "orig:20260821121924:21cfb072c588eeff1e16"
-    },
-    {
-      "generated_at": "2026-08-21T10:17:17+00:00",
-      "title_ja": "忘れられた証言者たち",
-      "work_id": "orig:20260821101717:2a2c95712418a9ea4fcf"
-    },
-    {
-      "generated_at": "2026-08-21T10:17:17+00:00",
-      "title_ja": "名前のない灯台",
-      "work_id": "orig:20260821101717:8e4f12750563a7ddbbba"
     }
   ],
-  "total_generated_works": 2151
+  "total_generated_works": 2154
 }
