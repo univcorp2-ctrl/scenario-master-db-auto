@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-22T16:08:49+00:00`
+- Checked at UTC: `2026-08-22T18:10:38+00:00`
 - Master DB records: `591`
-- Generated concepts: `2172`
+- Generated concepts: `2175`
 
-## 眠らない証言者たち
+## 二度目の証言者たち
 
-- Work ID: `orig:20260822160849:8e67a192f2433966a797`
-- Generated at UTC: `2026-08-22T16:08:49+00:00`
+- Work ID: `orig:20260822181038:b39e692705cb978892df`
+- Generated at UTC: `2026-08-22T18:10:38+00:00`
 - Medium: `manga`
-- Genre mix: Action, Fantasy, Historical, Mystery
-- Logline: 記憶を修理する職人ギルドがある王国で、禁じられた物語を修復する若い司書が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 禁じられた物語を修復する若い司書
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: truth and justice
+- Genre mix: Action, Fantasy, Super Power, Adventure
+- Logline: 怪異と行政手続きが共存する辺境の町で、怪異専門の窓口で働く臆病な公務員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
+- Themes: coming of age, truth and justice
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:3866
+jikan:manga:147171, jikan:manga:1097, jikan:manga:94376, jikan:manga:162733
