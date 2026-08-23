@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 123,
-    "manga": 1747,
-    "novel": 170,
+    "manga": 1748,
+    "novel": 172,
     "series": 135
   },
-  "generated_at": "2026-08-22T18:10:38+00:00",
+  "generated_at": "2026-08-23T00:30:08+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-23T00:30:08+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260823003008:35925ae49e4f3df1c0aa"
+    },
+    {
+      "generated_at": "2026-08-23T00:30:08+00:00",
+      "title_ja": "逆さまの記録係",
+      "work_id": "orig:20260823003008:51c64f5b6b6d44439e89"
+    },
+    {
+      "generated_at": "2026-08-23T00:30:08+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260823003008:6b9a7e0fc80f4cf55437"
+    },
     {
       "generated_at": "2026-08-22T18:10:38+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-22T08:14:23+00:00",
       "title_ja": "透明な放課後の調律師",
       "work_id": "orig:20260822081423:bdb119f850db8464ab6f"
-    },
-    {
-      "generated_at": "2026-08-22T08:14:23+00:00",
-      "title_ja": "月下の修復士",
-      "work_id": "orig:20260822081423:a46ccbf52bdca3b5d810"
-    },
-    {
-      "generated_at": "2026-08-22T06:17:15+00:00",
-      "title_ja": "名前のない修復士",
-      "work_id": "orig:20260822061715:e5ab6f45630c74bcab4d"
-    },
-    {
-      "generated_at": "2026-08-22T06:17:15+00:00",
-      "title_ja": "眠らない観測者",
-      "work_id": "orig:20260822061715:24a453c6530368c131e9"
     }
   ],
-  "total_generated_works": 2175
+  "total_generated_works": 2178
 }
