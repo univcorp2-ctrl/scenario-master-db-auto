@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-23T04:25:02+00:00`
+- Checked at UTC: `2026-08-23T06:18:50+00:00`
 - Master DB records: `591`
-- Generated concepts: `2184`
+- Generated concepts: `2187`
 
-## 眠らない証言者たち
+## 逆さまの放課後の灯台
 
-- Work ID: `orig:20260823042502:9e1b84c129844bf6ef0d`
-- Generated at UTC: `2026-08-23T04:25:02+00:00`
-- Medium: `film`
-- Genre mix: Action, Detective, Mystery, Seinen
-- Logline: 過去の選択を一度だけ郵送できる地方都市で、未来の自分から届く失敗報告だけを頼りに動く配達員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 過去の選択を一度だけ郵送できる地方都市
-- Protagonist: 未来の自分から届く失敗報告だけを頼りに動く配達員
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: truth and justice, coming of age
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260823061849:0ea7433d458e9f39a7c8`
+- Generated at UTC: `2026-08-23T06:18:49+00:00`
+- Medium: `manga`
+- Genre mix: Comedy, School, Shounen, Supernatural
+- Logline: 感情が公共インフラとして数値化される都市で、怪異専門の窓口で働く臆病な公務員が、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 感情が公共インフラとして数値化される都市
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
+- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
+1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:56529, jikan:manga:35243
+jikan:manga:163455
