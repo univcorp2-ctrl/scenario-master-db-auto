@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-23T18:10:41+00:00`
+- Checked at UTC: `2026-08-24T00:29:12+00:00`
 - Master DB records: `591`
-- Generated concepts: `2205`
+- Generated concepts: `2208`
 
-## 二度目の証言者たち
+## 二度目の地図
 
-- Work ID: `orig:20260823181041:5f77f9e9512248e3584e`
-- Generated at UTC: `2026-08-23T18:10:41+00:00`
-- Medium: `film`
-- Genre mix: Shounen, Fantasy, Action, Comedy
-- Logline: 失われた物語だけが通貨として流通する群島で、敗者の記憶を預かることになった元アスリートが、善意で世界を単純化しようとする改革者に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 失われた物語だけが通貨として流通する群島
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 善意で世界を単純化しようとする改革者
-- Themes: coming of age, truth and justice
-- Hook tags: top-ranked manga
+- Work ID: `orig:20260824002911:29136d749ec7be8d19c5`
+- Generated at UTC: `2026-08-24T00:29:11+00:00`
+- Medium: `manga`
+- Genre mix: Action, Fantasy, Mythology, Shounen
+- Logline: 怪異と行政手続きが共存する辺境の町で、嘘を見抜けるが自分の本心だけ読めない新人調査官が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 怪異と行政手続きが共存する辺境の町
+- Protagonist: 嘘を見抜けるが自分の本心だけ読めない新人調査官
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: identity, trust and betrayal
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 失われた物語だけが通貨として流通する群島の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:91209, jikan:manga:7519, jikan:manga:21054, jikan:manga:34053, jikan:manga:16593
+jikan:manga:24692
