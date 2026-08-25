@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 127,
-    "manga": 1786,
+    "manga": 1789,
     "novel": 181,
     "series": 141
   },
-  "generated_at": "2026-08-24T18:20:23+00:00",
+  "generated_at": "2026-08-25T00:28:50+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-25T00:28:50+00:00",
+      "title_ja": "最後の放課後の観測者",
+      "work_id": "orig:20260825002850:eb9cc1e0dde6d1a509c7"
+    },
+    {
+      "generated_at": "2026-08-25T00:28:50+00:00",
+      "title_ja": "透明な放課後の交渉人",
+      "work_id": "orig:20260825002850:a6c5f24afe7c6edfecab"
+    },
+    {
+      "generated_at": "2026-08-25T00:28:50+00:00",
+      "title_ja": "月下の記録係",
+      "work_id": "orig:20260825002850:aaf1e58eae825785f52f"
+    },
     {
       "generated_at": "2026-08-24T18:20:23+00:00",
       "title_ja": "透明な証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-24T08:33:28+00:00",
       "title_ja": "月下の放課後の地図",
       "work_id": "orig:20260824083328:a39bc5a878436cd779f8"
-    },
-    {
-      "generated_at": "2026-08-24T08:33:28+00:00",
-      "title_ja": "眠らない修復士",
-      "work_id": "orig:20260824083328:51b044ed854a998a3707"
-    },
-    {
-      "generated_at": "2026-08-24T06:30:24+00:00",
-      "title_ja": "最後の放課後の調律師",
-      "work_id": "orig:20260824063024:59937a6d987f4cba0ea1"
-    },
-    {
-      "generated_at": "2026-08-24T06:30:24+00:00",
-      "title_ja": "透明な修復士",
-      "work_id": "orig:20260824063024:d9914909657a5b9ef934"
     }
   ],
-  "total_generated_works": 2235
+  "total_generated_works": 2238
 }
