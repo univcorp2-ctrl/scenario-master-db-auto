@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-26T04:27:33+00:00`
+- Checked at UTC: `2026-08-26T06:24:16+00:00`
 - Master DB records: `591`
-- Generated concepts: `2274`
+- Generated concepts: `2277`
 
-## 月下の迷宮
+## 二度目の放課後の記録係
 
-- Work ID: `orig:20260826042733:ed495b895cbe07be1be3`
-- Generated at UTC: `2026-08-26T04:27:33+00:00`
+- Work ID: `orig:20260826062416:29b06183b3893656b754`
+- Generated at UTC: `2026-08-26T06:24:16+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Action, Adventure, Gore
-- Logline: 記憶を修理する職人ギルドがある王国で、他人の願いを翻訳できるが自分の夢を失った音楽家が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
-- Protagonist: 他人の願いを翻訳できるが自分の夢を失った音楽家
+- Genre mix: Drama, Award Winning, Music, Romance
+- Logline: 過去の選択を一度だけ郵送できる地方都市で、怪異専門の窓口で働く臆病な公務員が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 過去の選択を一度だけ郵送できる地方都市
+- Protagonist: 怪異専門の窓口で働く臆病な公務員
 - Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
-- Themes: identity, trust and betrayal
-- Hook tags: high concept, clear dilemma
+- Themes: coming of age
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 過去の選択を一度だけ郵送できる地方都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. inner/social pressureが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:44523, jikan:manga:583, jikan:manga:165540
+jikan:manga:145, jikan:manga:8967
