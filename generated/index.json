@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 133,
-    "manga": 1833,
-    "novel": 186,
+    "manga": 1835,
+    "novel": 187,
     "series": 143
   },
-  "generated_at": "2026-08-26T19:27:45+00:00",
+  "generated_at": "2026-08-27T05:14:48+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-27T05:14:48+00:00",
+      "title_ja": "眠らない証言者たち",
+      "work_id": "orig:20260827051448:bd71269bc97a73eb4d3c"
+    },
+    {
+      "generated_at": "2026-08-27T05:14:48+00:00",
+      "title_ja": "月下の放課後の迷宮",
+      "work_id": "orig:20260827051448:bd2270484a9cdcc885c5"
+    },
+    {
+      "generated_at": "2026-08-27T05:14:48+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260827051448:9db8149647e302acd515"
+    },
     {
       "generated_at": "2026-08-26T19:27:45+00:00",
       "title_ja": "二度目の交渉人",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-26T08:27:20+00:00",
       "title_ja": "月下の放課後の観測者",
       "work_id": "orig:20260826082720:7a0d8045f4376d2476d0"
-    },
-    {
-      "generated_at": "2026-08-26T08:27:20+00:00",
-      "title_ja": "透明な時計塔",
-      "work_id": "orig:20260826082720:e327ef4cb6970d0605a8"
-    },
-    {
-      "generated_at": "2026-08-26T06:24:16+00:00",
-      "title_ja": "二度目の放課後の記録係",
-      "work_id": "orig:20260826062416:29b06183b3893656b754"
-    },
-    {
-      "generated_at": "2026-08-26T06:24:16+00:00",
-      "title_ja": "忘れられた放課後の記録係",
-      "work_id": "orig:20260826062416:347faf8800f35fa45cb7"
     }
   ],
-  "total_generated_works": 2295
+  "total_generated_works": 2298
 }
