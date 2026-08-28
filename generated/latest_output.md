@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-28T01:49:24+00:00`
+- Checked at UTC: `2026-08-28T13:26:18+00:00`
 - Master DB records: `591`
-- Generated concepts: `2304`
+- Generated concepts: `2307`
 
-## 最後の交渉人
+## 忘れられた証言者たち
 
-- Work ID: `orig:20260828014924:f51cf0b1c7837720e425`
-- Generated at UTC: `2026-08-28T01:49:24+00:00`
+- Work ID: `orig:20260828132618:dc5bbfd66346523cf7e8`
+- Generated at UTC: `2026-08-28T13:26:18+00:00`
 - Medium: `manga`
-- Genre mix: Comedy, Mythology, Romance, Shoujo
-- Logline: 感情が公共インフラとして数値化される都市で、敗者の記憶を預かることになった元アスリートが、秩序を守る名目で個人の記憶を標準化する組織に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 感情が公共インフラとして数値化される都市
-- Protagonist: 敗者の記憶を預かることになった元アスリート
-- Antagonistic pressure: 秩序を守る名目で個人の記憶を標準化する組織
-- Themes: identity, trust and betrayal
-- Hook tags: high concept, clear dilemma
+- Genre mix: Fantasy, Horror, Mystery, Psychological
+- Logline: 夢の記録が裁判証拠になる近未来で、誰からも忘れられる体質を利用して事件を解く学生が、成功者だけを英雄化し、失敗の記録を消す社会制度に抗いながら、失われた選択の意味を取り戻す物語。
+- World: 夢の記録が裁判証拠になる近未来
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 成功者だけを英雄化し、失敗の記録を消す社会制度
+- Themes: truth and justice
+- Hook tags: top-ranked manga
 
 ### Three-act structure
-1. 感情が公共インフラとして数値化される都市の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. relationship/choiceが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、identityを共同体の選択として提示する。
+1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. mystery/revelationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+3. 主人公は勝利条件を変える決断をし、truth and justiceを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:8157, jikan:manga:141120
+jikan:manga:79993, jikan:manga:1303
