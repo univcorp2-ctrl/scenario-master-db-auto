@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 134,
-    "manga": 1847,
+    "manga": 1849,
     "novel": 188,
-    "series": 144
+    "series": 145
   },
-  "generated_at": "2026-08-29T04:25:33+00:00",
+  "generated_at": "2026-08-29T11:50:06+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-29T11:50:06+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260829115006:6927d9c83a4fadeafa47"
+    },
+    {
+      "generated_at": "2026-08-29T11:50:06+00:00",
+      "title_ja": "月下の証言者たち",
+      "work_id": "orig:20260829115006:3c0d540fa5b885cfeedb"
+    },
+    {
+      "generated_at": "2026-08-29T11:50:06+00:00",
+      "title_ja": "名前のない逃亡者",
+      "work_id": "orig:20260829115006:10c6458ef6001cbd13c7"
+    },
     {
       "generated_at": "2026-08-29T04:25:33+00:00",
       "title_ja": "逆さまの証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-27T05:14:48+00:00",
       "title_ja": "月下の放課後の迷宮",
       "work_id": "orig:20260827051448:bd2270484a9cdcc885c5"
-    },
-    {
-      "generated_at": "2026-08-27T05:14:48+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260827051448:9db8149647e302acd515"
-    },
-    {
-      "generated_at": "2026-08-26T19:27:45+00:00",
-      "title_ja": "二度目の交渉人",
-      "work_id": "orig:20260826192745:95bf710b28394ecc1196"
-    },
-    {
-      "generated_at": "2026-08-26T19:27:45+00:00",
-      "title_ja": "逆さまの証言者たち",
-      "work_id": "orig:20260826192745:8ea554fba463cf816652"
     }
   ],
-  "total_generated_works": 2313
+  "total_generated_works": 2316
 }
