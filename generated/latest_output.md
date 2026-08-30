@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-08-29T18:56:57+00:00`
+- Checked at UTC: `2026-08-30T07:34:23+00:00`
 - Master DB records: `591`
-- Generated concepts: `2322`
+- Generated concepts: `2325`
 
-## 二度目の証言者たち
+## 月下の放課後の修復士
 
-- Work ID: `orig:20260829185657:9d172d9630ce1f3cd944`
-- Generated at UTC: `2026-08-29T18:56:57+00:00`
+- Work ID: `orig:20260830073423:834e1048b144674d3500`
+- Generated at UTC: `2026-08-30T07:34:23+00:00`
 - Medium: `manga`
-- Genre mix: Fantasy, Adventure, Childcare, Action
-- Logline: 記憶を修理する職人ギルドがある王国で、誰からも忘れられる体質を利用して事件を解く学生が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 記憶を修理する職人ギルドがある王国
+- Genre mix: School, Shounen, Comedy, Action
+- Logline: 夢の記録が裁判証拠になる近未来で、誰からも忘れられる体質を利用して事件を解く学生が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 夢の記録が裁判証拠になる近未来
 - Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: coming of age, truth and justice
-- Hook tags: top-ranked manga
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: coming of age
+- Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 記憶を修理する職人ギルドがある王国の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
-2. quest/journeyが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
+1. 夢の記録が裁判証拠になる近未来の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+2. social frictionが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
 3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:178182, jikan:manga:1097, jikan:manga:48621, jikan:manga:62023
+jikan:manga:91514, jikan:manga:39883, jikan:manga:93753, jikan:manga:42451, jikan:manga:108566

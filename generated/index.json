@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 134,
-    "manga": 1855,
+    "manga": 1858,
     "novel": 188,
     "series": 145
   },
-  "generated_at": "2026-08-29T18:56:57+00:00",
+  "generated_at": "2026-08-30T07:34:23+00:00",
   "latest": [
+    {
+      "generated_at": "2026-08-30T07:34:23+00:00",
+      "title_ja": "月下の放課後の修復士",
+      "work_id": "orig:20260830073423:834e1048b144674d3500"
+    },
+    {
+      "generated_at": "2026-08-30T07:34:23+00:00",
+      "title_ja": "二度目の証言者たち",
+      "work_id": "orig:20260830073423:5776b2807c295a84524c"
+    },
+    {
+      "generated_at": "2026-08-30T07:34:23+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260830073423:492ae815f1d5fcab9b12"
+    },
     {
       "generated_at": "2026-08-29T18:56:57+00:00",
       "title_ja": "二度目の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-28T13:26:18+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260828132618:57247dd376f9b230a785"
-    },
-    {
-      "generated_at": "2026-08-28T13:26:18+00:00",
-      "title_ja": "最後の灯台",
-      "work_id": "orig:20260828132618:c18b916f9b39e2d6988d"
-    },
-    {
-      "generated_at": "2026-08-28T01:49:24+00:00",
-      "title_ja": "最後の交渉人",
-      "work_id": "orig:20260828014924:f51cf0b1c7837720e425"
-    },
-    {
-      "generated_at": "2026-08-28T01:49:24+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260828014924:cd90d9c7d28c0c56b945"
     }
   ],
-  "total_generated_works": 2322
+  "total_generated_works": 2325
 }
