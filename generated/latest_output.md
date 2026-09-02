@@ -1,27 +1,27 @@
 # Latest automated output
 
 - Health status: **ok**
-- Checked at UTC: `2026-09-01T18:55:20+00:00`
+- Checked at UTC: `2026-09-02T01:34:55+00:00`
 - Master DB records: `591`
-- Generated concepts: `2358`
+- Generated concepts: `2361`
 
-## 透明な放課後の修復士
+## 残響家族の約束
 
-- Work ID: `orig:20260901185520:d70e012040656e351bfd`
-- Generated at UTC: `2026-09-01T18:55:20+00:00`
+- Work ID: `orig:20260902013455:e1588d64ca34739aa427`
+- Generated at UTC: `2026-09-02T01:34:55+00:00`
 - Medium: `manga`
-- Genre mix: Award Winning, Romance, School, Shoujo
-- Logline: 怪異と行政手続きが共存する辺境の町で、怪異専門の窓口で働く臆病な公務員が、過去の約束を債務として取り立てる契約機関に抗いながら、失われた選択の意味を取り戻す物語。
-- World: 怪異と行政手続きが共存する辺境の町
-- Protagonist: 怪異専門の窓口で働く臆病な公務員
-- Antagonistic pressure: 過去の約束を債務として取り立てる契約機関
-- Themes: coming of age
+- Genre mix: Action, Fantasy, Comedy, Shounen
+- Logline: 宇宙移民船の中に再現された古い商店街で、誰からも忘れられる体質を利用して事件を解く学生が、主人公の選択を先回りして封じる予測アルゴリズムに抗いながら、失われた選択の意味を取り戻す物語。
+- World: 宇宙移民船の中に再現された古い商店街
+- Protagonist: 誰からも忘れられる体質を利用して事件を解く学生
+- Antagonistic pressure: 主人公の選択を先回りして封じる予測アルゴリズム
+- Themes: family bonds
 - Hook tags: high concept, clear dilemma
 
 ### Three-act structure
-1. 怪異と行政手続きが共存する辺境の町の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
+1. 宇宙移民船の中に再現された古い商店街の日常と欠陥を見せ、主人公が取り返しのつかない依頼を受ける。
 2. physical confrontationが拡大し、味方の秘密と社会制度の矛盾が明らかになる。
-3. 主人公は勝利条件を変える決断をし、coming of ageを共同体の選択として提示する。
+3. 主人公は勝利条件を変える決断をし、family bondsを共同体の選択として提示する。
 
 ### Source pattern IDs
-jikan:manga:3378
+jikan:manga:98436, jikan:manga:119161, jikan:manga:163116, jikan:manga:96044
