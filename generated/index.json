@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 136,
-    "manga": 1890,
+    "manga": 1893,
     "novel": 189,
     "series": 146
   },
-  "generated_at": "2026-09-02T01:34:55+00:00",
+  "generated_at": "2026-09-02T06:30:23+00:00",
   "latest": [
+    {
+      "generated_at": "2026-09-02T06:30:23+00:00",
+      "title_ja": "名前のない放課後の観測者",
+      "work_id": "orig:20260902063023:4011a74b353ec947502e"
+    },
+    {
+      "generated_at": "2026-09-02T06:30:23+00:00",
+      "title_ja": "月下の交渉人",
+      "work_id": "orig:20260902063023:aaaca050d7700a44565f"
+    },
+    {
+      "generated_at": "2026-09-02T06:30:23+00:00",
+      "title_ja": "名前のない記録係",
+      "work_id": "orig:20260902063023:e2a8bb14ed1b89ca4905"
+    },
     {
       "generated_at": "2026-09-02T01:34:55+00:00",
       "title_ja": "残響家族の約束",
@@ -91,22 +106,7 @@
       "generated_at": "2026-08-31T21:09:16+00:00",
       "title_ja": "月下の証言者たち",
       "work_id": "orig:20260831210916:1a5ec9015a81ec2e4ba2"
-    },
-    {
-      "generated_at": "2026-08-31T21:09:16+00:00",
-      "title_ja": "透明な放課後の観測者",
-      "work_id": "orig:20260831210916:2f315c7661e1af7dfd9f"
-    },
-    {
-      "generated_at": "2026-08-31T15:33:43+00:00",
-      "title_ja": "忘れられた放課後の修復士",
-      "work_id": "orig:20260831153343:c609aed3245e32ced27f"
-    },
-    {
-      "generated_at": "2026-08-31T15:33:43+00:00",
-      "title_ja": "逆さまの迷宮",
-      "work_id": "orig:20260831153343:f44c58b42a54121707c1"
     }
   ],
-  "total_generated_works": 2361
+  "total_generated_works": 2364
 }
