@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 137,
-    "manga": 1906,
+    "manga": 1908,
     "novel": 189,
-    "series": 147
+    "series": 148
   },
-  "generated_at": "2026-09-03T06:34:09+00:00",
+  "generated_at": "2026-09-03T12:17:40+00:00",
   "latest": [
+    {
+      "generated_at": "2026-09-03T12:17:40+00:00",
+      "title_ja": "逆さまの放課後の灯台",
+      "work_id": "orig:20260903121740:51942e5d7175816ececf"
+    },
+    {
+      "generated_at": "2026-09-03T12:17:40+00:00",
+      "title_ja": "眠らない残響",
+      "work_id": "orig:20260903121740:da1c99b1e95b986c2180"
+    },
+    {
+      "generated_at": "2026-09-03T12:17:40+00:00",
+      "title_ja": "最後の証言者たち",
+      "work_id": "orig:20260903121740:303bc94a285cca9fff43"
+    },
     {
       "generated_at": "2026-09-03T06:34:09+00:00",
       "title_ja": "透明な地図",
@@ -91,22 +106,7 @@
       "generated_at": "2026-09-02T06:30:23+00:00",
       "title_ja": "月下の交渉人",
       "work_id": "orig:20260902063023:aaaca050d7700a44565f"
-    },
-    {
-      "generated_at": "2026-09-02T06:30:23+00:00",
-      "title_ja": "名前のない記録係",
-      "work_id": "orig:20260902063023:e2a8bb14ed1b89ca4905"
-    },
-    {
-      "generated_at": "2026-09-02T01:34:55+00:00",
-      "title_ja": "残響家族の約束",
-      "work_id": "orig:20260902013455:e1588d64ca34739aa427"
-    },
-    {
-      "generated_at": "2026-09-02T01:34:55+00:00",
-      "title_ja": "最後の放課後の迷宮",
-      "work_id": "orig:20260902013455:9406ff58c37d91609d5e"
     }
   ],
-  "total_generated_works": 2379
+  "total_generated_works": 2382
 }
