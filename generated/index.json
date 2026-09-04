@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 137,
-    "manga": 1916,
+    "manga": 1919,
     "novel": 190,
     "series": 148
   },
-  "generated_at": "2026-09-04T01:32:14+00:00",
+  "generated_at": "2026-09-04T06:36:09+00:00",
   "latest": [
+    {
+      "generated_at": "2026-09-04T06:36:09+00:00",
+      "title_ja": "名前のない調律師",
+      "work_id": "orig:20260904063609:de1a1ba9cbbef68332a0"
+    },
+    {
+      "generated_at": "2026-09-04T06:36:09+00:00",
+      "title_ja": "名前のない放課後の観測者",
+      "work_id": "orig:20260904063609:8168ca55c343dc95ee1f"
+    },
+    {
+      "generated_at": "2026-09-04T06:36:09+00:00",
+      "title_ja": "逆さまの証言者たち",
+      "work_id": "orig:20260904063609:e576c268033bc1252a6b"
+    },
     {
       "generated_at": "2026-09-04T01:32:14+00:00",
       "title_ja": "忘れられた証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-09-03T01:38:31+00:00",
       "title_ja": "逆さまの修復士",
       "work_id": "orig:20260903013831:b05b80191645d0d4bae2"
-    },
-    {
-      "generated_at": "2026-09-03T01:38:31+00:00",
-      "title_ja": "名前のない証言者たち",
-      "work_id": "orig:20260903013831:013ced118cda5ac5d181"
-    },
-    {
-      "generated_at": "2026-09-02T20:11:22+00:00",
-      "title_ja": "忘れられた灯台",
-      "work_id": "orig:20260902201122:723fef3a2f3c25f40e17"
-    },
-    {
-      "generated_at": "2026-09-02T20:11:22+00:00",
-      "title_ja": "透明な証言者たち",
-      "work_id": "orig:20260902201122:da99cba9b110fe440b61"
     }
   ],
-  "total_generated_works": 2391
+  "total_generated_works": 2394
 }
