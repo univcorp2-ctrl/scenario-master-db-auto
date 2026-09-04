@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 137,
-    "manga": 1913,
+    "manga": 1916,
     "novel": 190,
     "series": 148
   },
-  "generated_at": "2026-09-03T20:11:44+00:00",
+  "generated_at": "2026-09-04T01:32:14+00:00",
   "latest": [
+    {
+      "generated_at": "2026-09-04T01:32:14+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260904013214:980a61845b32649df30d"
+    },
+    {
+      "generated_at": "2026-09-04T01:32:14+00:00",
+      "title_ja": "忘れられた証言者たち",
+      "work_id": "orig:20260904013214:c38a9f0e850daf890394"
+    },
+    {
+      "generated_at": "2026-09-04T01:32:14+00:00",
+      "title_ja": "透明な証言者たち",
+      "work_id": "orig:20260904013214:a0c6036b165529b4b6e1"
+    },
     {
       "generated_at": "2026-09-03T20:11:44+00:00",
       "title_ja": "最後の証言者たち",
@@ -91,22 +106,7 @@
       "generated_at": "2026-09-02T20:11:22+00:00",
       "title_ja": "透明な証言者たち",
       "work_id": "orig:20260902201122:da99cba9b110fe440b61"
-    },
-    {
-      "generated_at": "2026-09-02T20:11:22+00:00",
-      "title_ja": "月下の観測者",
-      "work_id": "orig:20260902201122:3df44f0959aba913a0df"
-    },
-    {
-      "generated_at": "2026-09-02T17:27:53+00:00",
-      "title_ja": "透明な灯台",
-      "work_id": "orig:20260902172753:c70e8b57311e6d6e9cb0"
-    },
-    {
-      "generated_at": "2026-09-02T17:27:53+00:00",
-      "title_ja": "最後の放課後の逃亡者",
-      "work_id": "orig:20260902172753:10eb6a1f651a4d832317"
     }
   ],
-  "total_generated_works": 2388
+  "total_generated_works": 2391
 }
