@@ -1,12 +1,27 @@
 {
   "by_medium": {
     "film": 137,
-    "manga": 1919,
+    "manga": 1922,
     "novel": 190,
     "series": 148
   },
-  "generated_at": "2026-09-04T06:36:09+00:00",
+  "generated_at": "2026-09-04T12:18:26+00:00",
   "latest": [
+    {
+      "generated_at": "2026-09-04T12:18:26+00:00",
+      "title_ja": "二度目の迷宮",
+      "work_id": "orig:20260904121826:6575f9bf55281d6d775d"
+    },
+    {
+      "generated_at": "2026-09-04T12:18:26+00:00",
+      "title_ja": "二度目の放課後の記録係",
+      "work_id": "orig:20260904121826:5f084eedf9838e23464e"
+    },
+    {
+      "generated_at": "2026-09-04T12:18:26+00:00",
+      "title_ja": "名前のない逃亡者",
+      "work_id": "orig:20260904121826:49540b36ccc8535f7a9c"
+    },
     {
       "generated_at": "2026-09-04T06:36:09+00:00",
       "title_ja": "名前のない調律師",
@@ -91,22 +106,7 @@
       "generated_at": "2026-09-03T06:34:09+00:00",
       "title_ja": "忘れられた証言者たち",
       "work_id": "orig:20260903063409:c83afed27cbe505284f5"
-    },
-    {
-      "generated_at": "2026-09-03T06:34:09+00:00",
-      "title_ja": "二度目の時計塔",
-      "work_id": "orig:20260903063409:9b8b3f7d42df57d080d5"
-    },
-    {
-      "generated_at": "2026-09-03T01:38:31+00:00",
-      "title_ja": "忘れられた放課後の調律師",
-      "work_id": "orig:20260903013831:36037f396e34f6c27f7e"
-    },
-    {
-      "generated_at": "2026-09-03T01:38:31+00:00",
-      "title_ja": "逆さまの修復士",
-      "work_id": "orig:20260903013831:b05b80191645d0d4bae2"
     }
   ],
-  "total_generated_works": 2394
+  "total_generated_works": 2397
 }
